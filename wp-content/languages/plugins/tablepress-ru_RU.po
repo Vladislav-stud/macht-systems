@@ -1,0 +1,1861 @@
+# Translation of Plugins - TablePress &#8211; Tables in WordPress made easy - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - TablePress &#8211; Tables in WordPress made easy - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-03-25 13:42:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - TablePress &#8211; Tables in WordPress made easy - Stable (latest release)\n"
+
+#: admin/js/build/list.js:1 admin/js/list/screen.jsx:94
+msgid "Table Shortcode"
+msgstr "Шорткод таблицы"
+
+#: admin/js/build/list.js:1 admin/js/list/screen.jsx:56
+msgid "Open the preview in a new tab"
+msgstr "Открыть предпросмотр в новой вкладке"
+
+#: admin/js/build/edit.js:1 admin/js/build/list.js:1
+#: admin/js/edit/other-actions.js:69 admin/js/list/screen.jsx:164
+msgid "Deleting a table is permanent and can not be undone!"
+msgstr "Удаление таблицы нельзя будет отменить!"
+
+#: admin/js/build/edit.js:1 admin/js/common/help.jsx:44
+msgid "Help"
+msgstr "Помощь"
+
+#: admin/js/build/edit.js:1 admin/js/build/list.js:1
+#: admin/js/edit/table-information.js:123 admin/js/list/screen.jsx:114
+msgid "Copy Shortcode to clipboard"
+msgstr "Скопировать шорткод в буфер обмена"
+
+#: admin/js/build/edit.js:1 admin/js/build/list.js:1
+#: admin/js/edit/table-information.js:43 admin/js/list/screen.jsx:83
+msgid "Copied Shortcode to clipboard."
+msgstr "Шорткод скопирован в буфер обмена."
+
+#: views/view-list.php:261
+msgid "You can now <a href=\"%1$s\">edit the copied table</a>, which has the table ID “%2$s”."
+msgstr "Теперь можно <a href=\"%1$s\">редактировать скопированную таблицу</a> c ID “%2$s”."
+
+#: views/view-about.php:81
+msgid "You can embed the tables into posts, pages, or other site areas using a block in the block editor, a widget in the Elementor page builder, or a Shortcode."
+msgstr "Вы можете встраивать таблицы в записи, страницы или другие области сайта, используя блок в редакторе блоков, виджет в конструкторе страниц Elementor или шорткод."
+
+#: views/class-all-tables-list-table.php:239 admin/js/build/edit.js:1
+#: admin/js/edit/other-actions.js:140
+msgid "Delete “%1$s” (ID %2$s)"
+msgstr "Удалить “%1$s” (ID %2$s)"
+
+#: controllers/controller-admin_ajax.php:296 views/view-about.php:111
+#: views/view-edit.php:466 views/view-list.php:356
+#: views/view-preview_table.php:70
+msgid "To insert a table into a post or page, add a “%1$s” widget in the Elementor editor and select the desired table."
+msgstr "Чтобы вставить таблицу в запись или страницу, добавьте виджет “%1$s” в редакторе Elementor и укажите нужную таблицу."
+
+#: classes/class-tablepress.php:1038
+msgid "Get email notifications when certain actions are performed on tables."
+msgstr "Получайте уведомления по электронной почте, когда над таблицами выполняются определенные действия."
+
+#: classes/class-tablepress.php:1037
+msgid "Email Notifications"
+msgstr "Уведомления письмами"
+
+#: classes/class-elementor-widget-table.php:213
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: classes/class-elementor-widget-table.php:121
+msgid "Upgrade Now"
+msgstr "Повысить тариф"
+
+#: classes/class-elementor-widget-table.php:119
+msgid "Check out the TablePress premium versions and give your tables super powers!"
+msgstr "Ознакомьтесь с премиум-тарифами TablePress и наделите свои таблицы сверхспособностями!"
+
+#: classes/class-elementor-widget-table.php:117
+#: classes/class-elementor-widget-table.php:118
+msgid "Upgrade to TablePress Pro!"
+msgstr "Перейти на TablePress Pro!"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:253
+msgid "Import Type"
+msgstr "Тип импорта"
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:43
+msgid "— Select —"
+msgstr "— Выбрать —"
+
+#: views/view-list.php:150
+msgid "For technical reasons, some or all features of these outdated plugins <strong>do no longer work with TablePress 3</strong>:"
+msgstr "По техническим причинам некоторые или все функции этих устаревших плагинов <strong>больше не работают с TablePress 3</strong>:"
+
+#: controllers/controller-admin.php:467
+msgid "<strong>The plugin does no longer work with TablePress 3</strong> and will no longer receive updates or support!"
+msgstr "<strong>Плагин больше не работает с TablePress 3</strong> и больше не поддерживается!"
+
+#: classes/class-tablepress.php:975
+msgid "Customize the pagination settings of the table."
+msgstr "Настройка параметров разбивки таблицы на отдельные страницы."
+
+#: classes/class-tablepress.php:974
+msgid "Advanced Pagination Settings"
+msgstr "Расширенные настройки разбивки на страницы"
+
+#: classes/class-tablepress.php:966
+msgid "Turn the filtering into a search and hide the table if no search term is entered."
+msgstr "Превратите фильтрацию в механизм поиска, скрыв таблицу, пока поисковый запрос не введён."
+
+#: classes/class-tablepress.php:965
+msgid "Inverted Filtering"
+msgstr "Инвертированная фильтрация"
+
+#: classes/class-tablepress.php:948
+msgid "Customize the layout and position of features around a table."
+msgstr "Настройка расположения элементов вокруг таблицы."
+
+#: classes/class-tablepress.php:947
+msgid "Table Layout"
+msgstr "Макет таблицы"
+
+#: classes/class-tablepress.php:926
+msgid "Index Column"
+msgstr "Столбец индекса"
+
+#: classes/class-tablepress.php:899
+msgid "User Action Buttons"
+msgstr "Кнопки действий пользователей"
+
+#: views/view-list.php:193
+msgid "Use the promo code %1$s during the checkout process for a special offer!"
+msgstr "Используйте промо-код %1$s при оформлении заказа для получения специального предложения!"
+
+#: controllers/controller-admin.php:470
+msgid "<a href=\"%s\">Find out what you can do to continue using its features!</a>"
+msgstr "<a href=\"%s\">Узнайте, что можно сделать, чтобы продолжать использовать его функции!</a>"
+
+#: controllers/controller-admin.php:469
+msgid "Keeping it activated can lead to errors on your website!"
+msgstr "Его активация может привести к ошибкам на вашем сайте!"
+
+#: controllers/controller-admin.php:465
+msgid "This TablePress Extension was retired."
+msgstr "Это расширение TablePress было удалено."
+
+#: views/view-list.php:198
+msgid "Important Notice!"
+msgstr "Важно!"
+
+#: views/view-list.php:194
+msgid "Upgrade to a TablePress Premium version now!"
+msgstr "Обновите TablePress до премиум-версии прямо сейчас!"
+
+#: views/view-list.php:193
+msgid "And the best: %s"
+msgstr "И самое лучшее: %s"
+
+#: views/view-list.php:191
+msgid "Priority email support!"
+msgstr "Приоритетную поддержку по электропочте!"
+
+#: views/view-list.php:190
+msgid "Regular updates that ensure compatibility with WordPress!"
+msgstr "Регулярные обновления, обеспечивающие совместимость с WordPress!"
+
+#: views/view-list.php:189
+msgid "Direct integration into the user interface!"
+msgstr "Прямую интеграцию в пользовательский интерфейс!"
+
+#: views/view-list.php:188
+msgid "Updated and heavily improved versions of these features!"
+msgstr "Обновлённые и значительно улучшенные версии этих функций!"
+
+#: views/view-list.php:186
+msgid "Upgrade to a TablePress Premium license plan now and get:"
+msgstr "Перейдите на премиум-тариф TablePress прямо сейчас и получите:"
+
+#: views/view-list.php:181
+msgid "However, their features were heavily improved and are now part of the up-to-date <a href=\"%s\">TablePress Premium versions</a>!"
+msgstr "Однако их функции были значительно улучшены и теперь являются частью обновлённых <a href=\"%s\">премиум-версий TablePress</a>!"
+
+#: views/view-list.php:180
+msgid "It is possible that these become incompatible with TablePress or WordPress in the future!"
+msgstr "Вероятно, в будущем они станут несовместимыми с TablePress или WordPress!"
+
+#: views/view-list.php:174
+msgid "You are using TablePress Extension plugins on this website that have been retired and will no longer receive updates or support:"
+msgstr "На данном сайте используются расширения TablePress, которые устарели и больше не получают обновлений или поддержки:"
+
+#: views/view-list.php:164
+msgid "In addition, these TablePress Extension plugins have been retired and might become incompatible in the future as well:"
+msgstr "Кроме того, эти расширения TablePress устарели и также могут стать несовместимыми в будущем:"
+
+#: views/view-list.php:160
+msgid "TablePress Pro and TablePress Max come with updated and heavily improved versions of these features and include direct priority email support."
+msgstr "TablePress Pro и TablePress Max поставляются с обновлёнными и значительно улучшенными версиями этих функций и включают прямую приоритетную поддержку по электропочте."
+
+#: views/view-list.php:159
+msgid "To continue using these features, <a href=\"%s\">upgrade to a TablePress Premium license plan</a>!"
+msgstr "Чтобы продолжить использовать эти функции, <a href=\"%s\">перейдите на премиум-тариф TablePress</a>!"
+
+#: views/view-list.php:156
+msgid "Keeping them activated can lead to errors on your website."
+msgstr "Сохранение их активированными может привести к проблемам на вашем сайте."
+
+#: views/view-list.php:150
+msgid "You are using <strong>TablePress Extension plugins</strong> on this website that have been retired more than 2 years ago."
+msgstr "На данном сайте используются <strong>расширения плагина TablePress</strong>, которые были устарели более 2 лет назад."
+
+#: views/view-import.php:156
+msgid "To import tables, you can simply drag and drop your spreadsheet files into this area and TablePress will automatically detect the file format!"
+msgstr "Чтобы импортировать таблицы, можно просто перетащить файлы электронных таблиц в эту область, и TablePress автоматически определит формат каждого файла!"
+
+#: classes/class-tablepress.php:957
+msgid "Let the search account for spelling mistakes and typos and find similar matches."
+msgstr "Поиск будет учитывать орфографические ошибки и опечатки и найдёт похожие совпадения."
+
+#: classes/class-tablepress.php:956
+msgid "Fuzzy Search"
+msgstr "Нечёткий поиск"
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:258
+msgid "Download Export File"
+msgstr "Скачать файл экспорта"
+
+#: views/view-options.php:59
+msgid "Custom Styling"
+msgstr "Произвольный стиль"
+
+#: views/view-options.php:57
+msgid "Premium"
+msgstr "Премиум"
+
+#: views/view-options.php:57
+msgid "Default Styling %s"
+msgstr "Стандартный стиль %s"
+
+#: views/view-options.php:110
+msgid "Screenshot of the Default Style Customizer that is part of the TablePress premium versions."
+msgstr "Снимок экрана с настройщиком стандартного стиля, являющимся частью премиум-версии TablePress."
+
+#: views/view-options.php:101
+msgid "Change your tables’ default style without touching CSS code!"
+msgstr "Измените стандартный стиль своих таблиц не касаясь CSS-кода!"
+
+#: views/view-options.php:100
+msgid "Choose from multiple style variations or define your own color scheme in an easy-to-use visual tool!"
+msgstr "Выбирайте из множества вариантов стиля или установите собственную цветовую гамму с помощью простого в использовании визуального инструмента!"
+
+#: views/view-options.php:99
+msgid "The TablePress premium versions come with a table default style customizer!"
+msgstr "Версии TablePress premium поставляются с настройщиком стандартного стиля таблиц!"
+
+#: views/view-options.php:105
+msgid "Find out more"
+msgstr "Узнать больше"
+
+#: views/view-list.php:244
+msgid "More great features and priority email support are available with a Premium license plan. <a href=\"%s\">Check them out!</a>"
+msgstr "Дополнительные функции и приоритетная поддержка по электропочте доступны на тарифе Premium. <a href=\"%s\">Ознакомьтесь с ними!</a>"
+
+#: views/view-import.php:143
+msgid "You can automate the import of tables from URLs or server files with the <a href=\"%1$s\">“%2$s” premium feature</a>!"
+msgstr "Есть возможность автоматизировать импорт таблиц из URL или файлов сервера с помощью <a href=\"%1$s\">премиум-функции «%2$s»</a>!"
+
+#: views/view-import.php:142
+msgid "Pro Tip:"
+msgstr "Совет:"
+
+#: controllers/environment-checks.php:80
+msgid "<a href=\"%s\">Learn more about updating PHP</a> or contact your server administrator."
+msgstr "<a href=\"%s\">Узнайте больше об обновлении PHP</a> или обратитесь к администратору своего сервера."
+
+#: controllers/environment-checks.php:77
+msgid "Your server is running a version of PHP that is too old for the TablePress plugin to work. TablePress requires PHP %s or newer, where newer versions are recommended."
+msgstr "На вашем сервере запущена версия PHP, которая слишком стара. Для TablePress требуется PHP %s или новее, в приоритете более новая версия."
+
+#: controllers/environment-checks.php:44
+msgid "Please ask your site’s administrator to update WordPress to at least version %1$s!"
+msgstr "Попросите администратора сайта обновить WordPress как минимум до версии %1$s!"
+
+#: controllers/environment-checks.php:42
+msgid "Please <a href=\"%1$s\">update your WordPress installation</a> to at least version %2$s!"
+msgstr "<a href=\"%1$s\">Обновите ядро своего сайта</a> хотя бы до версии %2$s!"
+
+#: controllers/environment-checks.php:36
+msgid "The installed version of WordPress is too old for the TablePress plugin! TablePress requires an up-to-date version!"
+msgstr "Установленная версия WordPress слишком стара! Для TablePress требуется более свежая версия!"
+
+#: classes/class-tablepress.php:1029
+msgid "Change the default styling of your tables in the visual style customizer."
+msgstr "Изменение стандартного стиля таблиц в настройщике внешнего вида сайта."
+
+#: classes/class-tablepress.php:1028
+msgid "Default Style Customizer"
+msgstr "Настройщик стиля по умолчанию"
+
+#: views/class-all-tables-list-table.php:180
+msgid "Select table “%s”"
+msgstr "Выбрать таблицу «%s»"
+
+#. Description of the plugin
+#: tablepress.php
+msgid "Embed beautiful and interactive tables into your WordPress website’s posts and pages, without having to write code!"
+msgstr "Встраивайте красивые и интерактивные таблицы для записей и страниц вашего сайта WordPress без необходимости писать код!"
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:114
+msgid "Reverse list"
+msgstr "Обратный список"
+
+#: views/view-edit.php:499
+msgid "Screen Options"
+msgstr "Настройки экрана"
+
+#: views/view-edit.php:499
+msgid "You can change the default cell size for the table editor on this “Edit” screen in the “%s”."
+msgstr "Изменить размер ячейки по умолчанию для редактора таблиц можно на этом экране редактирования, в разделе «%s»."
+
+#: views/view-edit.php:498
+msgid "TablePress feature: Column width and row height of the table editor"
+msgstr "Функция TablePress: ширина столбца и высота строки в редакторе таблиц"
+
+#: views/view-edit.php:298
+msgid "Compare the TablePress premium versions"
+msgstr "Сравнение версии TablePress premium"
+
+#: views/view-edit.php:292
+msgid "Read more!"
+msgstr "Подробней"
+
+#: views/view-edit.php:290
+msgid "Supercharge your tables with exceptional features:"
+msgstr "Дополните свои столы исключительными функциями:"
+
+#: views/view-edit.php:136
+msgid "%s lines"
+msgstr "%s"
+
+#: views/view-edit.php:134
+msgid "Maximum visible lines of text:"
+msgstr "Максимальное количество видимых строк текста:"
+
+#: views/view-edit.php:131
+msgid "%s pixels"
+msgstr "%s пикселей"
+
+#: views/view-edit.php:129
+msgid "Default column width:"
+msgstr "Ширина столбца по умолчанию:"
+
+#: views/view-edit.php:127
+msgid "Please note: These settings only influence the table editor view on this screen, but not the table that the site visitor sees!"
+msgstr "Данные настройки влияют только на вид редактора таблиц на этом экране, но не на таблицу, которую видят посетители сайта!"
+
+#: views/view-edit.php:126
+msgid "Cells with many lines of text will expand to their full height when they are edited."
+msgstr "Ячейки с большим объёмом текста при редактировании будут раскрываться на всю высоту."
+
+#: views/view-edit.php:126
+msgid "Adjust the default size of the table cells in the table editor below."
+msgstr "Изменение исходных размеров ячеек таблицы в приведенном ниже редакторе таблиц."
+
+#: views/view-edit.php:125
+msgid "Table editor settings"
+msgstr "Настройки редактора таблиц"
+
+#: classes/class-tablepress.php:1083
+msgid "Order the rows in different ways when a table is shown."
+msgstr "Различное упорядочивайте строк при отображении таблицы."
+
+#: classes/class-tablepress.php:1082
+msgid "Row Order"
+msgstr "Порядок строк"
+
+#: classes/class-tablepress.php:1074
+msgid "Add CSS classes to rows for highlighting based on their content."
+msgstr "Присвоение строкам CSS-классов для выделения на основе их содержимого."
+
+#: classes/class-tablepress.php:1073
+msgid "Row Highlighting"
+msgstr "Подсветка строк"
+
+#: classes/class-tablepress.php:1065
+msgid "Show only table rows that contain defined keywords."
+msgstr "Отображение лишь строк таблицы, содержащих определённые ключевые слова."
+
+#: classes/class-tablepress.php:1064
+msgid "Row Filtering"
+msgstr "Фильтрация строк"
+
+#: classes/class-tablepress.php:1056
+msgid "Read table data via the WordPress REST API, e.g. in external apps."
+msgstr "Считывание табличных данных через REST API WordPress, например, во внешних приложениях."
+
+#: classes/class-tablepress.php:1055
+msgid "REST API"
+msgstr "REST API"
+
+#: classes/class-tablepress.php:1047
+msgid "Make your tables look good on different screen sizes."
+msgstr "Подстраивание оформления таблиц, обеспечивающих комфортный просмотр данных на экранах разных размеров."
+
+#: classes/class-tablepress.php:1046
+msgid "Responsive Tables"
+msgstr "Адаптивность таблиц"
+
+#: classes/class-tablepress.php:1020
+msgid "Process sorting, filtering, and pagination on the server for faster loading of large tables."
+msgstr "Обработка сортировки, фильтрации и разбивки на страницы на мощностях сервера для более быстрой загрузки больших таблиц."
+
+#: classes/class-tablepress.php:1019
+msgid "Server-side Processing"
+msgstr "Обработка на стороне сервера"
+
+#: classes/class-tablepress.php:1011
+msgid "Show panes for filtering the columns."
+msgstr "Отображение панелей фильтрации столбцов."
+
+#: classes/class-tablepress.php:1010
+msgid "Search Panes"
+msgstr "Панели поиска"
+
+#: classes/class-tablepress.php:1002
+msgid "Highlight found search terms in the table."
+msgstr "Выделение цветом соответствующих запросу данных в таблице."
+
+#: classes/class-tablepress.php:1001
+msgid "Search Highlighting"
+msgstr "Подсветка поиска"
+
+#: classes/class-tablepress.php:993
+msgid "Show a search builder interface for filtering from groups and using conditions."
+msgstr "Отображение интерфейса конструктора поиска для фильтрации по группам и использования условий."
+
+#: classes/class-tablepress.php:992
+msgid "Custom Search Builder"
+msgstr "Конструктор произвольного поиска"
+
+#: classes/class-tablepress.php:984
+msgid "Group table rows by a common keyword, category, or title."
+msgstr "Группирование строк таблицы по общему ключевому слову, категории или заголовку."
+
+#: classes/class-tablepress.php:983
+msgid "Row Grouping"
+msgstr "Группировка строк"
+
+#: classes/class-tablepress.php:936
+msgid "Fix the header and footer row and the first and last column when scrolling the table."
+msgstr "Оставление на месте строки верхней и нижней строки, а также первого и последнего столбца при прокрутке таблицы."
+
+#: classes/class-tablepress.php:935
+msgid "Fixed Rows and Columns"
+msgstr "Фиксированные строки и столбцы"
+
+#: classes/class-tablepress.php:927
+msgid "Make the first column an index or counter column with the row position."
+msgstr "Нумерация строк в первом столбце."
+
+#: classes/class-tablepress.php:918
+msgid "Add a search field for each column to the table head or foot row."
+msgstr "Размещение поля поиска для каждого столбца в верхней или нижней строке таблицы."
+
+#: classes/class-tablepress.php:917
+msgid "Individual Column Filtering"
+msgstr "Фильтрация по отдельным столбцам"
+
+#: classes/class-tablepress.php:909
+msgid "Add a search dropdown for each column above the table."
+msgstr "Размещение выпадающего списка поиска для каждого столбца над таблицей."
+
+#: classes/class-tablepress.php:908
+msgid "Column Filter Dropdowns"
+msgstr "Выпадающие списки фильтров столбцов"
+
+#: classes/class-tablepress.php:900
+msgid "Add buttons for downloading, copying, printing, and changing column visibility of tables."
+msgstr "Отображение кнопок для загрузки, копирования, печати и изменения видимости столбцов таблицы."
+
+#: classes/class-tablepress.php:891
+msgid "Pre-filter a table when it is shown."
+msgstr "Предварительная фильтрация таблицы в момент отрисовки."
+
+#: classes/class-tablepress.php:890
+msgid "Automatic Filter"
+msgstr "Автофильтр"
+
+#: classes/class-tablepress.php:882
+msgid "Show Alphabet buttons above the table to filter rows by their first letter."
+msgstr "Отображение букв алфавита над таблицей, для фильтрации строк по первой букве текста."
+
+#: classes/class-tablepress.php:881
+msgid "Alphabet Search"
+msgstr "Поиск по алфавиту"
+
+#: classes/class-tablepress.php:873
+msgid "Load the table data from a JSON array for faster loading."
+msgstr "Использование массива JSON для более быстрой загрузки данных таблицы."
+
+#: classes/class-tablepress.php:872
+msgid "Advanced Loading"
+msgstr "Расширенная загрузка"
+
+#: classes/class-tablepress.php:864
+msgid "Order the columns in different ways when a table is shown."
+msgstr "Различное упорядочивайте столбцов при отображении таблицы."
+
+#: classes/class-tablepress.php:863
+msgid "Column Order"
+msgstr "Порядок столбцов"
+
+#: classes/class-tablepress.php:855
+msgid "Add CSS classes to cells for highlighting based on their content."
+msgstr "Присвоение ячейкам CSS-классов для выделения на основе их содержимого."
+
+#: classes/class-tablepress.php:854
+msgid "Cell Highlighting"
+msgstr "Выделение ячеек"
+
+#: classes/class-tablepress.php:846
+msgid "Export and save tables to files on the server after they were modified."
+msgstr "Экспорт и сохранение таблицы в виде файлов на сервере после каждого изменения."
+
+#: classes/class-tablepress.php:845
+msgid "Automatic Table Export"
+msgstr "Автоматический экспорт таблицы"
+
+#: classes/class-tablepress.php:837
+msgid "Periodically update tables from a configured import source."
+msgstr "Периодическое обновление данных таблицы из указанного источника."
+
+#: classes/class-tablepress.php:836 views/view-import.php:60
+#: views/view-import.php:143
+msgid "Automatic Periodic Table Import"
+msgstr "Автоматический периодической импорт таблицы"
+
+#: classes/class-tablepress.php:828
+msgid "Restrict access to individual tables for individual users."
+msgstr "Ограничение доступа к отдельным таблицам для отдельных пользователей."
+
+#: classes/class-tablepress.php:827
+msgid "Advanced Access Rights"
+msgstr "Расширенные права доступа"
+
+#: views/view-editor_button_thickbox.php:121
+msgid "Click the “%1$s” button for the desired table to automatically insert its Shortcode into the editor."
+msgstr "Нажмите кнопку \"%1$s\" нужной таблицы, чтобы автоматически вставить ее шорткод в редактор."
+
+#: controllers/controller-admin.php:320 controllers/controller-admin.php:321
+msgid "Insert a TablePress table"
+msgstr "Вставить таблицу TablePress"
+
+#: classes/class-elementor-widget-table.php:162
+#: controllers/controller-admin.php:319
+msgid "Table"
+msgstr "Таблица"
+
+#: blocks/table/block.json
+msgctxt "block keyword"
+msgid "table"
+msgstr "таблица"
+
+#: blocks/table/block.json
+msgctxt "block description"
+msgid "Embed a TablePress table."
+msgstr "Встроить таблицу TablePress."
+
+#: blocks/table/block.json
+msgctxt "block title"
+msgid "TablePress table"
+msgstr "Таблица TablePress"
+
+#: classes/class-elementor-widget-table.php:226 blocks/table/build/index.js:1
+#: blocks/table/src/edit.js:146
+msgid "See the TablePress Documentation for more information."
+msgstr "Смотрите документацию TablePress для получения дополнительной информации."
+
+#: classes/class-elementor-widget-table.php:226 blocks/table/build/index.js:1
+#: blocks/table/src/edit.js:146
+msgid "These additional parameters can be used to modify specific table features."
+msgstr "Эти дополнительные параметры могут быть использованы для изменения определённых функций таблицы."
+
+#: classes/class-elementor-widget-table.php:224 blocks/table/build/index.js:1
+#: blocks/table/src/edit.js:145
+msgid "Configuration parameters:"
+msgstr "Параметры конфигурации:"
+
+#: classes/class-elementor-widget-table.php:200 blocks/table/build/index.js:1
+#: blocks/table/src/edit.js:119
+msgid "Select the TablePress table that you want to embed."
+msgstr "Выберите таблицу TablePress, которую нужно встроить."
+
+#: classes/class-elementor-widget-table.php:201 blocks/table/build/index.js:1
+#: blocks/table/src/edit.js:50
+msgid "Manage your tables."
+msgstr "Управление таблицами сайта."
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:318
+msgid "You must select a table."
+msgstr "Необходимо выбрать таблицу."
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:312
+msgid "You must specify a path to a file on the server."
+msgstr "Необходимо указать путь к файлу на сервере."
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:186
+msgid "You have selected %1$d file:"
+msgid_plural "You have selected %1$d files:"
+msgstr[0] "Вы выбрали файл %1$d:"
+msgstr[1] "Вы выбрали файлы %1$d:"
+msgstr[2] "Вы выбрали файлы %1$d:"
+
+#: admin/js/build/edit.js:1 admin/js/build/export.js:1
+#: admin/js/build/options.js:1 admin/js/common/keyboard-shortcut.js:25
+#: admin/js/edit/data/contextmenu.js:35 admin/js/export/screen.jsx:151
+msgctxt "keyboard shortcut modifier key on a Mac keyboard"
+msgid "⌘"
+msgstr "⌘"
+
+#: views/view-list.php:241
+msgid "To find out more about what’s new, please read the <a href=\"%s\"><strong>release announcement</strong></a>."
+msgstr "Чтобы узнать больше о новых функциях, ознакомьтесь с <a href=\"%s\"><strong>анонсом релиза</strong></a>."
+
+#: views/view-edit.php:281 views/view-list.php:235
+msgid "TablePress has more to offer!"
+msgstr "TablePress может предложить ещё больше!"
+
+#: views/view-list.php:232
+msgid "Tell me more about the Premium features"
+msgstr "Подробнее о премиум-функциях"
+
+#: views/view-list.php:226
+msgid "It looks like you haven’t added a table yet. If you need help to get started, please find more information in the FAQ and Documentation on the <a href=\"%s\">TablePress website</a>."
+msgstr "Похоже, вы ещё не создали ни одну таблицу. Если требуется помощь для начала работы, пожалуйста, изучите дополнительную информацию в разделе часто задаваемых вопросов и документации на веб-сайте <a href=\"%s\">TablePress</a>."
+
+#: views/view-list.php:224
+msgid "I hope that everything works and that you are satisfied with the results of managing your %s table."
+msgid_plural "I hope that everything works and that you are satisfied with the results of managing your %s tables."
+msgstr[0] "Надеюсь, что всё работает и что вы удовлетворены результатами управления вашей %s таблицей."
+msgstr[1] "Надеюсь, что всё работает и что вы удовлетворены результатами управления вашими %s таблицами."
+msgstr[2] "Надеюсь, что всё работает и что вы удовлетворены результатами управления вашими %s таблицами."
+
+#: views/view-list.php:222
+msgid "Thank you for using it!"
+msgstr "Благодарим за использование плагина!"
+
+#: views/view-list.php:205
+msgid "Thank you for choosing TablePress, the most popular table plugin for WordPress!"
+msgstr "Благодарим вас за выбор TablePress, самого популярного табличного плагина для WordPress!"
+
+#: views/view-import.php:155
+msgid "TablePress feature: Drag and Drop Import with Format Detection"
+msgstr "Функция TablePress: импорт перетаскиванием с определением формата"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:279
+msgid "— Select or type —"
+msgstr "— Выберите или введите —"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:185
+msgid "Click to select files, or drag them here."
+msgstr "Нажмите, чтобы указать файлы, или перетащите их сюда."
+
+#: views/view-import.php:75
+msgid "TablePress can import tables from common spreadsheet applications, like XLSX files from Excel, or CSV, ODS, HTML, and JSON files."
+msgstr "TablePress может импортировать таблицы из файлов обычных приложений для работы с электронными таблицами, таких как файлы XLSX или CSV, ODS, HTML и JSON."
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:152
+msgctxt "keyboard key"
+msgid "Shift"
+msgstr "Shift"
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:151
+msgctxt "keyboard key"
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:150
+msgid "You can select multiple tables by holding down the “%1$s” key or the “%2$s” key for ranges."
+msgstr "Вы можете выбрать несколько таблиц, удерживая нажатой клавишу “%1$s” или “%2$s” для диапазонов."
+
+#: views/view-edit.php:480
+msgid "Right-clicking the table content fields will open a context menu for quick access to common editing tools."
+msgstr "Щелчок правой кнопкой мыши по полям содержимого таблицы откроет контекстное меню для быстрого доступа к обычным инструментам редактирования."
+
+#: views/view-edit.php:480 views/view-edit.php:499 views/view-import.php:156
+#: views/view-options.php:98
+msgid "Did you know?"
+msgstr "Знаете ли вы?"
+
+#: views/view-edit.php:479
+msgid "TablePress feature: Context menu"
+msgstr "Функция TablePress: контекстное меню"
+
+#: classes/class-view.php:463
+msgid "For help, please follow <a href=\"https://www.enable-javascript.com/\">the instructions on how to enable JavaScript in your browser</a>."
+msgstr "Для получения помощи, перейдите по ссылке <a href=\"https://www.enable-javascript.com/\">инструкции по включению JavaScript в браузере</a>."
+
+#: classes/class-view.php:462
+msgid "This screen requires JavaScript. Please enable JavaScript in your browser settings."
+msgstr "Для этого экрана требуется JavaScript. Включите JavaScript в настройках своего браузера."
+
+#: classes/class-view.php:459 controllers/environment-checks.php:33
+#: controllers/environment-checks.php:74
+msgid "Attention: Unfortunately, there is a problem!"
+msgstr "Возникла проблема!"
+
+#: views/view-options.php:211
+msgctxt "keyboard shortcut for Save Changes"
+msgid "%1$sS"
+msgstr "%1$sS"
+
+#: views/view-edit.php:86 admin/js/build/edit.js:1 admin/js/edit/editor.js:187
+msgid "Table Features for Site Visitors"
+msgstr "Доступность функций таблицы для пользователей"
+
+#: views/view-about.php:188
+msgid "Community Support for users of the Free version"
+msgstr "Поддержка сообщества для пользователей бесплатной версии"
+
+#: views/view-about.php:186
+msgid "<a href=\"%s\">Find out more!</a>"
+msgstr "<a href=\"%s\">Узнать больше!</a>"
+
+#: views/view-about.php:185
+msgid "Users with a valid TablePress Premium license plan are eligible for Priority Email Support, directly from the plugin developer!"
+msgstr "Пользователи с действующей лицензионной подпиской TablePress Premium имеют право на приоритетную поддержку по электронной почте непосредственно от разработчика плагина!"
+
+#: views/view-about.php:183
+msgid "Premium Support"
+msgstr "Премиум-поддержка"
+
+#: views/view-about.php:166 views/view-list.php:230
+msgid "The available Pro and Max plans offer user support and many exciting and helpful features for your tables."
+msgstr "Доступные тарифы Pro и Max предлагают поддержку пользователей и множество интересных и полезных функций для ваших таблиц."
+
+#: views/view-about.php:165 views/view-list.php:229
+msgid "I would like to invite you to check out the <a href=\"%s\">Premium versions of TablePress</a>."
+msgstr "Приглашаем вас ознакомиться с <a href=\"%s\">премиум-версией TablePress</a>."
+
+#: views/class-all-tables-list-table.php:494
+#: views/class-editor-button-thickbox-list-table.php:242
+msgid "%s table"
+msgid_plural "%s tables"
+msgstr[0] "%s таблица"
+msgstr[1] "%s таблицы"
+msgstr[2] "%s таблиц"
+
+#: views/class-all-tables-list-table.php:242 admin/js/build/edit.js:1
+#: admin/js/edit/table-preview.js:37
+msgid "Preview of table “%1$s” (ID %2$s)"
+msgstr "Предпросмотр таблицы “%1$s” (ID%2$s)"
+
+#: controllers/controller-admin_ajax.php:298 views/view-about.php:113
+#: views/view-edit.php:468 views/view-list.php:358
+#: views/view-preview_table.php:72
+msgid "To insert a table into a post or page, paste its Shortcode at the desired place in the editor."
+msgstr "Чтобы вставить таблицу в сообщение или страницу, вставьте ее шорткод в нужное место в редакторе."
+
+#: classes/class-elementor-widget-table.php:45
+#: controllers/controller-admin.php:380
+#: controllers/controller-admin_ajax.php:294
+#: controllers/controller-admin_ajax.php:296 views/view-about.php:109
+#: views/view-about.php:111 views/view-edit.php:464 views/view-edit.php:466
+#: views/view-list.php:354 views/view-list.php:356
+#: views/view-preview_table.php:68 views/view-preview_table.php:70
+#: blocks/table/build/index.js:1 blocks/table/src/edit.js:96
+msgid "TablePress table"
+msgstr "Таблица TablePress"
+
+#: controllers/controller-admin_ajax.php:294 views/view-about.php:109
+#: views/view-edit.php:464 views/view-list.php:354
+#: views/view-preview_table.php:68
+msgid "To insert a table into a post or page, add a “%1$s” block in the block editor and select the desired table."
+msgstr "Чтобы вставить таблицу в запись или страницу, добавьте блок “%1$s” в редакторе блоков и выберите нужную таблицу."
+
+#: controllers/controller-admin_ajax.php:291 views/view-preview_table.php:64
+msgid "The Table Features for Site Visitors, like sorting, filtering, and pagination, are also not available in this preview!"
+msgstr "Функции таблиц для посетителей сайта, такие как сортировка, фильтрация и разбивка на страницы, также недоступны в этом предварительном просмотре!"
+
+#: controllers/controller-admin.php:439
+msgid "Go Premium"
+msgstr "Перейти на Премиум"
+
+#: controllers/controller-admin.php:439
+msgid "Check out the Premium version of TablePress!"
+msgstr "Ознакомьтесь с премиум-версией TablePress!"
+
+#: classes/class-view.php:418
+msgid "Upgrade to Premium"
+msgstr "Перейти на Премиум"
+
+#: classes/class-view.php:412
+msgid "TablePress plugin logo"
+msgstr "Логотип плагина TablePress"
+
+#: classes/class-view.php:216
+msgid "Error code: %s"
+msgstr "Код ошибки: %s"
+
+#: classes/class-view.php:107 views/view-list.php:209
+msgid "More great features for you and your site’s visitors and priority email support are available with a Premium license plan of TablePress. <a href=\"%s\">Go check them out!</a>"
+msgstr "Дополнительные возможности для вас и посетителей вашего сайта, а также приоритетная поддержка по электронной почте доступны с премиум-тарифом TablePress. <a href=\"%s\">Узнать подробности!</a>"
+
+#: classes/class-view.php:99 views/view-about.php:141
+msgid "Common questions are answered in the <a href=\"%s\">FAQ</a>."
+msgstr "Ответы на распространённые вопросы приведены в разделе <a href=\"%s\">Часто задаваемые вопросы</a>."
+
+#: classes/class-admin-page-helper.php:126
+msgid "Take a look at the <a href=\"%s\">Premium features</a>!"
+msgstr "Взгляните на <a href=\"%s\">премиум-функции</a>!"
+
+#: views/view-edit.php:460
+msgid "To edit the content or modify the structure of this table, use the input fields and buttons below."
+msgstr "Чтобы изменить содержимое или структуру этой таблицы, используйте поля ввода и кнопки ниже."
+
+#: controllers/controller-admin.php:509 controllers/controller-admin.php:593
+#: controllers/controller-admin.php:865 controllers/controller-admin.php:921
+#: controllers/controller-admin.php:1000 controllers/controller-admin.php:1041
+#: controllers/controller-admin.php:1166 controllers/controller-admin.php:1262
+#: controllers/controller-admin.php:1289 controllers/controller-admin.php:1330
+#: controllers/controller-admin.php:1369 controllers/controller-admin.php:1422
+#: controllers/controller-admin.php:1448
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Извините, вам не разрешен доступ к этой странице."
+
+#: views/view-edit.php:432
+msgid "The following error was registered: %s."
+msgstr "Произошла ошибка: %s."
+
+#: classes/class-tablepress.php:405
+msgid "unknown"
+msgstr "неизвестный"
+
+#: classes/class-admin-page-helper.php:124
+msgid "Thank you for using <a href=\"%s\">TablePress</a>."
+msgstr "Благодарим вас за использование <a href=\"%s\">TablePress</a>."
+
+#: views/view-about.php:253
+msgid "the translators in the <a href=\"%s\">Plugin Directory</a>,"
+msgstr "переводчики в <a href=\"%s\">Каталог плагина</a>,"
+
+#: views/view-about.php:252
+msgid "Allan Jardine for <a href=\"%s\">DataTables</a>,"
+msgstr "Алану Джардине за <a href=\"%s\">DataTables</a>,"
+
+#. Author of the plugin
+#: tablepress.php
+msgid "Tobias Bäthge"
+msgstr "Tobias Bäthge"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: tablepress.php
+msgid "https://tablepress.org/"
+msgstr "https://tablepress.org/"
+
+#: views/view-options_custom_css.php:151
+msgid "Proceed without saving &#8220;Custom CSS&#8221; to a file"
+msgstr "Продолжить без сохранения &#8220;CSS пользователя&#8221; в файл"
+
+#: views/view-options_custom_css.php:149
+msgid "Your &#8220;Custom CSS&#8221; will then be loaded inline."
+msgstr "Ваш &#8220;CSS пользователя&#8221; будет загружен в строку."
+
+#: views/view-options_custom_css.php:148
+msgid "To proceed without trying to save the &#8220;Custom CSS&#8221; to a file, click the button below."
+msgstr "Чтобы выйти без сохранения &#8220;CSS пользователя&#8221; в файл, нажмите на кнопку ниже."
+
+#: views/view-options_custom_css.php:146
+msgid "Proceed without saving a file"
+msgstr "Продолжить без сохранения"
+
+#: views/view-options_custom_css.php:119
+msgid "Connection Information"
+msgstr "Информация о подключении"
+
+#: views/view-options_custom_css.php:119
+msgid "To try again with the same method that you use for updating plugins or themes, please fill out the &#8220;%s&#8221; form below."
+msgstr "Чтобы попробовать еще раз тем же методом, который используется для обновления плагинов, заполните форму &#8220;%s&#8221; ниже."
+
+#: views/view-options_custom_css.php:118
+msgid "Due to the configuration of your server, TablePress was not able to automatically save your &#8220;Custom CSS&#8221; to a file."
+msgstr "Из за конфигурации вашего сервера, TablePress не может автоматически сохранять Ваш &#8220;CSS пользователя&#8221; в файл."
+
+#: views/view-options_custom_css.php:43
+msgid "Attention: Further action is required to save the changes to your &#8220;Custom CSS&#8221;!"
+msgstr "Внимание: Необходимы дальнейшие действия, чтобы сохранить изменения в &#8220;CSS пользователя&#8221;!"
+
+#: views/view-options.php:232
+msgid "Be very careful with this and only click the button if you know what you are doing!"
+msgstr "Будьте очень осторожны и нажимайте на кнопку, только если вы точно знаете, что делаете!"
+
+#: views/view-options.php:231
+msgid "You will manually need to remove the plugin&#8217;s files from the plugin folder afterwards."
+msgstr "Далее будет необходимо вручную удалить файлы из папки плагина."
+
+#: views/view-options.php:230
+msgid "It is recommended that you create a backup of the tables (by exporting the tables in the JSON format), in case you later change your mind."
+msgstr "Рекомендуется создать резервную копию таблиц (путем экспорта таблиц в формате JSON), для случая, если Вы позднее передумаете."
+
+#: views/view-options.php:229
+msgid "Uninstalling <strong>will permanently delete</strong> all TablePress tables and options from the database."
+msgstr "При удалении <strong>будут удалены</strong> все таблицы и настройки TablePress из базы данных."
+
+#: views/view-options.php:193
+msgid "TablePress shall be shown in this section of my admin menu: %s"
+msgstr "Меню TablePress поместить в %s административной панели WordPress"
+
+#: views/view-options.php:192
+msgid "Admin menu entry"
+msgstr "TablePress в меню администратора"
+
+#: views/view-options.php:182
+msgid "Top-Level (bottom)"
+msgstr "Главное меню (в конце)"
+
+#: views/view-options.php:181
+msgid "Top-Level (middle)"
+msgstr "Главное меню (в середине)"
+
+#: views/view-options.php:180
+msgid "Top-Level (top)"
+msgstr "Главное меню (в начале)"
+
+#: views/view-options.php:144
+msgid "Please note that invalid CSS code will be stripped, if it can not be corrected automatically."
+msgstr "Обратите внимание, что неверный код CSS удаляется, если программа не сможет исправить его ​​автоматически."
+
+#: views/view-options.php:142
+msgid "Information on available CSS selectors can be found in the <a href=\"%s\">Documentation</a>."
+msgstr "Больше информации по CSS можно найти в <a href=\"%s\">документации</a>."
+
+#: views/view-options.php:140
+msgid "You can get styling examples from the <a href=\"%s\">FAQ</a>."
+msgstr "Вы можете посмотреть примеры в <a href=\"%s\">FAQ</a>."
+
+#: views/view-options.php:138
+msgid "&#8220;Custom CSS&#8221; (<a href=\"%s\">Cascading Style Sheets</a>) can be used to change the styling or layout of a table."
+msgstr "&#8220;CSS пользователя&#8221; (<a href=\"%s\">Cascading Style Sheets</a>) используется для изменения стиля и внешнего вида таблицы."
+
+#: views/view-options.php:129
+msgid "Load this &#8220;Custom CSS&#8221; code to change the table styling:"
+msgstr "Загрузите этот &#8220;Пользовательский CSS&#8221; код, чтобы изменить стиль таблицы:"
+
+#: views/view-options.php:128
+msgid "Custom CSS"
+msgstr "CSS пользователя"
+
+#: views/view-options.php:79
+msgid "TablePress has some options which affect the plugin&#8217;s behavior in different areas."
+msgstr "TablePress имеет несколько параметров, которые влияют на поведение плагина в разных областях."
+
+#: views/view-options.php:61
+msgid "User Options"
+msgstr "Настройки пользователя"
+
+#: views/view-options.php:43
+msgid "Error: Options could not be saved."
+msgstr "Ошибка: Не могу сохранить настройки."
+
+#: views/view-options.php:42
+msgid "Options saved successfully, but &#8220;Custom CSS&#8221; was not saved to file."
+msgstr "Настройки сохранены успешно, но &#8220;CSS пользователя&#8221; не сохранен."
+
+#: views/view-options.php:41
+msgid "Options saved successfully."
+msgstr "Настройки сохранены."
+
+#: views/class-all-tables-list-table.php:441
+msgid "You should <a href=\"%s\">import</a> a table to get started!"
+msgstr "Для начала Вы должны <a href=\"%s\">импортировать</a> таблицу!"
+
+#: views/class-all-tables-list-table.php:439
+msgid "You should <a href=\"%s\">add</a> a table to get started!"
+msgstr "Для начала Вы должны <a href=\"%s\">добавить</a> таблицу!"
+
+#: views/class-all-tables-list-table.php:417
+msgid "Apply"
+msgstr "Применить"
+
+#: views/class-all-tables-list-table.php:412
+msgid "Bulk Actions"
+msgstr "Выбор действия"
+
+#: views/class-all-tables-list-table.php:410
+msgid "Select Bulk Action"
+msgstr "Выбрать групповое действие"
+
+#: views/class-all-tables-list-table.php:374
+msgctxt "bulk action"
+msgid "Delete"
+msgstr "Удалить"
+
+#: views/class-all-tables-list-table.php:371
+msgctxt "bulk action"
+msgid "Export"
+msgstr "Экспортировать"
+
+#: views/class-all-tables-list-table.php:368
+msgctxt "bulk action"
+msgid "Copy"
+msgstr "Создать копию"
+
+#: views/class-all-tables-list-table.php:236
+msgctxt "row action"
+msgid "Export"
+msgstr "Экспортировать"
+
+#: views/class-all-tables-list-table.php:236
+msgid "Export &#8220;%s&#8221;"
+msgstr "Экспортировать &#8220;%s&#8221;"
+
+#: views/class-all-tables-list-table.php:233 admin/js/build/edit.js:1
+#: admin/js/edit/data/contextmenu.js:85
+msgid "Copy"
+msgstr "Создать копию"
+
+#: views/class-all-tables-list-table.php:233
+msgid "Copy &#8220;%s&#8221;"
+msgstr "Копировать &#8220;%s&#8221;"
+
+#: views/class-all-tables-list-table.php:231
+msgid "Show Shortcode"
+msgstr "Показывать шорткод"
+
+#: views/class-all-tables-list-table.php:222
+#: views/class-all-tables-list-table.php:229
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Править &#8220;%s&#8221;"
+
+#: views/class-all-tables-list-table.php:107
+msgid "Last Modified By"
+msgstr "Последнее изменение"
+
+#: views/class-all-tables-list-table.php:106
+msgid "Author"
+msgstr "Автор"
+
+#: controllers/controller-admin_ajax.php:299 views/view-about.php:115
+#: views/view-list.php:360 views/view-preview_table.php:74
+msgid "Each table has a unique ID that needs to be adjusted in that Shortcode."
+msgstr "Каждая таблица имеет уникальный идентификатор (ID), который необходимо ввести в этот шорткод."
+
+#: views/view-editor_button_thickbox.php:120 views/view-list.php:350
+msgid "This is a list of your tables."
+msgstr "Это список ваших таблиц."
+
+#: views/view-list.php:279
+msgid "Tables"
+msgstr "Таблицы"
+
+#: views/view-list.php:273
+msgid "The tables were imported successfully."
+msgstr "Таблицы успешно импортированы."
+
+#: views/view-list.php:272
+msgid "Notice: Not all selected tables could be copied!"
+msgstr "Примечание: Не все выбранные таблицы могут быть скопированы!"
+
+#: views/view-list.php:271
+msgid "Notice: Not all selected tables could be deleted!"
+msgstr "Внимание: Не все выбранные таблицы могут быть удалены!"
+
+#: views/view-list.php:270
+msgid "Error: You did not select any tables!"
+msgstr "Ошибка: Вы не выбрали ни одной таблицы!"
+
+#: views/view-list.php:269
+msgid "Error: This bulk action is invalid!"
+msgstr "ОШИБКА: Это действие недоступно!"
+
+#: views/view-list.php:267
+msgid "Error: You did not specify a valid table ID."
+msgstr "Ошибка: Вы не указали действительный ID таблицы."
+
+#: views/view-list.php:266
+msgid "Error: The table could not be copied."
+msgstr "Ошибка: Таблица не может быть скопирована."
+
+#: views/view-list.php:262
+msgid "The copied table has the table ID &#8220;%s&#8221;."
+msgstr "Копия таблицы имеет идентификатор &#8220;%s&#8221;."
+
+#: views/view-list.php:255 views/view-list.php:256
+msgid "The table was deleted successfully."
+msgid_plural "The tables were deleted successfully."
+msgstr[0] "Таблица успешно удалена."
+msgstr[1] "Таблицы успешно удалены."
+msgstr[2] "Таблицы успешно удалены."
+
+#: views/view-list.php:249
+msgid "Thank you for updating to TablePress %s!"
+msgstr "Спасибо за обновление, TablePress %s!"
+
+#: views/view-list.php:231
+msgid "Sincerely, Tobias"
+msgstr "С уважением, Tobias"
+
+#: views/view-list.php:221
+msgid "Hi, my name is Tobias, I&#8217;m the developer of the TablePress plugin."
+msgstr "Привет, меня зовут Tobias, I&#8217;m я разработчик плагина TablePress."
+
+#: views/view-list.php:220
+msgid "Tobias Bäthge, developer of TablePress"
+msgstr "Tobias Bäthge, разработчик TablePress"
+
+#: views/view-list.php:196 views/view-list.php:212 views/view-list.php:233
+#: views/view-list.php:247
+msgid "Hide this message"
+msgstr "Скрыть это сообщение"
+
+#: views/view-list.php:206
+msgid "If you encounter any questions or problems, please visit the <a href=\"%1$s\">FAQ</a>, the <a href=\"%2$s\">Documentation</a>, and the <a href=\"%3$s\">Support</a> section on the <a href=\"%4$s\">plugin website</a>."
+msgstr "Если у вас возникли вопросы или проблемы, пожалуйста, посетите разделы <a href=\"%1$s\">FAQ</a>, <a href=\"%2$s\">документация</a>, <a href=\"%3$s\">поддержка</a> и <a href=\"%4$s\">сайт плагина</a>."
+
+#: views/view-list.php:214
+msgid "Welcome!"
+msgstr "Добро пожаловать!"
+
+#: admin/js/build/list.js:1 admin/js/list/screen.jsx:99
+msgid "To embed this table into a post or page, use this Shortcode:"
+msgstr "Чтобы вставить эту таблицу в запись или на страницу, используйте шорткод:"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:305
+msgctxt "button"
+msgid "Import"
+msgstr "Импортировать"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:267
+#: admin/js/import/screen.jsx:277
+msgid "Table to replace or append to"
+msgstr "Таблица для замены или дополнения"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:260
+msgid "Append rows to existing table"
+msgstr "Дополнить в таблицу"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:259
+msgid "Replace existing table"
+msgstr "Переписать таблицу"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:258
+msgid "Add as new table"
+msgstr "Добавить как новую таблицу"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:248
+msgid "Add, Replace, or Append?"
+msgstr "Добавить, заменить или присоеденить?"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:43
+msgid "Import data"
+msgstr "Импорт данных"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:39
+msgid "Server Path to file"
+msgstr "Путь к файлу на сервере"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:35
+msgid "File URL"
+msgstr "URL файла"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:240
+msgid "You can also import multiple tables by placing them in a ZIP file."
+msgstr "Можно импортировать несколько таблиц из файлов упакованных в ZIP-архив."
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:31
+msgid "Select files"
+msgstr "Выбрать файл"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:42
+msgid "Manual Input"
+msgstr "Ввести вручную"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:38
+msgid "File on server"
+msgstr "Путь на сервере"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:34
+msgid "URL"
+msgstr "URL"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:30
+msgid "File Upload"
+msgstr "Загрузить файл"
+
+#: admin/js/build/import.js:1 admin/js/import/screen.jsx:137
+#: admin/js/import/screen.jsx:142
+msgid "Import Source"
+msgstr "Источник импорта"
+
+#: views/view-import.php:79
+msgid "You can also choose to import it as a new table, to replace an existing table, or to append the rows to an existing table."
+msgstr "Вы можете импортировать данные в новую таблицу, заменить данные существующей таблицы или добавить строки в существующую таблицу."
+
+#: views/view-import.php:78
+msgid "To import tables, select and enter the import source in the following form."
+msgstr "Для импорта таблицы, укажите источник данных в следующей форме ниже."
+
+#: views/view-import.php:56
+msgid "Import Tables"
+msgstr "Импорт таблиц"
+
+#: views/view-import.php:52
+msgid "Error: The import failed."
+msgstr "Ошибка: Ошибка импорта."
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:235
+msgid "Note: Support for ZIP file creation seems not to be available on this server."
+msgstr "Примечание: по всей видимости создание ZIP архивов не поддерживается Вашим сервером."
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:229
+msgid "(Mandatory if more than one table is selected.)"
+msgstr "(Обязательно, если выбрано более одной таблицы.)"
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:222
+msgid "Create a ZIP archive."
+msgstr "Создать ZIP архив."
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:213
+msgid "ZIP file"
+msgstr "ZIP файл"
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:205
+msgid "(Only needed for CSV export.)"
+msgstr "(Нужен только для экспорта в формате CSV.)"
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:184
+#: admin/js/export/screen.jsx:197
+msgid "CSV Delimiter"
+msgstr "CSV разделитель"
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:162
+#: admin/js/export/screen.jsx:173
+msgid "Export Format"
+msgstr "Формат экспорта"
+
+#: classes/class-elementor-widget-table.php:182 admin/js/build/export.js:1
+#: admin/js/build/import.js:1 admin/js/export/screen.jsx:39
+#: admin/js/import/screen.jsx:62
+msgid "ID %1$s: %2$s"
+msgstr "ID %1$s: %2$s"
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:103
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: admin/js/build/export.js:1 admin/js/export/screen.jsx:96
+msgid "Tables to Export"
+msgstr "Таблицы для экспорта"
+
+#: views/class-all-tables-list-table.php:437 views/view-export.php:93
+msgid "You should <a href=\"%1$s\">add</a> or <a href=\"%2$s\">import</a> a table to get started!"
+msgstr "Вы должны <a href=\"%1$s\">добавить</a> или <a href=\"%2$s\">импортировать</a> таблицу для начала!"
+
+#: views/view-export.php:75
+msgid "For the JSON format, the table data and the table options are exported."
+msgstr "Данные и параметры таблицы экспортируются и сохраняются только в формате JSON."
+
+#: views/view-export.php:74
+msgid "Be aware that for the CSV and HTML formats only the table data, but no table options are exported!"
+msgstr "В форматах CSV и HTML сохраняются только данные таблицы, без ее параметров!"
+
+#: views/view-export.php:72
+msgid "If you choose more than one table, the exported files will automatically be stored in a ZIP archive file."
+msgstr "Если Вы выберите более одной таблицы, экспортируемые файлы автоматически сохранятся в файл ZIP архива."
+
+#: views/view-export.php:71
+msgid "To export, select the tables and the desired export format."
+msgstr "Для экспорта выберите таблицы и желаемый формат файла экспорта."
+
+#: views/view-export.php:68
+msgid "Regularly exporting tables is also recommended as a backup of your data."
+msgstr "Также регулярный экспорт таблиц рекомендуется для резервного копирования данных."
+
+#: views/view-export.php:67
+msgid "Exporting a table allows you to use it in other programs, like spreadsheets applications."
+msgstr "Экспорт таблицы позволяет использовать ее в других программах и приложениях."
+
+#: views/view-export.php:49 views/view-export.php:52
+msgid "Export Tables"
+msgstr "Экспорт таблиц"
+
+#: views/view-export.php:44
+msgid "Error: The ZIP file could not be created."
+msgstr "Ошибка: ZIP файл не может быть создан."
+
+#: views/view-export.php:43
+msgid "Error: The internal data of this table is corrupted!"
+msgstr "Ошибка: Данные этой таблицы повреждены!"
+
+#: views/view-export.php:42 views/view-list.php:268
+msgid "Error: This table could not be loaded!"
+msgstr "Ошибка: Эта таблица не может быть загружена!"
+
+#: views/view-export.php:41
+msgid "Error: The export failed."
+msgstr "Ошибка: Не удалось выполнить экспорт."
+
+#: views/class-editor-button-thickbox-list-table.php:191
+msgid "You should add or import a table on the TablePress screens to get started!"
+msgstr "Вы должны добавить или импортировать таблицу в TablePress!"
+
+#: views/class-all-tables-list-table.php:428
+#: views/class-editor-button-thickbox-list-table.php:189
+#: views/view-export.php:92
+msgid "No tables found."
+msgstr "Таблица не найдена."
+
+#: views/class-all-tables-list-table.php:258
+#: views/class-editor-button-thickbox-list-table.php:165
+msgid "(no description)"
+msgstr "(без описания)"
+
+#: views/class-editor-button-thickbox-list-table.php:87
+msgid "Action"
+msgstr "Действие"
+
+#: views/class-all-tables-list-table.php:103
+#: views/class-editor-button-thickbox-list-table.php:84
+msgid "ID"
+msgstr "ID"
+
+#: views/view-editor_button_thickbox.php:131 views/view-list.php:383
+msgid "Search Tables"
+msgstr "Поиск таблиц"
+
+#: views/view-editor_button_thickbox.php:124 views/view-list.php:375
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Результат поиска для &#8220;%s&#8221;"
+
+#: views/class-editor-button-thickbox-list-table.php:179
+#: views/view-editor_button_thickbox.php:121
+msgid "Insert Shortcode"
+msgstr "Вставить шорткод"
+
+#: views/view-editor_button_thickbox.php:120
+msgid "You may insert a table into a post or page here."
+msgstr "Здесь Вы можете вставить таблицу на страницу сайта или в запись."
+
+#: views/view-editor_button_thickbox.php:73
+#: views/view-editor_button_thickbox.php:118
+msgid "List of Tables"
+msgstr "Список таблиц"
+
+#: classes/class-view.php:466 views/view-edit.php:443
+msgid "Back to the List of Tables"
+msgstr "Вернуться к списку таблиц"
+
+#: views/view-edit.php:439
+msgid "Please see the <a href=\"%s\">TablePress FAQ page</a> for further instructions."
+msgstr "Более подробно смотрите <a href=\"%s\">страницу TablePress FAQ</a>."
+
+#: views/view-edit.php:437
+msgid "Because of this error, the table can not be edited at this time, to prevent possible further data loss."
+msgstr "Из-за этой ошибки, таблица не может быть изменена, так как это может привести к потере данных."
+
+#: views/view-edit.php:430
+msgid "The internal data of table &#8220;%1$s&#8221; (ID %2$s) is corrupted."
+msgstr "Внешние данные таблицы &#8220;%1$s&#8221; (ID %2$s) повреждены."
+
+#: views/view-edit.php:426 admin/js/build/edit.js:1
+#: admin/js/common/ajax-request.js:159
+msgid "Attention: Unfortunately, an error occurred."
+msgstr "Внимание: К сожалению, произошла ошибка."
+
+#: admin/js/build/edit.js:1 admin/js/common/alert.jsx:73
+#: admin/js/edit/editor.js:521
+msgid "OK"
+msgstr "Сохранить"
+
+#: admin/js/build/edit.js:1 admin/js/build/list.js:1
+#: admin/js/edit/editor.js:514 admin/js/edit/other-actions.js:75
+#: admin/js/list/screen.jsx:170
+msgid "Cancel"
+msgstr "Отмена"
+
+#: views/class-all-tables-list-table.php:239 admin/js/build/edit.js:1
+#: admin/js/build/list.js:1 admin/js/edit/other-actions.js:83
+#: admin/js/edit/table-manipulation.js:179
+#: admin/js/edit/table-manipulation.js:204 admin/js/list/screen.jsx:178
+msgid "Delete"
+msgstr "Удалить"
+
+#: views/view-edit.php:372 admin/js/build/edit.js:1
+#: admin/js/edit/data/contextmenu.js:137 admin/js/edit/table-manipulation.js:97
+msgid "Advanced Editor"
+msgstr "Расширенный редактор"
+
+#: views/class-all-tables-list-table.php:108 admin/js/build/edit.js:1
+#: admin/js/edit/table-information.js:162
+msgid "Last Modified"
+msgstr "Последнее изменение"
+
+#: views/view-edit.php:85 admin/js/build/edit.js:1
+#: admin/js/edit/datatables-features.js:94 admin/js/edit/editor.js:198
+#: admin/js/edit/editor.js:208
+msgid "Table Options"
+msgstr "Параметры таблицы"
+
+#: views/view-edit.php:84 admin/js/build/edit.js:1
+#: admin/js/edit/table-manipulation.js:391
+#: admin/js/edit/table-manipulation.js:401
+#: admin/js/edit/table-manipulation.js:408
+msgid "Table Manipulation"
+msgstr "Работа с таблицей"
+
+#: views/view-edit.php:83
+msgid "Table Content"
+msgstr "Содержимое таблицы"
+
+#: views/view-edit.php:82
+msgid "Table Information"
+msgstr "Информация о таблице"
+
+#: views/view-edit.php:103
+msgid "Insert into Table"
+msgstr "Вставьте в таблицу"
+
+#: views/view-edit.php:57 views/view-list.php:257
+msgid "Error: The table could not be deleted."
+msgstr "Ошибка: Не удалось удалить таблицу."
+
+#: views/view-edit.php:56
+msgid "The table was imported successfully."
+msgstr "Таблица успешно импортирована."
+
+#: views/view-edit.php:55
+msgid "You are now seeing the copied table, which has the table ID &#8220;%s&#8221;."
+msgstr "Вы просматриваете копию таблицы, с ID &#8220;%s&#8221;."
+
+#: views/view-edit.php:55 views/view-list.php:258 views/view-list.php:265
+msgid "The table was copied successfully."
+msgid_plural "The tables were copied successfully."
+msgstr[0] "Таблица успешно скопирована."
+msgstr[1] "Таблицы успешно скопирована."
+msgstr[2] "Таблиц успешно скопирована."
+
+#: views/view-edit.php:54
+msgid "The table was added successfully."
+msgstr "Таблица успешно добавлена."
+
+#: admin/js/add/screen.jsx:113 admin/js/build/add.js:1
+msgid "The number of columns in your table."
+msgstr "Необходимое количество столбцов в таблице."
+
+#: admin/js/add/screen.jsx:112 admin/js/build/add.js:1
+msgid "Number of Columns"
+msgstr "Количество столбцов"
+
+#: admin/js/add/screen.jsx:96 admin/js/build/add.js:1
+msgid "The number of rows in your table."
+msgstr "Необходимое количество строк в таблице."
+
+#: admin/js/add/screen.jsx:97 admin/js/add/screen.jsx:114
+#: admin/js/build/add.js:1 admin/js/build/edit.js:1
+#: admin/js/edit/table-manipulation.js:320
+#: admin/js/edit/table-manipulation.js:359
+msgid "This field must contain a positive number."
+msgstr "Это поле должно содержать положительное число."
+
+#: admin/js/add/screen.jsx:95 admin/js/build/add.js:1
+msgid "Number of Rows"
+msgstr "Количество строк"
+
+#: admin/js/add/screen.jsx:80 admin/js/build/add.js:1
+msgid "A description of the contents of your table."
+msgstr "Параметры контента таблицы."
+
+#: admin/js/add/screen.jsx:79 admin/js/build/add.js:1
+msgid "(optional)"
+msgstr "(рекомендуется)"
+
+#: views/class-all-tables-list-table.php:105
+#: views/class-editor-button-thickbox-list-table.php:86
+#: admin/js/add/screen.jsx:79 admin/js/build/add.js:1 admin/js/build/edit.js:1
+#: admin/js/edit/table-information.js:150
+msgid "Description"
+msgstr "Описание таблицы"
+
+#: admin/js/add/screen.jsx:72 admin/js/build/add.js:1
+msgid "The name or title of your table."
+msgstr "Имя или название таблицы."
+
+#: views/class-all-tables-list-table.php:104
+#: views/class-editor-button-thickbox-list-table.php:85
+#: admin/js/add/screen.jsx:71 admin/js/build/add.js:1 admin/js/build/edit.js:1
+#: admin/js/edit/table-information.js:138
+msgid "Table Name"
+msgstr "Наименование таблицы"
+
+#: views/view-add.php:64
+msgid "You can always change the name, description, and size of your table later."
+msgstr "Позже Вы всегда можете изменить название, описание и размер таблицы."
+
+#: views/view-add.php:61
+msgid "To add a new table, enter its name, a description (optional), and the number of rows and columns into the form below."
+msgstr "Чтобы добавить новую таблицу, введите ее имя, описание (необязательно) и необходимое количество строк и столбцов в форму ниже."
+
+#: admin/js/add/screen.jsx:128 admin/js/build/add.js:1
+msgid "Add Table"
+msgstr "Добавить таблицу"
+
+#: views/view-add.php:41
+msgid "Error: The table could not be added."
+msgstr "Ошибка: Не удалось добавить таблицу."
+
+#: views/view-about.php:254
+msgid "all customers, donors, contributors, supporters, reviewers, and users of the plugin!"
+msgstr "всем клиентам, спонсорам, участникам разработки, обозревателям и пользователям плагина!"
+
+#: views/view-about.php:249
+msgid "Special Thanks go to:"
+msgstr "Особая благодарность:"
+
+#: views/view-about.php:209
+msgid "Please provide this information in bug reports and support requests."
+msgstr "Просьба представлять эту информацию в сообщениях об ошибках и просьбах о поддержке."
+
+#: views/view-about.php:192
+msgid "If you do not find an answer there, please <a href=\"%s\">open a new thread</a> in the WordPress Support Forums."
+msgstr "Если вы не найдете ответа там, пожалуйста <a href=\"%s\"> откройте новую тему</a> на форуме поддержки WordPress."
+
+#: views/view-about.php:161
+msgid "Please rate and review the plugin in the <a href=\"%s\">WordPress Plugin Directory</a>."
+msgstr "Пожалуйста, оцените плагин в обзоре <a href=\"%s\">каталога плагинов Wordpress</a>."
+
+#: views/view-about.php:158
+msgid "It is licensed as Free Software under GNU General Public License 2 (GPL 2)."
+msgstr "Плагин имеет лицензию как свободное ПО под GNU General Public License 2 (GPL 2)."
+
+#: views/view-about.php:157
+msgid "This plugin was written and developed by <a href=\"%s\">Tobias Bäthge</a>."
+msgstr "Этот плагин был написан и разработан <a href=\"%s\"> Тобиасом Бетге </a>."
+
+#: views/view-about.php:123
+msgid "Please see the <a href=\"%s\">Documentation</a> for a list of these selectors and for styling examples."
+msgstr "Список этих селекторов и примеры стилей приведены в <a href=\"%s\">Документация</a>."
+
+#: views/view-about.php:122
+msgid "For this, each table is given certain CSS classes that can be used as CSS selectors."
+msgstr "Для этого каждой таблице присваиваются классы CSS, которые можно использовать в качестве селекторов CSS."
+
+#: views/view-about.php:121
+msgid "The plugin ships with default CSS stylesheets, which can be customized with own code or replaced with other stylesheets."
+msgstr "Плагин поставляется с таблицами стилей CSS по умолчанию, которые могут быть изменены по желанию пользователя."
+
+#: views/view-about.php:120
+msgid "Tables can be styled by changing and adding CSS commands."
+msgstr "Внешний вид таблиц может быть изменен путем изменения CSS."
+
+#: views/view-about.php:103
+msgid "Those will ask you for the necessary information and corresponding HTML code will be added to the cell automatically."
+msgstr "У вас будет запрошена необходимая информация и соответствующий HTML-код будет добавлен в ячейку автоматически."
+
+#: views/view-about.php:102
+msgid "To easily add a link or an image to a cell, use the provided buttons."
+msgstr "Добавлять ссылки или изображения в ячейки, используя имеющиеся кнопки."
+
+#: views/view-about.php:101
+msgid "Then, you can edit your data or change the structure of your table (e.g. by inserting, deleting, moving, or swapping rows or columns or sorting them) and select specific table features like alternating row colors or whether to print the name or description, if you want."
+msgstr "Тогда вы сможете изменять структуру таблицы (например, путем вставки, удаления, перемещения, замены или сортировки строк и столбцов) и выбирать определённые параметры таблицы, как альтернативные цвета строк, либо отображение полей названия и описания таблицы, если пожелаете."
+
+#: views/view-about.php:98
+msgid "This means that you either let the plugin create an empty table for you or that you load an existing table from either a CSV, HTML, JSON, XLS, or XLSX file."
+msgstr "Это означает, что либо Вы создадите пустую таблицу и заполните ее сами, или загрузите таблицу из файлов CSV, HTML, JSON, XLS или XLSX."
+
+#: views/view-about.php:97
+msgid "At first, you should add or import a table."
+msgstr "Сначала вы должны создать новую таблицу или импортировать уже существующую."
+
+#: views/view-about.php:80
+msgid "Tables may contain text, numbers, formulas, and even HTML code (e.g. to include images or links)."
+msgstr "Таблицы могут содержать текст, числа, формулы и HTML-код (например включать в себя изображения или ссылки)."
+
+#: views/view-about.php:79
+msgid "TablePress allows you to create and manage tables in the admin area of WordPress."
+msgstr "TablePress позволяет вам создавать таблицы и управлять ими из административной панели WordPress."
+
+#: views/view-about.php:53
+msgid "Debug and Version Information"
+msgstr "Информация о версии"
+
+#: views/view-about.php:52
+msgid "Credits and Thanks"
+msgstr "Кредиты и благодарности"
+
+#: views/view-about.php:51
+msgid "Author and License"
+msgstr "Автор и лицензия"
+
+#: views/view-about.php:50
+msgid "Help and Support"
+msgstr "Помощь и поддержка"
+
+#: views/view-about.php:49
+msgid "More Information and Documentation"
+msgstr "Информация и документация"
+
+#: views/view-about.php:48
+msgid "Usage"
+msgstr "Использование"
+
+#: views/view-about.php:47
+msgid "Plugin Purpose"
+msgstr "Назначение плагина"
+
+#: models/model-table.php:413
+msgid "Copy of %s"
+msgstr "Копия %s"
+
+#: classes/class-elementor-widget-table.php:180
+#: controllers/controller-admin.php:237 models/model-table.php:411
+#: views/class-all-tables-list-table.php:173
+#: views/class-all-tables-list-table.php:218
+#: views/class-editor-button-thickbox-list-table.php:150
+#: admin/js/build/edit.js:1 admin/js/build/export.js:1
+#: admin/js/build/import.js:1 admin/js/edit/table-preview.js:34
+#: admin/js/export/screen.jsx:37 admin/js/import/screen.jsx:60
+msgid "(no name)"
+msgstr "(без имени)"
+
+#: controllers/controller-frontend.php:1002
+#: views/class-all-tables-list-table.php:306
+msgid "%s ago"
+msgstr "%s назад"
+
+#: controllers/controller-admin_ajax.php:290 views/view-preview_table.php:64
+msgid "Because of CSS styling in your theme, the table might look different on your page!"
+msgstr "Из-за CSS стилей Вашей темы таблица на Вашей странице может выглядеть по другому!"
+
+#: controllers/controller-admin_ajax.php:289 views/view-preview_table.php:64
+msgid "This is a preview of your table."
+msgstr "Просмотр таблицы."
+
+#: controllers/controller-admin.php:1486 views/view-options.php:226
+#: views/view-options.php:235
+msgid "Uninstall TablePress"
+msgstr "Деинсталляция TablePress"
+
+#: controllers/controller-admin.php:1484
+msgid "Go to Dashboard"
+msgstr "Перейти к панели мониторинга"
+
+#: controllers/controller-admin.php:1482
+msgid "Go to &#8220;Plugins&#8221; page"
+msgstr "Перейти к &#8220; странице плагина &#8221;"
+
+#: controllers/controller-admin.php:1477
+msgid "You may now also delete your TablePress &#8220;Custom CSS&#8221; files in the <code>wp-content</code> folder."
+msgstr "Теперь вы можете также удалить ваши «файлы CSS пользователя» TablePress из папки <code>wp-content</code>."
+
+#: controllers/controller-admin.php:1475
+msgid "Please also ask him to delete your TablePress &#8220;Custom CSS&#8221; files from the server."
+msgstr "Пожалуйста, попросите администратора удалить &#8220;файлы CSS пользователя TablePress&#8221; с сервера."
+
+#: controllers/controller-admin.php:1472
+msgid "Your TablePress &#8220;Custom CSS&#8221; files have been deleted automatically."
+msgstr "Ваши &#8220; файлы CSS пользователя TablePress &#8221;были удалены автоматически."
+
+#: controllers/controller-admin.php:1469
+msgid "You may now manually delete the plugin&#8217;s folder <code>tablepress</code> from the <code>plugins</code> directory on your server or use the &#8220;Delete&#8221; link for TablePress on the WordPress &#8220;Plugins&#8221; page."
+msgstr "Теперь вы можете вручную удалить папку плагина&#8217; <code> tablepress </code> из <code>каталога плагинов</code> на вашем сервере или использовать ссылку &#8220;Удалить&#8221; в строке TablePress на странице WordPress &#8220;Плагины&#8221;."
+
+#: controllers/controller-admin.php:1467
+msgid "You may now ask the network admin to delete the plugin&#8217;s folder <code>tablepress</code> from the server, if no other site in the network uses it."
+msgstr "Сейчас Вы можете попросить администратора удалить папку плагина&#8217; <code>tablepress</code> с сервера, если более никакой сайт его не использует."
+
+#: controllers/controller-admin.php:1465
+msgid "All tables, data, and options were deleted."
+msgstr "Все таблицы, данные и параметры удалены."
+
+#: controllers/controller-admin.php:1464
+msgid "TablePress was uninstalled successfully."
+msgstr "TablePress успешно деинсталлирован."
+
+#: controllers/controller-admin.php:1375
+msgid "The table could not be loaded."
+msgstr "Таблица не может быть загружена."
+
+#: controllers/controller-admin.php:1365 controllers/controller-admin.php:1375
+#: views/class-all-tables-list-table.php:242 views/view-preview_table.php:58
+#: admin/js/build/edit.js:1 admin/js/edit/buttons.js:213
+msgid "Preview"
+msgstr "Просмотреть"
+
+#: controllers/controller-admin.php:1365
+#: controllers/controller-admin_ajax.php:304
+msgid "The preview could not be loaded."
+msgstr "Не могу загрузить предварительный просмотр."
+
+#: classes/class-import.php:177
+msgid "Imported from Manual Input"
+msgstr "Импортировано из ручного ввода"
+
+#: controllers/controller-admin.php:751
+msgid "About TablePress"
+msgstr "О TablePress"
+
+#: controllers/controller-admin.php:750 controllers/controller-admin.php:752
+msgid "About"
+msgstr "О плагине"
+
+#: controllers/controller-admin.php:743 controllers/controller-admin.php:744
+#: controllers/controller-admin.php:745
+msgid "Plugin Options"
+msgstr "Опции"
+
+#: controllers/controller-admin.php:738
+msgctxt "navigation bar"
+msgid "Export"
+msgstr "Экспорт"
+
+#: controllers/controller-admin.php:736 controllers/controller-admin.php:737
+msgid "Export a Table"
+msgstr "Экспортировать"
+
+#: controllers/controller-admin.php:731
+msgctxt "navigation bar"
+msgid "Import"
+msgstr "Импорт"
+
+#: controllers/controller-admin.php:729 controllers/controller-admin.php:730
+msgid "Import a Table"
+msgstr "Импортировать"
+
+#: controllers/controller-admin.php:722
+msgid "Edit Table"
+msgstr "Править"
+
+#: controllers/controller-admin.php:717
+msgid "Add New"
+msgstr "Новая"
+
+#: controllers/controller-admin.php:715 controllers/controller-admin.php:716
+#: admin/js/add/screen.jsx:58 admin/js/build/add.js:1
+msgid "Add New Table"
+msgstr "Добавить новую"
+
+#: controllers/controller-admin.php:708 controllers/controller-admin.php:709
+#: controllers/controller-admin.php:710
+msgid "All Tables"
+msgstr "Все таблицы"
+
+#: controllers/controller-admin.php:621
+msgctxt "Default CSV delimiter in the translated language (\";\", \",\", or \"tab\")"
+msgid ","
+msgstr ","
+
+#: controllers/controller-admin.php:437
+msgid "Support"
+msgstr "Поддержка"
+
+#: controllers/controller-admin.php:436
+msgid "Documentation"
+msgstr "Документация"
+
+#: controllers/controller-admin.php:435
+msgid "FAQ"
+msgstr "Вопросы и ответы"
+
+#: controllers/controller-admin.php:435
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+#: controllers/controller-admin.php:419
+msgid "Plugin page"
+msgstr "Страница плагина"
+
+#: classes/class-elementor-widget-table.php:197 blocks/table/build/index.js:1
+#: blocks/table/src/edit.js:116
+msgid "Table:"
+msgstr "Таблица:"
+
+#: classes/class-view.php:485 views/view-options.php:211
+#: admin/js/build/edit.js:1 admin/js/edit/buttons.js:235
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#. Plugin Name of the plugin
+#: tablepress.php classes/class-view.php:407
+msgid "TablePress"
+msgstr "TablePress"
+
+#: admin/js/build/edit.js:1 admin/js/build/list.js:1
+#: admin/js/edit/other-actions.js:67 admin/js/list.js:67
+#: admin/js/list/screen.jsx:162
+msgid "Do you really want to delete this table?"
+msgid_plural "Do you really want to delete these tables?"
+msgstr[0] "Вы действительно хотите удалить эту таблицу?"
+msgstr[1] "Вы действительно хотите удалить эти таблицы?"
+msgstr[2] "Вы действительно хотите удалить эти таблиц?"
+
+#: classes/class-view.php:159 controllers/controller-admin.php:128
+#: views/view-editor_button_thickbox.php:73
+#: views/view-editor_button_thickbox.php:118
+#: views/view-options_custom_css.php:41 views/view-preview_table.php:58
+msgid "%1$s &lsaquo; %2$s"
+msgstr "%1$s &lsaquo; %2$s"
+
+#: classes/class-view.php:117
+msgid "For more information:"
+msgstr "Больше информации:"
+
+#: classes/class-view.php:105 views/view-about.php:191
+msgid "Before asking for support, please carefully read the <a href=\"%s\">Frequently Asked Questions</a>, where you will find answers to the most common questions, and search through the forums."
+msgstr "Прежде чем просить поддержки, пожалуйста, внимательно прочитайте <a href=\"%s\">Часто задаваемые вопросы</a>, где вы найдете ответы на наиболее распространенные вопросы и поиск через форумы."
+
+#: classes/class-view.php:103 views/view-about.php:190
+msgid "<a href=\"%1$s\">Support</a> is provided through the <a href=\"%2$s\">WordPress Support Forums</a>."
+msgstr "<a href=\"%1$s\">Поддержка</a>предоставляется через<a href=\"%2$s\">форум поддержки WordPress</a>."
+
+#: classes/class-view.php:99 views/view-about.php:140
+msgid "For technical information, please see the <a href=\"%s\">Documentation</a>."
+msgstr "Для технической информации пожалуйста, смотрите в <a href=\"%s\">Документация</a>."
+
+#: classes/class-view.php:98 views/view-about.php:139
+msgid "More information about TablePress can be found on the <a href=\"%1$s\">plugin website</a> or on its page in the <a href=\"%2$s\">WordPress Plugin Directory</a>."
+msgstr "Больше информации TablePress можно найти на <a href=\"%1$s\">сайте плагина</a> или на его странице в <a href=\"%2$s\">каталоге плагинов WordPres</a>."
+
+#: classes/class-view.php:112
+msgid "TablePress Help"
+msgstr "Помощь по TablePress"
+
+#: classes/class-render.php:540 views/class-all-tables-list-table.php:229
+msgid "Edit"
+msgstr "Править"
+
+#: classes/class-render.php:359
+msgid "<!-- The table with the ID %s is empty! -->"
+msgstr "<!--Таблица ID %s пуста!-->"
+
+#: classes/class-import-legacy.php:179 classes/class-import-legacy.php:276
+#: libraries/html-parser.class.php:68
+msgid "The imported file contains errors:"
+msgstr "Импортируемый файл содержит ошибки:"
+
+#: classes/class-export.php:62
+msgid "\\t (tabulator)"
+msgstr "\\t (табулятор)"
+
+#: classes/class-export.php:61
+msgid ", (comma)"
+msgstr ", (запятая)"
+
+#: classes/class-export.php:60
+msgid "; (semicolon)"
+msgstr "; (точка с запятой)"
+
+#: classes/class-export.php:57
+msgid "JSON - JavaScript Object Notation"
+msgstr "JSON -описания объектов JavaScript"
+
+#: classes/class-export.php:56
+msgid "HTML - Hypertext Markup Language"
+msgstr "HTML - язык гипертекстовой разметки"
+
+#: classes/class-export.php:55
+msgid "CSV - Character-Separated Values"
+msgstr "CSV - значения разделенные символами"

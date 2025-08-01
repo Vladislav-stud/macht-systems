@@ -1,0 +1,381 @@
+# Translation of Themes - Hello Biz in Russian
+# This file is distributed under the same license as the Themes - Hello Biz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-06-17 09:31:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Hello Biz\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hello Biz is a free, user-friendly Hybrid WordPress Theme that was crafted for seamless integration with the Elementor site builder and tailored specifically for business websites. Perfect for beginners, but far from limited to just them, it features a dedicated beginner-oriented “Home” screen to simplify and streamline the web-building process. Hello Biz also integrates with Elementor’s premium features, giving you access to tools like AI, and accessibility enhancements in one place. Whether launching a startup site or refining a company portfolio, Hello Biz offers a solid, responsive foundation for all web creators. Report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team validates, triages, and handles vulnerabilities. Report here: https://patchstack.com/database/wordpress/theme/hello-biz/vdp."
+msgstr "Hello Biz - это бесплатная, удобная в использовании гибридная WordPress-тема, созданная для бесшовной интеграции с конструктором сайтов Elementor и предназначенная специально для бизнес-сайтов. Она идеально подходит для новичков, но далеко не ограничивается только ими: в ней есть специальный экран \"Главная\", ориентированный на новичков, чтобы упростить и оптимизировать процесс создания сайта. Hello Biz также интегрируется с премиум-функциями Elementor, предоставляя Вам доступ к таким инструментам, как искусственный интеллект и улучшение доступности в одном месте. Запускаете ли Вы сайт стартапа или дорабатываете портфолио компании, Hello Biz предлагает надежную, отзывчивую основу для всех создателей сайтов. Сообщайте об ошибках в системе безопасности через Программу раскрытия уязвимостей Patchstack. Команда Patchstack проверяет, сортирует и устраняет уязвимости. Сообщайте здесь: https://patchstack.com/database/wordpress/theme/hello-biz/vdp."
+
+#. Theme Name of the theme
+#: style.css modules/admin-home/components/admin-menu-controller.php:22
+#: modules/admin-home/components/admin-menu-controller.php:23
+#: assets/js/hello-biz-admin-top-bar.js:1
+#, gp-priority: high
+msgid "Hello Biz"
+msgstr "Hello Biz"
+
+#: modules/admin-home/rest/admin-config.php:240
+msgid "Site Favicon"
+msgstr "Значок сайта"
+
+#: modules/admin-home/rest/admin-config.php:307
+msgid "Here you'll find links to some site settings that will help you set up and get running as soon as possible. With Hello Biz you'll find creating your website is a breeze."
+msgstr "Здесь Вы найдете ссылки на некоторые настройки сайта, которые помогут Вам как можно быстрее настроить его и начать работу. С Hello Biz Вы обнаружите, что создать свой сайт - проще простого."
+
+#: modules/admin-home/rest/promotions.php:46
+msgid "Send"
+msgstr "Отправить"
+
+#: modules/admin-home/rest/admin-config.php:48
+msgid "Facebook"
+msgstr "Facebook"
+
+#: modules/admin-home/rest/admin-config.php:54
+msgid "YouTube"
+msgstr "YouTube"
+
+#: modules/admin-home/rest/admin-config.php:60
+msgid "Discord"
+msgstr "Discord"
+
+#: modules/admin-home/rest/admin-config.php:65
+msgid "Rate Us"
+msgstr "Оцените нас"
+
+#: modules/admin-home/rest/admin-config.php:79
+msgid "Blog"
+msgstr "Блог"
+
+#: modules/admin-home/rest/admin-config.php:203
+msgid "Edit"
+msgstr "Изменить"
+
+#: modules/admin-home/rest/admin-config.php:207
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: modules/admin-home/rest/admin-config.php:142
+msgid "Theme Builder"
+msgstr "Построитель тем"
+
+#: modules/admin-home/rest/admin-config.php:73
+msgid "Help Center"
+msgstr "Центр помощи"
+
+#: modules/admin-home/rest/admin-config.php:85
+msgid "Platinum Support"
+msgstr "Платиновая поддержка"
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: searchform.php:18 searchform.php:23
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: template-parts/404.php:17
+msgid "404"
+msgstr "404"
+
+#: template-parts/search.php:91
+msgid "Previous"
+msgstr "Назад"
+
+#: template-parts/search.php:102
+msgid "Next"
+msgstr "Далее"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search…"
+msgstr "Поиск…"
+
+#. translators: %d: Number of search results
+#: template-parts/search.php:27
+msgid "%d result"
+msgid_plural "%d results"
+msgstr[0] "%d результат"
+msgstr[1] "%d результата"
+msgstr[2] "%d результатов"
+
+#. translators: 1: Number of results, 2: Search term
+#: template-parts/search.php:33
+msgid "%1$s found for %2$s"
+msgstr "%1$s найдено для %2$s"
+
+#: template-parts/404.php:20
+msgid "We can't find that page"
+msgstr "Мы не можем найти эту страницу"
+
+#: template-parts/404.php:31
+msgid "Try searching or <a href=\"%s\">return to homepage</a>."
+msgstr "Попробуйте воспользоваться поиском или <a href=\"%s\">вернитесь на главную страницу</a>."
+
+#: modules/admin-home/rest/promotions.php:27
+msgid "Optimize Images."
+msgstr "Оптимизируйте изображения."
+
+#: modules/admin-home/rest/promotions.php:28
+msgid "Reduce Size."
+msgstr "Уменьшите размер."
+
+#: modules/admin-home/rest/promotions.php:29
+msgid "Improve Speed."
+msgstr "Улучшенная скорость."
+
+#: modules/admin-home/rest/promotions.php:30
+msgid "Try Image Optimizer for free"
+msgstr "Попробуйте Image Optimizer бесплатно"
+
+#: modules/theme/starter-content/home.php:400
+msgctxt "Theme starter content"
+msgid "Home"
+msgstr "Главная"
+
+#: comments.php:37
+msgctxt "comments title"
+msgid "%s Response"
+msgid_plural "%s Responses"
+msgstr[0] "%s ответ"
+msgstr[1] "%s ответа"
+msgstr[2] "%s ответов"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: modules/admin-home/components/admin-menu-controller.php:33
+#: modules/admin-home/components/admin-menu-controller.php:34
+#: modules/admin-home/components/admin-menu-controller.php:49
+#: modules/admin-home/components/admin-menu-controller.php:50
+#: template-parts/header.php:30
+msgid "Home"
+msgstr "Главная"
+
+#: modules/admin-home/rest/admin-config.php:153
+#: modules/theme/components/theme-support.php:21
+msgid "Header"
+msgstr "Заголовок"
+
+#: modules/admin-home/rest/admin-config.php:161
+#: modules/theme/components/theme-support.php:22
+msgid "Footer"
+msgstr "Подвал"
+
+#: modules/admin-home/rest/admin-config.php:317
+msgid "View site"
+msgstr "Посмотреть сайт"
+
+#: modules/admin-home/rest/promotions.php:32
+#: modules/admin-home/rest/promotions.php:51
+msgid "Install"
+msgstr "Установить"
+
+#: modules/admin-home/rest/promotions.php:83
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: modules/theme/classes/customizer-action-links.php:61
+#: modules/theme/classes/customizer-action-links.php:80
+#: modules/theme/classes/customizer-action-links.php:90
+msgid "Elementor"
+msgstr "Elementor"
+
+#: modules/theme/classes/customizer-action-links.php:62
+#: modules/theme/classes/customizer-action-links.php:64
+msgid "Install Elementor"
+msgstr "Установить Elementor"
+
+#: modules/theme/classes/customizer-action-links.php:81
+#: modules/theme/classes/customizer-action-links.php:83
+msgid "Activate Elementor"
+msgstr "Активировать Elementor"
+
+#: template-parts/footer.php:21
+msgid "Footer menu"
+msgstr "Нижнее меню"
+
+#: modules/admin-home/rest/admin-config.php:133
+#: modules/settings/components/settings-menu.php:16
+#: modules/settings/components/settings-menu.php:17
+msgid "Settings"
+msgstr "Настройки"
+
+#: modules/theme/components/customizer.php:22
+msgid "Header & Footer"
+msgstr "Заголовок и подвал"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:54
+msgid "Next %s"
+msgstr "Далее %s"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Response"
+msgstr "Один Ответ"
+
+#: includes/module-base.php:259 includes/module-base.php:270
+msgid "Something went wrong."
+msgstr "Произошла ошибка."
+
+#: modules/admin-home/rest/admin-config.php:128
+msgid "Add New Page"
+msgstr "Добавить страницу"
+
+#: modules/admin-home/rest/admin-config.php:235
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+#: modules/admin-home/rest/admin-config.php:248
+msgid "Site Colors"
+msgstr "Цвета сайта"
+
+#: modules/admin-home/rest/admin-config.php:266
+#: modules/conversion-banner/components/conversion-banner.php:56
+#: modules/theme/classes/customizer-action-links.php:93
+msgid "Begin Setup"
+msgstr "Начать настройку"
+
+#: modules/admin-home/rest/promotions.php:69
+msgid "Let's Go"
+msgstr "Поехали"
+
+#: modules/admin-home/rest/promotions.php:78
+msgid "Elementor Pro"
+msgstr "Elementor Pro"
+
+#: modules/admin-home/rest/promotions.php:79
+msgid "Bring your vision to life"
+msgstr "Воплотите своё видение"
+
+#: modules/admin-home/rest/promotions.php:90
+msgid "Form Submission"
+msgstr "Отправка формы"
+
+#: modules/admin-home/rest/promotions.php:93
+msgid "Role Manager"
+msgstr "Диспетчер ролей"
+
+#: modules/conversion-banner/components/conversion-banner.php:62
+msgid "Finish Setup"
+msgstr "Завершить настройку"
+
+#: modules/theme/classes/customizer-action-links.php:63
+#: modules/theme/classes/customizer-action-links.php:82
+msgid "Create cross-site header & footer using Elementor."
+msgstr "Создайте кросс-сайтовый верхний и нижний колонтитулы с помощью Elementor."
+
+#: modules/theme/classes/customizer-action-links.php:91
+msgid "Style cross-site header & footer"
+msgstr "Стилизуйте кросс-сайтовые верхний и нижний колонтитул"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:50
+msgid "%s Previous"
+msgstr "%s Назад"
+
+#: template-parts/header.php:43
+msgid "Main menu"
+msgstr "Главное меню"
+
+#: modules/admin-home/rest/promotions.php:86
+msgid "Popup Builder"
+msgstr "Конструктор всплывающего окна"
+
+#: template-parts/search.php:73
+msgid "It seems we can't find what you're looking for."
+msgstr "Кажется, мы не можем найти то, что вы ищете."
+
+#: template-parts/single.php:31
+msgid "Tagged "
+msgstr "Отмеченные "
+
+#: modules/admin-home/rest/admin-config.php:254
+msgid "Site Fonts"
+msgstr "Шрифты сайта"
+
+#: modules/admin-home/rest/promotions.php:24
+msgid "Elementor Image Optimizer"
+msgstr "Оптимизатор изображений Elementor"
+
+#: modules/admin-home/rest/promotions.php:64
+#: modules/admin-home/rest/promotions.php:65
+msgid "Elementor AI"
+msgstr "Elementor AI"
+
+#: modules/admin-home/rest/promotions.php:67
+msgid "Boost creativity with Elementor AI. Craft & enhance copy, create custom CSS & Code, and generate images to elevate your website."
+msgstr "Повысьте творческий потенциал с помощью Elementor AI. Создавайте и улучшайте копии, создавайте пользовательские CSS и код, генерируйте изображения, чтобы сделать Ваш сайт лучше."
+
+#: modules/admin-home/rest/promotions.php:81
+msgid "Get complete design flexibility for your website with Elementor Pro’s advanced tools and premium features."
+msgstr "Обеспечьте полную гибкость дизайна для Вашего сайта с помощью передовых инструментов и премиум-функций Elementor Pro."
+
+#: modules/admin-home/rest/promotions.php:87
+msgid "Custom Code & CSS"
+msgstr "Пользовательский код и CSS"
+
+#: modules/admin-home/rest/promotions.php:91
+msgid "Form Integrations"
+msgstr "Интеграции форм"
+
+#: modules/admin-home/rest/theme-settings.php:52
+msgid "Settings must be an array"
+msgstr "Настройки должны представлять собой массив"
+
+#: modules/theme/classes/customizer-action-links.php:95
+msgid "By clicking “Begin setup” I agree to install and activate the Hello+ plugin."
+msgstr "Нажимая кнопку \"Начать настройку\", я соглашаюсь установить и активировать плагин Hello+."
+
+#: modules/admin-home/rest/promotions.php:88
+msgid "E-commerce Features"
+msgstr "Функции электронной коммерции"
+
+#: modules/admin-home/rest/admin-config.php:311
+msgid "Edit home page"
+msgstr "Редактирование главной страницы"
+
+#: modules/admin-home/rest/promotions.php:89
+msgid "Collaborative Notes"
+msgstr "Совместные заметки"
+
+#: modules/admin-home/rest/admin-config.php:230
+msgid "Site Name"
+msgstr "Название сайта"
+
+#: modules/conversion-banner/components/conversion-banner.php:90
+msgid "Notice dismissed."
+msgstr "Уведомление отклонено."
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/products/hello-biz/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/products/hello-biz/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Elementor Team"
+msgstr "Elementor Team"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"

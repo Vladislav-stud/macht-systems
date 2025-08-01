@@ -1,0 +1,293 @@
+# Translation of Plugins - Advanced WordPress Backgrounds - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Advanced WordPress Backgrounds - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-11 09:47:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Advanced WordPress Backgrounds - Stable (latest release)\n"
+
+#: classes/class-vc-extend.php:301
+msgid "Fill"
+msgstr "Заполнить"
+
+#: classes/class-vc-extend.php:208
+msgid "Self Hosted Video"
+msgstr "Видео с собственного сервера"
+
+#. Author URI of the plugin
+#: advanced-backgrounds.php
+msgid "https://wpbackgrounds.com/?utm_source=wordpress.org&utm_medium=readme&utm_campaign=byline"
+msgstr "https://wpbackgrounds.com/?utm_source=wordpress.org&utm_medium=readme&utm_campaign=byline"
+
+#. Author of the plugin
+#: advanced-backgrounds.php
+msgid "Advanced WordPress Backgrounds Team"
+msgstr "Advanced WordPress Backgrounds Team"
+
+#: assets/admin/gutenberg/block.json
+msgctxt "block description"
+msgid "Create sections with background image, parallax, video or solid color."
+msgstr "Создавайте разделы с фоновым изображением, параллаксом, видео или сплошным цветом."
+
+#: classes/class-rest.php:71
+msgid "Sorry, you are not allowed to get the image for background."
+msgstr "К сожалению, вам не разрешено использовать изображение в качестве фона."
+
+#: assets/admin/gutenberg/block.json
+msgctxt "block keyword"
+msgid "parallax"
+msgstr "параллакс"
+
+#: assets/admin/gutenberg/block.json
+msgctxt "block keyword"
+msgid "background"
+msgstr "фон"
+
+#: assets/admin/gutenberg/block.json
+msgctxt "block keyword"
+msgid "awb"
+msgstr "awb"
+
+#: assets/admin/gutenberg/block.json
+msgctxt "block title"
+msgid "Background (AWB)"
+msgstr "Фон (AWB)"
+
+#: vendors/class-settings-api.php:407
+msgid "Choose Image"
+msgstr "Выбрать изображение"
+
+#: vendors/class-settings-api.php:386
+msgid "Choose File"
+msgstr "Выбрать файл"
+
+#: classes/class-settings.php:180
+msgid "Advanced WordPress Backgrounds Settings"
+msgstr "Настройки Advanced WordPress Backgrounds"
+
+#: classes/class-settings.php:136
+msgid "Disable video"
+msgstr "Отключить видео"
+
+#: classes/class-settings.php:120
+msgid "Disable parallax"
+msgstr "Отключить параллакс"
+
+#: classes/class-settings.php:83
+msgid "AWB"
+msgstr "AWB"
+
+#: classes/class-settings.php:82
+msgid "AWB Settings"
+msgstr "Настройки AWB"
+
+#. Description of the plugin
+#: advanced-backgrounds.php
+msgid "Parallax, Video, Images Backgrounds"
+msgstr "Parallax, Video, Images Backgrounds"
+
+#: classes/class-vc-extend.php:643
+msgid "milliseconds"
+msgstr "миллисекунды"
+
+#: classes/class-vc-extend.php:627
+msgid "pixels"
+msgstr "пиксели"
+
+#: classes/class-vc-extend.php:626
+msgid "Size"
+msgstr "Размер"
+
+#: classes/class-vc-extend.php:611
+msgid "Enable"
+msgstr "Включено"
+
+#: classes/class-vc-extend.php:598
+msgid "Mouse Parallax"
+msgstr "Параллакс мышки"
+
+#: classes/class-vc-extend.php:566
+msgid "Provide number from -1.0 to 2.0"
+msgstr "Укажите число от -1,0 до 2,0"
+
+#: classes/class-vc-extend.php:565 classes/class-vc-extend.php:642
+msgid "Speed"
+msgstr "Скорость"
+
+#: classes/class-vc-extend.php:549
+msgid "Opacity + Scale"
+msgstr "Непрозрачность + Масштаб"
+
+#: classes/class-vc-extend.php:548
+msgid "Opacity + Scroll"
+msgstr "Непрозрачность + Прокрутка"
+
+#: classes/class-vc-extend.php:547
+msgid "Opacity"
+msgstr "Непрозрачность"
+
+#: classes/class-vc-extend.php:546
+msgid "Scale"
+msgstr "Масштаб"
+
+#: classes/class-vc-extend.php:545
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: classes/class-vc-extend.php:544
+msgid "Disabled"
+msgstr "Отключить"
+
+#: classes/class-vc-extend.php:542
+msgid "Type"
+msgstr "Тип"
+
+#: classes/class-vc-extend.php:529
+msgid "Parallax"
+msgstr "Параллакс"
+
+#: classes/class-vc-extend.php:500
+msgid "Overlay Color"
+msgstr "Цвет наложения"
+
+#: classes/class-vc-extend.php:470
+msgid "Play video also when not in viewport."
+msgstr "Воспроизведение видео также, когда оно не находится в области просмотра."
+
+#: classes/class-vc-extend.php:469
+msgid "Always play"
+msgstr "Всегда воспроизводить"
+
+#: classes/class-vc-extend.php:455
+msgid "End time in seconds when video will be ended"
+msgstr "Время окончания в секундах, когда видео будет завершено"
+
+#: classes/class-vc-extend.php:454
+msgid "End Time"
+msgstr "Время окончания"
+
+#: classes/class-vc-extend.php:440
+msgid "Start time in seconds when video will be started (this value will be applied also after loop)"
+msgstr "Время начала в секундах, когда видео будет запущено (это значение будет применяться также после цикла)"
+
+#: classes/class-vc-extend.php:439
+msgid "Start Time"
+msgstr "Время начала"
+
+#: classes/class-vc-extend.php:422 classes/class-vc-extend.php:581
+msgid "Enable on Mobile Devices"
+msgstr "Включить на мобильных устройствах"
+
+#: classes/class-vc-extend.php:408
+msgid "OGV"
+msgstr "OGV"
+
+#: classes/class-vc-extend.php:394
+msgid "WEBM"
+msgstr "WEBM"
+
+#: classes/class-vc-extend.php:380
+msgid "MP4"
+msgstr "MP4"
+
+#: classes/class-vc-extend.php:367
+msgid "Video"
+msgstr "Видео"
+
+#: classes/class-vc-extend.php:349
+msgid "Supported YouTube and Vimeo URLs"
+msgstr "Поддерживаемые URL-адреса YouTube и Vimeo"
+
+#: classes/class-vc-extend.php:335
+msgid "Youtube / Vimeo"
+msgstr "Youtube / Vimeo"
+
+#: classes/class-vc-extend.php:317
+msgid "Image position. Example: 50% 50%"
+msgstr "Позиция изображения. Пример: 50% 50%"
+
+#: classes/class-vc-extend.php:302
+msgid "Pattern"
+msgstr "Паттерн"
+
+#: classes/class-vc-extend.php:300
+msgid "Contain"
+msgstr "Вместить"
+
+#: classes/class-vc-extend.php:299
+msgid "Cover"
+msgstr "Обложка"
+
+#: classes/class-vc-extend.php:252
+msgid "Poster Image"
+msgstr "Изображение постера"
+
+#: classes/class-vc-extend.php:222
+msgid "Stretch"
+msgstr "Растянуть"
+
+#: classes/class-vc-extend.php:207
+msgid "YouTube / Vimeo"
+msgstr "YouTube / Vimeo"
+
+#: classes/class-vc-extend.php:206 classes/class-vc-extend.php:239
+msgid "Image"
+msgstr "﻿Изображение"
+
+#: classes/class-vc-extend.php:205 classes/class-vc-extend.php:487
+msgid "Color"
+msgstr "Цвет"
+
+#: classes/class-vc-extend.php:204
+msgid "None"
+msgstr "Отсутствует"
+
+#: classes/class-vc-extend.php:202
+msgid "Background Type"
+msgstr "Тип фона"
+
+#: classes/class-vc-extend.php:179
+msgid "Design Options"
+msgstr "Варианты оформления"
+
+#: classes/class-vc-extend.php:177
+msgid "CSS"
+msgstr "CSS"
+
+#: classes/class-vc-extend.php:160
+msgid "Custom Classes"
+msgstr "Пользовательские классы"
+
+#. Plugin Name of the plugin
+#: advanced-backgrounds.php classes/class-vc-extend.php:143
+msgid "Advanced WordPress Backgrounds"
+msgstr "Advanced WordPress Backgrounds"
+
+#: classes/class-settings.php:99 classes/class-vc-extend.php:140
+msgid "General"
+msgstr "Основные"
+
+#: classes/class-vc-extend.php:132 classes/class-vc-extend.php:135
+msgid "Background [AWB]"
+msgstr "Фон [AWB]"
+
+#: classes/class-vc-extend.php:81
+msgid "&times;"
+msgstr "&times;"
+
+#: classes/class-vc-extend.php:81
+msgid "Select File"
+msgstr "Выбрать файл"
+
+#: classes/class-rest.php:145
+msgid "Image not found."
+msgstr "Изображение не найдено."
+
+#: classes/class-rest.php:89
+msgid "Provide image ID."
+msgstr "Укажите ID изображения."

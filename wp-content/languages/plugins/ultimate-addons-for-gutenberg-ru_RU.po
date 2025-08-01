@@ -1,0 +1,1457 @@
+# Translation of Plugins - Spectra Gutenberg Blocks – Website Builder for the Block Editor - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Spectra Gutenberg Blocks – Website Builder for the Block Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-06-18 06:49:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Spectra Gutenberg Blocks – Website Builder for the Block Editor - Stable (latest release)\n"
+
+#: lib/bsf-analytics/class-bsf-analytics.php:238
+msgid "Help us improve %1$s and our other products!<br><br>With your permission, we'd like to collect <strong>non-sensitive information</strong> from your website — like your PHP version and which features you use — so we can fix bugs faster, make smarter decisions, and build features that actually matter to you. <em>No personal info. Ever.</em>"
+msgstr "Помогите нам улучшить %1$s и другие наши продукты!<br><br>С вашего разрешения, мы хотели бы собрать <strong>конфиденциальную информацию</strong> с вашего сайта, например, информацию о вашей версии PHP и о том, какие функции вы используете, чтобы мы могли быстрее исправлять ошибки, принимать разумные решения и создавать функции, которые действительно важны для вас. <em>Никакой личной информации. Никогда.</em>"
+
+#: lib/zip-ai/classes/sidebar-configurations.php:289
+msgid "You've run out of credits."
+msgstr "У вас закончились кредиты."
+
+#: lib/zip-ai/classes/sidebar-configurations.php:291
+msgid "To continue using the assistant and access its full features, please purchase more credits."
+msgstr "Чтобы продолжить пользоваться помощником и получить доступ ко всем его функциям, необходимо приобрести дополнительные кредиты."
+
+#: lib/zip-ai/classes/sidebar-configurations.php:293
+msgid "Buy more credits"
+msgstr "Купить кредиты"
+
+#: lib/zip-ai/classes/helper.php:179
+msgid "Empty response from API."
+msgstr "Пустой ответ от API."
+
+#: lib/zip-ai/classes/helper.php:180
+msgid "empty_response"
+msgstr "empty_response"
+
+#: lib/zip-ai/classes/helper.php:200
+msgid "You do not have permission to perform this action."
+msgstr "У вас нет разрешения на выполнение этого действия."
+
+#: lib/zip-ai/classes/helper.php:211
+msgid "Encountered an error while processing your request. Please try again."
+msgstr "Произошла ошибка при обработке вашего запроса. Попробуйте снова."
+
+#: admin-core/inc/admin-menu.php:309 admin-core/inc/admin-menu.php:408
+msgid "Get Spectra Pro"
+msgstr "Получить Spectra Pro"
+
+#: admin-core/inc/admin-menu.php:528
+msgid "Installing"
+msgstr "Установка"
+
+#: admin-core/inc/admin-menu.php:529 admin-core/assets/build/dashboard-app.js:3
+msgid "Installed"
+msgstr "Установлено"
+
+#: admin-core/inc/admin-menu.php:530
+msgid "Activating"
+msgstr "Активация"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:3545
+msgid "Glide"
+msgstr "Скольжение"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:3666
+msgid "Google Play"
+msgstr "Google Play"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:3677
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:319
+msgid "Shapes"
+msgstr "Формы"
+
+#: classes/class-uagb-admin.php:424
+msgid "Want to do more with Popup Builder?"
+msgstr "Хотите сделать больше с помощью Popup Builder?"
+
+#: classes/class-uagb-admin.php:425
+msgid "Maximize your popup potential with Spectra Pro. Unlock enhanced features, intuitive design options, and increased conversions!"
+msgstr "Расширьте возможности всплывающих окон со Spectra Pro. Откройте расширенные функции, интуитивно понятный дизайн и увеличьте конверсию!"
+
+#: classes/class-uagb-admin.php:427 admin-core/assets/build/dashboard-app.js:3
+#: admin-core/assets/build/dashboard-app.js:10
+msgid "Upgrade Now"
+msgstr "Повысить тариф"
+
+#: classes/class-uagb-fse-fonts-compatibility.php:175
+#: classes/class-uagb-fse-fonts-compatibility.php:187
+msgid "normal"
+msgstr "обычный"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:549
+msgid "Ankh"
+msgstr "Анх"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:560
+msgid "App Store"
+msgstr "App Store"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:571
+msgid "iOS App Store"
+msgstr "iOS App Store"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:582
+msgid "Apper Systems AB"
+msgstr "Apper Systems AB"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:593
+msgid "Apple"
+msgstr "Apple"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:604
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:615
+msgid "Apple Whole"
+msgstr "Apple Whole"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:626
+msgid "Archway"
+msgstr "Archway"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:637
+msgid "Arrow Down"
+msgstr "Стрелка вниз"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:648
+msgid "Arrow Down 1 9"
+msgstr "Стрелка вниз 1 9"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:659
+msgid "Arrow Down 9 1"
+msgstr "Стрелка вниз 9 1"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:670
+msgid "Arrow Down A Z"
+msgstr "Стрелка вниз А Я"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:681
+msgid "Arrow Down Long"
+msgstr "Стрелка вниз длинная"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:692
+msgid "Arrow Down Short Wide"
+msgstr "Стрелка вниз короткая широкая"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:703
+msgid "Arrow Down Up Across Line"
+msgstr "Стрелка вниз вверх поперёк линии"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:714
+msgid "Arrow Down Up Lock"
+msgstr "Стрелка вниз верхний замок"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:725
+msgid "Arrow Down Wide Short"
+msgstr "Стрелка вниз широкая короткая"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:736
+msgid "Arrow Down Z A"
+msgstr "Стрелка вниз Я А"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:747
+msgid "Arrow Left"
+msgstr "Стрелка влево"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:758
+msgid "Arrow Left Long"
+msgstr "Стрелка влево длинная"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:769
+msgid "Arrow Pointer"
+msgstr "Стрелка указатель"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:780
+msgid "Arrow Right"
+msgstr "Стрелка вправо"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:791
+msgid "Arrow Right Arrow Left"
+msgstr "Стрелка вправо стрелка влево"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:802
+msgid "Arrow Right From Bracket"
+msgstr "Стрелка вправо от скобки"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:813
+msgid "Arrow Right Long"
+msgstr "Стрелка вправо длинная"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:824
+msgid "Arrow Right To Bracket"
+msgstr "Стрелка вправо к скобке"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:835
+msgid "Arrow Right To City"
+msgstr "Стрелка вправо на город"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:868
+msgid "Arrow Trend Down"
+msgstr "Стрелка тренд вниз"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:879
+msgid "Arrow Trend Up"
+msgstr "Стрелка тренд вверх"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:890
+msgid "Arrow Turn Down"
+msgstr "Стрелка поворот вниз"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:901
+msgid "Arrow Turn Up"
+msgstr "Стрелка поворот вверх"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:846
+msgid "Arrow Rotate Left"
+msgstr "Стрелка вращение влево"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:857
+msgid "Arrow Rotate Right"
+msgstr "Стрелка вращение вправо"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:912
+msgid "Arrow Up"
+msgstr "Стрелка вверх"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:923
+msgid "Arrow Up 1 9"
+msgstr "Стрелка вверх 1 9"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:934
+msgid "Arrow Up 9 1"
+msgstr "Стрелка вверх 9 1"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:945
+msgid "Arrow Up A Z"
+msgstr "Стрелка вверх А Я"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:956
+msgid "Arrow Up From Bracket"
+msgstr "Стрелка вверх от скобки"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:967
+msgid "Arrow Up From Ground Water"
+msgstr "Стрелка вверх от грунтовых вод"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:978
+msgid "Arrow Up From Water Pump"
+msgstr "Стрелка вверх от водяного насоса"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:989
+msgid "Arrow Up Long"
+msgstr "Стрелка вверх длинная"
+
+#: admin-core/ajax/common-settings.php:849
+msgid "Successfully refreshed tokens!"
+msgstr "Токены успешно обновлены!"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:538
+msgid "Angular"
+msgstr "Угловатый"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:527
+msgid "Angry Creative"
+msgstr "Злой креативный"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:516
+msgid "Angles Up"
+msgstr "Углы вверх"
+
+#: includes/blocks/modal/block.php:16
+#: admin-core/assets/build/dashboard-app.js:3 dist/blocks-placeholder.js:28
+msgid "Modal"
+msgstr "Модал"
+
+#: includes/blocks/modal/block.php:17
+msgid "This block allows you to add modal popup."
+msgstr "Всплывающее (модальное) окно."
+
+#: admin-core/inc/admin-menu.php:532 admin-core/assets/build/dashboard-app.js:3
+#: admin-core/assets/build/dashboard-app.js:12
+msgid "Activate"
+msgstr "Активировать"
+
+#: includes/blocks/image-gallery/block.php:16
+#: admin-core/assets/build/dashboard-app.js:3 dist/blocks-placeholder.js:22
+msgid "Image Gallery"
+msgstr "Галерея изображений"
+
+#: includes/blocks/counter/block.php:16
+#: admin-core/assets/build/dashboard-app.js:3 dist/blocks-placeholder.js:15
+msgid "Counter"
+msgstr "Счётчик"
+
+#: blocks-config/image-gallery/class-spectra-image-gallery.php:246
+#: includes/blocks/image-gallery/attributes.php:74
+msgid "No Caption"
+msgstr "Без подписи"
+
+#: blocks-config/image-gallery/class-spectra-image-gallery.php:477
+#: includes/blocks/image-gallery/attributes.php:136
+msgid "Load More Images"
+msgstr "Загрузить больше изображений"
+
+#: blocks-config/image-gallery/class-spectra-image-gallery.php:1429
+msgid "Unable to load image"
+msgstr "Не удалось загрузить изображение"
+
+#: includes/blocks/image-gallery/block.php:17
+msgid "Create a highly customizable image gallery"
+msgstr "Создайте настраиваемую галерею изображений"
+
+#: includes/blocks/login/block.php:16
+#: admin-core/assets/build/dashboard-app.js:3
+#: admin-core/assets/build/dashboard-app.js:4
+#: admin-core/assets/build/dashboard-app.js:18
+msgid "Login Form"
+msgstr "Форма входа"
+
+#: includes/blocks/login/block.php:17
+msgid "This block lets you add a user login form."
+msgstr "Этот блок позволяет добавить форму входа пользователя."
+
+#: includes/blocks/register/block.php:16
+#: admin-core/assets/build/dashboard-app.js:3
+#: admin-core/assets/build/dashboard-app.js:4
+#: admin-core/assets/build/dashboard-app.js:18
+msgid "Registration Form"
+msgstr "Форма регистрации"
+
+#: includes/blocks/register/block.php:17
+msgid "This block lets you add a user register form."
+msgstr "Этот блок позволяет добавить форму регистрации пользователя."
+
+#: blocks-config/popup-builder/class-uagb-popup-builder.php:264
+#: admin-core/assets/build/dashboard-app.js:11
+msgid "Popup"
+msgstr "Всплывающее окно"
+
+#: includes/blocks/counter/block.php:17
+msgid "This block allows you to add number counter."
+msgstr "Этот блок позволяет добавить числовой счетчик."
+
+#: includes/blocks/counter/attributes.php:29
+msgid "Add Your Title Here…"
+msgstr "Добавьте свой заголовок сюда…"
+
+#: classes/class-uagb-init-blocks.php:1122
+msgid ""
+"Use custom class added in block's advanced settings to target your desired block. Examples:\n"
+"\t\t.my-class {text-align: center;} // my-class is a custom selector"
+msgstr ""
+"Используйте произвольный класс, добавленный в расширенные настройки блока, чтобы указать нужный блок. Пример: \n"
+".my-class {text-align: center;} // my-class – это произвольный селектор."
+
+#: includes/blocks/how-to/block.php:16 dist/blocks-placeholder.js:19
+msgid "How To"
+msgstr "How-to Schema"
+
+#: includes/blocks/forms-upload/block.php:15
+msgid "Add a attachment in your form."
+msgstr "Добавьте вложение в вашу форму."
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:3544
+#: includes/blocks/forms-upload/block.php:14
+msgid "Upload"
+msgstr "Загрузить"
+
+#. translators: %d: Minutes interval
+#: lib/batch-processing/class-wp-background-process.php:425
+msgid "Every %d Minutes"
+msgstr "Каждые %d минут"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:2598
+msgid "Filter"
+msgstr "Фильтр"
+
+#: lib/gutenberg-templates/inc/api/favorite.php:181
+msgid "Action Completed"
+msgstr "Действие завершено"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:2565
+msgid "Fill"
+msgstr "Заполнить"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:176
+msgid "Italic"
+msgstr "Курсив"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:5297
+msgid "Crop"
+msgstr "Кадрировать"
+
+#: blocks-config/google-map/class-uagb-google-map.php:194
+msgid "Google Map for "
+msgstr "Карта Google для "
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:1466
+msgid "Mask"
+msgstr "Маска ввода"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:385
+msgid "Diamond"
+msgstr "Ромб"
+
+#: includes/blocks/slider-child/block.php:14
+#: includes/blocks/slider/block.php:16
+#: admin-core/assets/build/dashboard-app.js:3 dist/blocks-placeholder.js:38
+msgid "Slider"
+msgstr "Слайдер"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:4438
+msgid "Clock"
+msgstr "Часы"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:2831
+msgid "Paste"
+msgstr "Вставить"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:4759
+msgid "Highlighter"
+msgstr "Выделитель"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:330
+msgid "Share"
+msgstr "Поделиться"
+
+#: includes/blocks/forms-url/block.php:16
+msgid "Add a URL input field in your form."
+msgstr "Добавьте поле ввода URL в форму."
+
+#: includes/blocks/call-to-action/block.php:17
+msgid "Add a button along with heading and description."
+msgstr "Добавьте кнопку вместе с заголовком и описанием."
+
+#: includes/blocks/forms-date/block.php:15
+msgid "Add a calendar based date picker in your form."
+msgstr "Добавьте в форму переключатель даты на основе календаря."
+
+#: includes/blocks/forms-accept/block.php:15
+msgid "Add a consent statement with a checkbox in your form."
+msgstr "Добавьте в форму заявление о согласии с помощью флажка."
+
+#: includes/blocks/faq-child/block.php:15
+msgid "Add a frequently asked question/accordian to display information."
+msgstr "Добавьте часто задаваемые вопросы/аккордеон для отображения информации."
+
+#: includes/blocks/forms-hidden/block.php:15
+msgid "Add a hidden field in your form to pass data"
+msgstr "Добавьте в форму скрытое поле для передачи данных"
+
+#: includes/blocks/marketing-button/block.php:17
+msgid "Add a marketing call to action button with a short description."
+msgstr "Добавьте маркетинговую кнопку призыва к действию с кратким описанием."
+
+#: includes/blocks/forms-name/block.php:15
+msgid "Add a name field in your form"
+msgstr "Добавьте поле имени в вашу форму"
+
+#: includes/blocks/forms-phone/block.php:15
+msgid "Add a phone number field in your form"
+msgstr "Добавьте поле номера телефона в форму"
+
+#: includes/blocks/wp-search/block.php:17
+msgid "Add a search widget to let users search posts from your website."
+msgstr "Добавьте виджет поиска, чтобы пользователи могли искать посты на вашем сайте."
+
+#: includes/blocks/forms-select/block.php:16
+msgid "Add a select dropdown to list choices."
+msgstr "Добавьте выпадающий список для выбора вариантов."
+
+#: includes/blocks/table-of-contents/block.php:17
+msgid "Add a table of contents to allow page navigation."
+msgstr "Добавьте оглавление, чтобы обеспечить навигацию по страницам."
+
+#: includes/blocks/forms-textarea/block.php:15
+msgid "Add a text field in your form"
+msgstr "Добавьте текстовое поле в форму"
+
+#: includes/blocks/forms-email/block.php:15
+msgid "Add an email address field in your form"
+msgstr "Добавьте поле адреса электронной почты в форму"
+
+#: includes/blocks/icon-list-child/block.php:15
+msgid "Add and customize content for this list component."
+msgstr "Добавляйте и настраивайте содержимое для этого компонента списка."
+
+#: includes/blocks/forms-checkbox/block.php:15
+msgid "Add checkboxes to allow mulitple choices from optons."
+msgstr "Добавьте флажки, чтобы обеспечить множественный выбор из опций."
+
+#: includes/blocks/forms/block.php:17
+msgid "Add easily customizable forms to gather information."
+msgstr "Добавляйте легко настраиваемые формы для сбора информации."
+
+#: includes/blocks/advanced-heading/block.php:17
+msgid "Add heading, sub heading and a separator using one block."
+msgstr "Добавьте заголовок, подзаголовок и разделитель с помощью одного блока."
+
+#: includes/blocks/image/block.php:17
+msgid "Add images on your webpage with multiple customization options."
+msgstr "Добавляйте изображения на свою веб-страницу с помощью многочисленных опций настройки."
+
+#: includes/blocks/how-to/block.php:17
+msgid "Add instructions/steps on processes using how to block."
+msgstr "Добавьте инструкции/шаги по процессам, использующим способы блокирования."
+
+#: includes/blocks/buttons/block.php:17
+msgid "Add multiple buttons to redirect user to different webpages."
+msgstr "Добавьте несколько кнопок для перенаправления пользователя на различные веб-страницы."
+
+#: includes/blocks/how-to-step/block.php:14
+msgid "Add relevant content for this step."
+msgstr "Добавьте релевантный контент для этого шага."
+
+#: includes/blocks/buttons/block.php:16 dist/blocks-placeholder.js:11
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: includes/blocks/container/block.php:16 dist/blocks-placeholder.js:13
+msgid "Container"
+msgstr "Контейнер"
+
+#: includes/blocks/icon-list/block.php:17
+msgid "Create a list highlighted with icons/images."
+msgstr "Создайте список, выделенный значками/изображениями."
+
+#: includes/blocks/restaurant-menu/block.php:17
+msgid "Create an attractive price list for your products."
+msgstr "Создайте привлекательный прайс-лист для ваших товаров."
+
+#: includes/blocks/container/block.php:17
+msgid "Create beautiful layouts with flexbox powered container block."
+msgstr "Создавайте красивые макеты с помощью блока контейнеров на основе flexbox."
+
+#: includes/blocks/buttons-child/block.php:15
+msgid "Customize this button as per your need."
+msgstr "Настройте эту кнопку в соответствии с вашими потребностями."
+
+#: includes/blocks/testimonial/block.php:17
+msgid "Display customer testimonials with customizable layouts."
+msgstr "Отображение отзывов клиентов с помощью настраиваемых макетов."
+
+#: includes/blocks/star-rating/block.php:17
+msgid "Display customizable star ratings on your page."
+msgstr "Отображение настраиваемых звездных рейтингов на вашей странице."
+
+#: includes/blocks/tabs-child/block.php:15
+msgid "Display your content in a tab."
+msgstr "Отображение содержимого на вкладке."
+
+#: includes/blocks/forms/block.php:16 dist/blocks-placeholder.js:17
+msgid "Form"
+msgstr "Форма"
+
+#: includes/blocks/cf7-styler/block.php:17
+msgid "Highly customize and style your Contact Form 7 forms."
+msgstr "Высокая степень настройки и стилизация форм Contact Form 7."
+
+#: admin-core/ajax/ajax-errors.php:84
+msgid "Sorry, something went wrong."
+msgstr "Извините, что-то пошло не так."
+
+#: admin-core/ajax/ajax-errors.php:82
+#: lib/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:229
+msgid "Sorry, you are not allowed to do this operation."
+msgstr "Извините, вам не разрешено выполнять эту операцию."
+
+#. translators: %s: PHP version
+#: ultimate-addons-for-gutenberg.php:40
+msgid "Spectra requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "Spectra требует PHP версии %s+, плагин в настоящее время НЕ РАБОТАЕТ."
+
+#: includes/blocks/how-to-step/block.php:13
+msgid "Step"
+msgstr "Шаг"
+
+#: admin-core/ajax/common-settings.php:165
+#: admin-core/ajax/common-settings.php:755
+#: classes/class-uagb-init-blocks.php:548
+msgid "Successfully saved data!"
+msgstr "Успешное сохранение данных!"
+
+#. translators: %s: html tags
+#: classes/class-uagb-loader.php:441
+msgid "The %1$sSpectra%2$s plugin requires %1$sGutenberg%2$s plugin installed & activated."
+msgstr "Плагин %1$sSpectra%2$s требует установки и активации плагина %1$sGutenberg%2$s."
+
+#: blocks-config/forms/class-uagb-forms.php:320
+#: blocks-config/forms/class-uagb-forms.php:336
+msgid "Please try logging in again to verify that you are not a robot."
+msgstr "Пожалуйста, попробуйте войти еще раз, чтобы убедиться, что вы не робот."
+
+#: includes/blocks/section/block.php:16
+msgid "Advanced Row"
+msgstr "Расширенный ряд"
+
+#: includes/blocks/post-taxonomy/block.php:14
+msgid "Post Taxonomy"
+msgstr "Таксономия записи"
+
+#. Plugin Name of the plugin
+#: ultimate-addons-for-gutenberg.php admin-core/inc/admin-menu.php:349
+#: admin-core/inc/admin-menu.php:350 admin-core/inc/admin-menu.php:361
+#: admin-core/inc/admin-menu.php:371 admin-core/inc/admin-menu.php:385
+#: admin-core/inc/admin-menu.php:396 admin-core/inc/admin-menu.php:503
+#: classes/class-uagb-init-blocks.php:813 classes/class-uagb-nps-notice.php:91
+msgid "Spectra"
+msgstr "Spectra"
+
+#: admin-core/inc/admin-menu.php:304 admin-core/assets/build/dashboard-app.js:5
+#: admin-core/assets/build/dashboard-app.js:7
+msgid "Rollback"
+msgstr "Откатить назад"
+
+#: classes/class-uagb-rollback.php:165
+msgid "Spectra <p>Rollback to Previous Version</p>"
+msgstr "<p>Откат к предыдущей версии</p> Spectra"
+
+#: includes/blocks/lottie/block.php:16 dist/blocks-placeholder.js:26
+msgid "Lottie Animation"
+msgstr "Анимация Lottie"
+
+#: includes/blocks/lottie/block.php:17
+msgid "Add customizable lottie animation on your page."
+msgstr "Добавьте настраиваемую анимацию Lottie на свою страницу."
+
+#: includes/blocks/forms-radio/block.php:15
+msgid "Add radio select boxes to allow a single choice from options."
+msgstr "Добавьте поля выбора переключателя, чтобы можно было выбрать один вариант из предложенных."
+
+#: includes/blocks/restaurant-menu-child/block.php:15
+msgid "Add information for this product."
+msgstr "Добавьте информацию об этом товаре."
+
+#: includes/blocks/review/block.php:16 dist/blocks-placeholder.js:36
+msgid "Review"
+msgstr "Отзыв"
+
+#: includes/blocks/tabs/block.php:17
+msgid "Display your content under different tabs."
+msgstr "Отображение содержимого на разных вкладках."
+
+#: includes/blocks/review/block.php:17
+msgid "Add reviews to items with Schema support."
+msgstr "Добавляйте отзывы к элементам с поддержкой схемы."
+
+#: admin-core/ajax/ajax-errors.php:83
+#: lib/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:242
+msgid "Nonce validation failed"
+msgstr "Проверка одноразового номера (nonce) не удалась"
+
+#: admin-core/ajax/common-settings.php:181
+#: classes/class-uagb-init-blocks.php:1395
+msgid "No post data found!"
+msgstr "Не найдены данные записи!"
+
+#: admin-core/api/common-settings.php:98 classes/class-uagb-rest-api.php:435
+msgid "Sorry, you cannot list resources."
+msgstr "Вы не можете просматривать список ресурсов."
+
+#: classes/class-uagb-admin-helper.php:497
+msgid "Filter added through any 3rd Party Theme/Plugin."
+msgstr "Фильтр добавляется с помощью любой сторонней темы/плагина."
+
+#: includes/blocks/columns/block.php:17
+msgid "Insert a number of columns within a single row."
+msgstr "Вставьте несколько столбцов в одну строку."
+
+#: includes/blocks/google-map/block.php:17
+msgid "Show a Google Map location on your website."
+msgstr "Покажите местоположение карты Google на своем сайте."
+
+#: includes/blocks/forms-toggle/block.php:15
+msgid "Add a toggle button in your form."
+msgstr "Добавить кнопку тумблера в форму."
+
+#: includes/blocks/post-excerpt/block.php:16
+msgid "Show your post's excerpt "
+msgstr "Показать отрывок из вашего записи "
+
+#: includes/blocks/post-grid/block.php:17
+msgid "Display your posts in a grid layout."
+msgstr "Отображать записи в разметке в виде сетки."
+
+#: includes/blocks/masonry-gallery/block.php:14
+msgid "Display your core gallery in a masonary layout."
+msgstr "Отображать основную галерею в разметке в виде кладки."
+
+#: includes/blocks/post-carousel/block.php:17
+msgid "Display your posts in a sliding carousel layout."
+msgstr "Отображать записи в размете в виде скользящей карусели."
+
+#: includes/blocks/post-image/block.php:15
+msgid "Customize your post image."
+msgstr "Настройте изображение записи."
+
+#: includes/blocks/post-masonry/block.php:17
+msgid "Display your posts in a masonary layout."
+msgstr "Отображать записи в разметке в виде кладки."
+
+#: includes/blocks/post-meta/block.php:15
+msgid "Show your post meta details."
+msgstr "Показать мета данные записи."
+
+#: includes/blocks/post-title/block.php:16
+msgid "Customize your post title."
+msgstr "Настройте заголовок записи."
+
+#: includes/blocks/post-taxonomy/block.php:15
+msgid "Show your post's under categories."
+msgstr "Показать записи в категориях."
+
+#: includes/blocks/social-share-child/block.php:15
+msgid "Share your content on this social media platform."
+msgstr "Поделитесь своим содержимым на этой платформе соцсетей."
+
+#: includes/blocks/social-share/block.php:17
+msgid "Share your content on different social media platforms."
+msgstr "Поделитесь своим контентом на разных платформах соцсетей."
+
+#: includes/blocks/inline-notice/block.php:17
+msgid "Highlight important information using inline notice block."
+msgstr "Выделите важную информацию, используя встроенный блок уведомлений."
+
+#: includes/blocks/post-timeline/block.php:17
+msgid "Create an attractive timeline to display your posts."
+msgstr "Создайте привлекательную хронологию для отображения ваших записей."
+
+#: includes/blocks/content-timeline-child/block.php:15
+msgid "Add and customize displaying content of this timeline."
+msgstr "Добавьте и настройте отображение содержимого этой хронологии."
+
+#: includes/blocks/content-timeline/block.php:17
+msgid "Create a timeline displaying contents of your site."
+msgstr "Создайте хронологию, отображающую содержимое вашего сайта."
+
+#: includes/blocks/cf7-styler/block.php:16
+msgid "Contact Form 7 Designer"
+msgstr "Конструктор Contact Form 7"
+
+#: includes/blocks/gf-styler/block.php:16
+msgid "Gravity Form Designer"
+msgstr "Конструктор Gravity Form"
+
+#: includes/blocks/post-button/block.php:15
+msgid "Customize this post button."
+msgstr "Настройте эту кнопку для записи."
+
+#: includes/blocks/blockquote/block.php:17
+msgid "Display qoutes/quoted texts using blockquote."
+msgstr "Отображение цитат/цитируемых текстов с помощью блока цитат."
+
+#: includes/blocks/taxonomy-list/block.php:17
+msgid "Display your content categorized as per post type."
+msgstr "Отображение содержимого по категориям в соответствии с типом записи."
+
+#: includes/blocks/gf-styler/block.php:17
+msgid "Highly customize and style your forms created by Gravity Forms."
+msgstr "Высокая степень настройки и стилизация форм, созданных Gravity Forms."
+
+#: includes/blocks/section/block.php:17
+msgid "Outer wrap section that allows you to add other blocks within it."
+msgstr "Внешний раздел обертки, которая позволяет добавлять другие блоки внутри нее."
+
+#: includes/blocks/team/block.php:17
+msgid "Showcase your team by displaying info and social media profiles."
+msgstr "Представьте свою команду, отобразив информацию и профили в соцсетях."
+
+#: includes/blocks/forms/attributes.php:36
+msgid "Spectra Form"
+msgstr "Форма Spectra"
+
+#: includes/blocks/info-box/block.php:17
+msgid "Add image/icon, seperator and text description using a single block."
+msgstr "Добавьте изображение/значок, разделитель и текстовое описание с помощью одного блока."
+
+#: includes/blocks/faq/block.php:16 admin-core/assets/build/dashboard-app.js:3
+#: dist/blocks-placeholder.js:16
+msgid "FAQ"
+msgstr "ЧаВо"
+
+#: includes/blocks/faq/block.php:17
+msgid "Add accordions/FAQ schema to your page."
+msgstr "Добавьте схему аккордеонов/ЧаВо на свою страницу."
+
+#: includes/blocks/faq-child/block.php:14
+msgid "FAQ Child"
+msgstr "Подраздел ЧаВо"
+
+#: includes/blocks/column/block.php:15
+msgid "Immediate child of Advanced Columns."
+msgstr "Непосредственный дочерний элемент расширенных столбцов."
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:1567
+msgid "Star"
+msgstr "Звезда"
+
+#: includes/blocks/star-rating/block.php:16 dist/blocks-placeholder.js:40
+msgid "Star Ratings"
+msgstr "Оценки звёздами"
+
+#: includes/blocks/masonry-gallery/block.php:13
+#: admin-core/assets/build/dashboard-app.js:4
+msgid "Masonry Gallery"
+msgstr "Галерея в стиле кладки"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:5150
+msgid "Safari"
+msgstr "Safari"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:2579
+msgid "Opera"
+msgstr "Opera"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:4763
+msgid "Windows"
+msgstr "Windows"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:417
+msgid "Android"
+msgstr "Android"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:944
+msgid "Linux"
+msgstr "Linux"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:143
+msgid "Internet-explorer"
+msgstr "Internet Explorer"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:5210
+msgid "Design"
+msgstr "Дизайн"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:2152
+msgid "Mound"
+msgstr "Курган"
+
+#: includes/blocks/forms-accept/block.php:14
+msgid "Accept"
+msgstr "Принять"
+
+#: includes/blocks/forms-checkbox/block.php:14
+msgid "Checkbox"
+msgstr "Флажок"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:1680
+msgid "Message"
+msgstr "Сообщение"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:3661
+#: includes/blocks/forms-phone/block.php:14
+msgid "Phone"
+msgstr "Телефон"
+
+#: includes/blocks/post-excerpt/block.php:15
+msgid "Post Excerpt"
+msgstr "Отрывок записи"
+
+#: includes/blocks/post-image/block.php:14
+msgid "Post Image"
+msgstr "Изображение записи"
+
+#: includes/blocks/post-meta/block.php:14
+msgid "Post Meta"
+msgstr "Мета записи"
+
+#: includes/blocks/post-title/block.php:15
+msgid "Post Title"
+msgstr "Заголовок записи"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:4398
+#: includes/blocks/forms-radio/block.php:14
+msgid "Radio"
+msgstr "Переключатель"
+
+#: includes/blocks/forms/attributes.php:35 lib/nps-survey/dist/main.js:1
+msgid "Submit"
+msgstr "Отправить"
+
+#: includes/blocks/tabs/block.php:16 admin-core/assets/build/dashboard-app.js:3
+#: dist/blocks-placeholder.js:42
+msgid "Tabs"
+msgstr "Вкладки"
+
+#: includes/blocks/forms/attributes.php:41
+msgid "The form has been submitted Successfully!"
+msgstr "Форма успешно отправлена!"
+
+#: includes/blocks/forms/attributes.php:127
+msgid "There has been some error while submitting the form. Please verify all form fields again."
+msgstr "Произошла какая-то ошибка при отправке формы. Пожалуйста, проверьте все поля формы снова."
+
+#: includes/blocks/forms-toggle/block.php:14
+msgid "Toggle"
+msgstr "Тумблер"
+
+#: includes/blocks/forms-date/block.php:14
+msgid "Datepicker"
+msgstr "Выбор даты"
+
+#: classes/class-uagb-admin.php:196
+msgid "Error occurred, The version selected is invalid. Try selecting different version."
+msgstr "Произошла ошибка, выбранная версия недопустима. Попробуйте выбрать другую версию."
+
+#: classes/class-uagb-admin.php:183 classes/class-uagb-admin.php:214
+#: admin-core/assets/build/dashboard-app.js:4
+#: admin-core/assets/build/dashboard-app.js:5
+msgid "Rollback to Previous Version"
+msgstr "Откат к предыдущей версии"
+
+#: blocks-config/taxonomy-list/class-uagb-taxonomy-list.php:716
+#: includes/blocks/forms-select/block.php:15
+msgid "Select"
+msgstr "Выбрать"
+
+#: includes/blocks/forms-textarea/block.php:14
+msgid "Textarea"
+msgstr "Текстовая область"
+
+#: classes/class-uagb-admin.php:112 classes/class-uagb-admin.php:182
+msgid "You do not have permission to access this page."
+msgstr "У вас нет разрешения для доступа к этой странице."
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:4892
+msgid "Comments"
+msgstr "Комментарии"
+
+#: includes/blocks/content-timeline-child/block.php:14
+msgid "Content Timeline Child"
+msgstr "Дочерняя хронология содержимого"
+
+#: blocks-config/forms/class-uagb-forms.php:429
+#: includes/blocks/forms/attributes.php:70
+#: includes/blocks/forms/frontend.js.php:46
+msgid "Form Submission"
+msgstr "Отправка формы"
+
+#: includes/blocks/forms/attributes.php:174
+#: includes/blocks/forms/frontend.js.php:50
+msgid "Please fill up the above captcha."
+msgstr "Заполните вышеуказанную captcha."
+
+#: includes/blocks/forms-hidden/block.php:14
+msgid "Hidden"
+msgstr "Скрытый"
+
+#: includes/blocks/post-button/block.php:14
+msgid "Post Button"
+msgstr "Кнопка Запись"
+
+#: includes/blocks/tabs-child/block.php:14
+msgid "Tabs child"
+msgstr "Дочернии вкладки"
+
+#: admin-core/inc/admin-menu.php:122
+msgid "Starter Templates"
+msgstr "Стартовые шаблоны"
+
+#: includes/blocks/restaurant-menu-child/block.php:14
+msgid "Price List-Child"
+msgstr "Дочерний прайс-лист"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:5198
+msgid "Brands"
+msgstr "Бренды"
+
+#. translators: %s Product title
+#: lib/bsf-analytics/class-bsf-analytics.php:458
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr "Разрешить продуктам %s отслеживать неконфиденциальные данные отслеживания использования."
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:2491
+msgid "Odnoklassniki"
+msgstr "Одноклассники"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:764
+msgid "Skype"
+msgstr "Skype"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:2275
+msgid "Telegram"
+msgstr "Telegram"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:4286
+msgid "VK"
+msgstr "VK"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:4594
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:4994
+msgid "Xing"
+msgstr "XING"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:2588
+msgid "Buffer"
+msgstr "Буфер записей"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:4930
+msgid "Rocket"
+msgstr "Ракета"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:966
+msgid "List"
+msgstr "Список"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:3309
+msgid "Gears"
+msgstr "Шестерни"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:2088
+msgid "Table Columns"
+msgstr "Столбцы таблицы"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:632
+msgid "Language"
+msgstr "Язык"
+
+#: blocks-config/taxonomy-list/class-uagb-taxonomy-list.php:121
+#: includes/blocks/taxonomy-list/attributes.php:92
+msgid "Taxonomy Not Available."
+msgstr "Таксономия недоступна."
+
+#: includes/blocks/taxonomy-list/block.php:16 dist/blocks-placeholder.js:43
+msgid "Taxonomy List"
+msgstr "Список таксономий"
+
+#. translators: %s usage doc link
+#: lib/bsf-analytics/class-bsf-analytics.php:268
+msgid " Know More."
+msgstr " Узнать больше."
+
+#: includes/blocks/inline-notice/block.php:16 dist/blocks-placeholder.js:25
+msgid "Inline Notice"
+msgstr "Встроенное уведомление"
+
+#: lib/bsf-analytics/class-bsf-analytics.php:289
+msgid "No Thanks"
+msgstr "Нет, спасибо"
+
+#: lib/bsf-analytics/class-bsf-analytics.php:414
+msgid "Usage Tracking"
+msgstr "Отслеживание использования"
+
+#: lib/bsf-analytics/class-bsf-analytics.php:278
+msgid "Yes! Allow it"
+msgstr "Да! Разрешить"
+
+#: lib/bsf-analytics/class-bsf-analytics.php:244
+msgid "This will be applicable for all sites from the network."
+msgstr "Это будет применимо ко всем сайтам сети."
+
+#: lib/bsf-analytics/class-bsf-analytics.php:461
+msgid " This will be applicable for all sites from the network."
+msgstr " Это будет применимо для всех сайтов из сети."
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:577
+msgid "L"
+msgstr "L"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:1142
+msgid "M"
+msgstr "M"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:4310
+msgid "Question"
+msgstr "Вопрос"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:5117
+msgid "S"
+msgstr "S"
+
+#: includes/blocks/wp-search/block.php:16
+msgid "Search"
+msgstr "Поиск"
+
+#: blocks-config/faq/class-uagb-faq.php:1122
+#: blocks-config/faq/class-uagb-faq.php:1153
+msgid "What is FAQ?"
+msgstr "Что такое ЧаВо?"
+
+#: blocks-config/faq/class-uagb-faq.php:1126
+#: blocks-config/faq/class-uagb-faq.php:1157
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+msgstr "Lorem ipsum: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:1330
+msgid "Expand"
+msgstr "Раскрыть"
+
+#: includes/blocks/social-share-child/block.php:14
+msgid "Social Share Child"
+msgstr "Поделиться в соцсетях, дочерняя"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:2088
+msgid "Book"
+msgstr "Книга"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:4492
+msgid "Cloud"
+msgstr "Облако"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:2004
+msgid "Facebook"
+msgstr "Facebook"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:889
+msgid "Link"
+msgstr "Ссылка"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:911
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:3804
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin-core/inc/admin-menu.php:303 admin-core/inc/admin-menu.php:397
+#: admin-core/assets/build/dashboard-app.js:3
+#: admin-core/assets/build/dashboard-app.js:17
+msgid "Settings"
+msgstr "Настройки"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:3269
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:3280
+msgid "Twitter"
+msgstr "Twitter"
+
+#: blocks-config/popup-builder/class-uagb-popup-builder.php:230
+msgid "Type"
+msgstr "Тип"
+
+#: includes/blocks/forms-url/block.php:15
+msgid "URL"
+msgstr "URL"
+
+#: includes/blocks/buttons-child/block.php:14
+msgid "Button"
+msgstr "Кнопка"
+
+#: includes/blocks/forms-email/block.php:14
+msgid "Email"
+msgstr "Email"
+
+#: includes/blocks/icon-list-child/block.php:14
+#: includes/blocks/icon/block.php:16
+#: lib/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:112
+#: dist/blocks-placeholder.js:21
+msgid "Icon"
+msgstr "Значок"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:5466
+#: includes/blocks/image/block.php:16 dist/blocks-placeholder.js:23
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/blocks/forms-name/block.php:14
+msgid "Name"
+msgstr "Название"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:1978
+msgid "Blogger"
+msgstr "Blogger"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:3950
+msgid "Circle"
+msgstr "Круг"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:1587
+msgid "Medium"
+msgstr "Средний"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:1878
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:2645
+msgid "P"
+msgstr "P"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:4655
+msgid "Repeat"
+msgstr "Повторять"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:209
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:1137
+#: lib/zipwp-images/dist/main.js:1
+msgid "Square"
+msgstr "Квадрат"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:2121
+msgid "Tablet"
+msgstr "Планшет"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:2176
+msgid "Tag"
+msgstr "Тег"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:3192
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:3401
+msgid "Underline"
+msgstr "Подчеркивание"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:4154
+msgid "Video"
+msgstr "Видео"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:286
+msgid "Desktop"
+msgstr "Компьютер"
+
+#: blocks-config/table-of-content/class-uagb-table-of-content.php:703
+#: blocks-config/table-of-content/class-uagb-table-of-content.php:707
+#: includes/blocks/table-of-contents/attributes.php:18
+#: dist/blocks-placeholder.js:41
+msgid "Table Of Contents"
+msgstr "Оглавление"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:2335
+msgid "Box"
+msgstr "Блок"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:2648
+msgid "Timeline"
+msgstr "Хронология"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:4167
+msgid "Prescription"
+msgstr "Предписание"
+
+#: blocks-config/popup-builder/class-uagb-popup-builder.php:267
+msgid "Unset"
+msgstr "Сброс"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:2055
+msgid "Table"
+msgstr "Таблица"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-2.php:2163
+msgid "Mountain"
+msgstr "Гора"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-0.php:4668
+msgid "Clover"
+msgstr "Клевер"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:3688
+msgid "Google Plus G"
+msgstr "Google Plus G"
+
+#: blocks-config/popup-builder/class-uagb-popup-builder.php:231
+msgid "Author"
+msgstr "Автор"
+
+#: classes/class-uagb-fse-fonts-compatibility.php:165
+#: classes/class-uagb-init-blocks.php:1020
+msgid "Default"
+msgstr "По умолчанию"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-1.php:4567
+#: includes/blocks/advanced-heading/block.php:16 dist/blocks-placeholder.js:9
+msgid "Heading"
+msgstr "Заголовок"
+
+#: includes/blocks/separator/block.php:16 dist/blocks-placeholder.js:37
+msgid "Separator"
+msgstr "Разделитель"
+
+#: blocks-config/table-of-content/class-uagb-table-of-content.php:991
+#: includes/blocks/table-of-contents/attributes.php:19
+msgid "Add a header to begin generating the table of contents"
+msgstr "Добавьте заголовок, чтобы начать генерировать оглавление"
+
+#: classes/class-uagb-init-blocks.php:1194 classes/class-uagb-rest-api.php:318
+#: classes/class-uagb-rest-api.php:333
+msgid "None"
+msgstr "Отсутствует"
+
+#: lib/astra-notices/class-astra-notices.php:146
+msgid "WordPress Nonce not validated."
+msgstr "WordPress Nonce не подтвержден."
+
+#: includes/blocks/table-of-contents/block.php:16
+msgid "Table of Contents"
+msgstr "Оглавление"
+
+#: classes/class-uagb-init-blocks.php:1270
+msgid "You have not added any Gravity Forms yet."
+msgstr "Вы еще не добавили никаких Gravity Forms."
+
+#: classes/class-uagb-init-blocks.php:518
+msgid "Please select a valid Gravity Form."
+msgstr "Выберите действующую форму Gravity Form."
+
+#: includes/blocks/marketing-button/block.php:16 dist/blocks-placeholder.js:27
+msgid "Marketing Button"
+msgstr "Маркетинговая кнопка"
+
+#: classes/class-uagb-init-blocks.php:1223
+#: classes/class-uagb-init-blocks.php:1256
+msgid "Select Form"
+msgstr "Выбрать форму"
+
+#: classes/class-uagb-init-blocks.php:796
+msgid "Please select a valid Contact Form 7."
+msgstr "Пожалуйста, выберите действующую контактную форму 7."
+
+#: classes/class-uagb-init-blocks.php:1237
+msgid "You have not added any Contact Form 7 yet."
+msgstr "Вы еще не добавили Contact Form 7."
+
+#: classes/class-uagb-helper.php:478
+msgid "Full"
+msgstr "Полный"
+
+#: includes/blocks/blockquote/block.php:16 dist/blocks-placeholder.js:10
+msgid "Blockquote"
+msgstr "Цитата"
+
+#. translators: %s: html tags
+#: classes/class-uagb-admin.php:379
+msgid "Spectra requires&nbsp;%3$sBlock Editor%4$s. You can change your editor settings to Block Editor from&nbsp;%1$shere%2$s. Plugin is currently NOT RUNNING."
+msgstr "Spectra нуждается в %3$sредакторе блоков%4$s. Включить его можно %1$sздесь%2$s. Плагин в настоящее время НЕ РАБОТАЕТ."
+
+#: admin-core/ajax/common-settings.php:217
+msgid "Plugin Successfully Activated"
+msgstr "Плагин успешно активирован"
+
+#: includes/blocks/restaurant-menu/block.php:16 dist/blocks-placeholder.js:32
+msgid "Price List"
+msgstr "Прайс-лист"
+
+#. translators: %s: WordPress version
+#: ultimate-addons-for-gutenberg.php:57
+msgid "Spectra requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "Spectra требует WordPress версии %s+. Поскольку вы используете более раннюю версию, плагин в настоящее время НЕ РАБОТАЕТ."
+
+#: includes/blocks/columns/block.php:16
+msgid "Advanced Columns"
+msgstr "Расширенные столбцы"
+
+#: includes/blocks/column/block.php:14
+msgid "Column"
+msgstr "Столбец"
+
+#: includes/blocks/call-to-action/block.php:16 dist/blocks-placeholder.js:12
+msgid "Call To Action"
+msgstr "Призыв к действию"
+
+#: includes/blocks/post-masonry/block.php:16
+msgid "Post Masonry"
+msgstr "Кладка записи"
+
+#: includes/blocks/post-carousel/block.php:16 dist/blocks-placeholder.js:30
+msgid "Post Carousel"
+msgstr "Карусель записи"
+
+#: blocks-config/post-timeline/class-uagb-post-timeline.php:907
+msgid "No posts found"
+msgstr "Записей не найдено"
+
+#. Description of the plugin
+#: ultimate-addons-for-gutenberg.php
+msgid "The Spectra extends the Gutenberg functionality with several unique and feature-rich blocks that help build websites faster."
+msgstr "Spectra расширяет функциональность Gutenberg несколькими уникальными и многофункциональными блоками, которые помогают создавать сайты быстрее."
+
+#: includes/blocks/post-timeline/block.php:16 dist/blocks-placeholder.js:47
+msgid "Post Timeline"
+msgstr "Хронология записи"
+
+#: includes/blocks/icon-list/block.php:16 dist/blocks-placeholder.js:20
+msgid "Icon List"
+msgstr "Список значков"
+
+#: includes/blocks/testimonial/block.php:16 dist/blocks-placeholder.js:45
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: includes/blocks/icon-list/attributes.php:19
+msgid "Label #1"
+msgstr "Этикетка №1"
+
+#: includes/blocks/team/block.php:16 dist/blocks-placeholder.js:44
+msgid "Team"
+msgstr "Команда"
+
+#: includes/blocks/social-share/block.php:16 dist/blocks-placeholder.js:39
+msgid "Social Share"
+msgstr "Поделиться в соцсетях"
+
+#: includes/blocks/content-timeline/block.php:16 dist/blocks-placeholder.js:46
+msgid "Content Timeline"
+msgstr "Хронология содержимого"
+
+#: admin-core/inc/admin-menu.php:372 admin-core/assets/build/dashboard-app.js:3
+#: admin-core/assets/build/dashboard-app.js:4
+msgid "Blocks"
+msgstr "Блоки"
+
+#: includes/blocks/post-grid/block.php:16 dist/blocks-placeholder.js:31
+msgid "Post Grid"
+msgstr "Сетка записи"
+
+#: admin-core/inc/admin-menu.php:531 admin-core/assets/build/dashboard-app.js:3
+msgid "Activated"
+msgstr "Активировано"
+
+#: blocks-config/uagb-controls/spectra-icons-v6-3.php:253
+msgid "Section"
+msgstr "Раздел"
+
+#: includes/blocks/google-map/block.php:16 dist/blocks-placeholder.js:18
+msgid "Google Maps"
+msgstr "Карты Google"
+
+#: blocks-config/post-timeline/class-uagb-post-timeline.php:545
+#: blocks-config/post/class-uagb-post.php:624
+#: blocks-config/post/class-uagb-post.php:2239
+#: includes/blocks/post-carousel/attributes.php:122
+#: includes/blocks/post-grid/attributes.php:113
+#: includes/blocks/post-masonry/attributes.php:115
+msgid "Read More"
+msgstr "Читать дальше"
+
+#: includes/blocks/info-box/block.php:16 dist/blocks-placeholder.js:24
+msgid "Info Box"
+msgstr "Инфо-бокс"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: ultimate-addons-for-gutenberg.php
+msgid "https://www.brainstormforce.com"
+msgstr "https://www.brainstormforce.com"
+
+#: classes/class-uagb-loader.php:444
+msgid "Install Gutenberg"
+msgstr "Установить Gutenberg"
+
+#. Author of the plugin
+#: ultimate-addons-for-gutenberg.php
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"

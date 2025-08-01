@@ -1,0 +1,1791 @@
+# Translation of Plugins - Max Mega Menu - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Max Mega Menu - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-02 12:48:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Max Mega Menu - Stable (latest release)\n"
+
+#: integration/block/location/build/block.json
+#: integration/block/location/src/block.json
+msgctxt "block keyword"
+msgid "navigation"
+msgstr "навигация"
+
+#: integration/block/location/block.php:23
+#: integration/block/location/build/index.js:1
+#: integration/block/location/src/edit.js:73
+msgid "Select a location"
+msgstr "Выберите местоположение"
+
+#: classes/pages/locations.php:852
+msgid "Block (Gutenberg)"
+msgstr "Блок (Gutenberg)"
+
+#: classes/pages/themes.php:3320
+msgid "Example CSS"
+msgstr "Пример CSS"
+
+#: classes/pages/locations.php:1344
+msgid "Collapse all"
+msgstr "Свернуть все"
+
+#: classes/pages/locations.php:1345
+msgid "Expand all"
+msgstr "Расширить все"
+
+#: classes/menu-item-manager.class.php:714
+msgid "Icon position"
+msgstr "Позиция значка"
+
+#: classes/menu-item-manager.class.php:674
+msgid "Close sub menu when clicked"
+msgstr "Закрыть подменю при нажатии"
+
+#: classes/pages/locations.php:773
+msgid "Mobile Sub Menu Default State"
+msgstr "Статус мобильного подменю по умолчанию"
+
+#: classes/pages/locations.php:774
+msgid "Define the default state of the sub menus when the mobile menu is visible."
+msgstr "Определите состояние подменю по умолчанию при отображении мобильного меню."
+
+#: classes/menu-item-manager.class.php:679
+msgid "Intended for use on anchor links (e.g. #about)"
+msgstr "Предназначен для использования в анкорных ссылках (например, #about)"
+
+#: classes/pages/locations.php:1298
+msgid "First click will follow the link (the arrow must be used to toggle sub menu visiblity)."
+msgstr "Первый щёлкнуть будет следовать по ссылке (стрелку нужно использовать для переключения видимости подменю)."
+
+#: classes/pages/locations.php:821
+msgid "Container"
+msgstr "Контейнер"
+
+#: classes/pages/locations.php:848
+msgid "Display Options"
+msgstr "Параметры отображения"
+
+#: classes/pages/themes.php:770
+msgid "Add new theme"
+msgstr "Добавить новую тему"
+
+#: classes/pages/themes.php:771
+msgid "Duplicate theme"
+msgstr "Дублирование темы"
+
+#: classes/pages/locations.php:1222
+msgid "Menu Location Saved"
+msgstr "Сохранено местоположение меню"
+
+#: classes/pages/themes.php:620
+msgid "PHP Format"
+msgstr "Формат PHP"
+
+#: classes/pages/themes.php:611
+msgid "JSON Format"
+msgstr "Формат JSON"
+
+#: classes/pages/themes.php:772
+msgid "Export theme"
+msgstr "Экспорт темы"
+
+#: classes/pages/themes.php:773
+msgid "Import a theme"
+msgstr "Импортировать тему"
+
+#: classes/pages/locations.php:694
+msgid "Animation"
+msgstr "Анимация"
+
+#: classes/pages/locations.php:700 classes/pages/locations.php:725
+msgid "Speed"
+msgstr "Скорость"
+
+#: classes/nav-menus.class.php:240
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Внесенные изменения будут потеряны, если вы уйдете с этой страницы."
+
+#: classes/pages/locations.php:356
+msgid "Active for Instance"
+msgstr "Активен для экземпляра"
+
+#: classes/pages/locations.php:421
+msgid "Add Menu Location"
+msgstr "Добавить расположение меню"
+
+#: classes/pages/locations.php:462
+msgid "Add menu location"
+msgstr "Добавить расположение меню"
+
+#: classes/pages/locations.php:745
+msgid "Advanced"
+msgstr "Расширенный"
+
+#: classes/pages/locations.php:707
+msgid "Choose a style for your mobile menu"
+msgstr "Выберите стиль для мобильного меню"
+
+#: classes/pages/locations.php:436
+msgid "E.g. Footer, Blog Sidebar, Header"
+msgstr "Напр., Footer, Blog Sidebar, Header"
+
+#: classes/pages/locations.php:430
+msgid "Location Name"
+msgstr "Название локации"
+
+#: classes/nav-menus.class.php:389
+msgid "More options"
+msgstr "Дополнительные параметры"
+
+#: classes/pages/locations.php:272
+msgid "This is an overview of the menu locations supported by your theme."
+msgstr "Это обзор расположений меню, поддерживаемых вашей темой."
+
+#: classes/pages/locations.php:273
+msgid "Use these options to enable Max Mega Menu and define the behaviour of each menu location."
+msgstr "Используйте эти параметры, чтобы включить Max Mega Menu и определить поведение каждого пункта меню."
+
+#: classes/pages/locations.php:400
+msgid "to this location to enable these options."
+msgstr "в это место, чтобы включить эти параметры."
+
+#: classes/pages/locations.php:732
+msgid "Select a theme to be applied to the menu"
+msgstr "Выбрать тему для применения к меню"
+
+#: classes/pages/locations.php:676
+msgid "Select the event to trigger sub menus"
+msgstr "Выбрать событие для запуска подменю"
+
+#: classes/pages/locations.php:443
+msgid "Select a menu to be assigned to this location. This can be changed later using the Appearance > Menus > Manage Location page."
+msgstr "Выберите меню, которое будет назначено этому местоположению. Позже это можно изменить на странице Внешний вид > Меню > Управление расположением."
+
+#: classes/pages/locations.php:457
+msgid "Skip - I'll assign a menu later"
+msgstr "Пропустить - назначу меню позже"
+
+#: classes/toggle-blocks.class.php:593
+msgid "Menu Toggle (Standard)"
+msgstr "Переключатель меню (Стандартный)"
+
+#: classes/widgets/widget-elementor-template.class.php:105
+msgid "Template"
+msgstr "Шаблон"
+
+#: classes/widgets/widget-elementor-template.class.php:107
+#: classes/widgets/widget-reusable-block.class.php:115
+msgid "- Select -"
+msgstr "- Выбрать -"
+
+#: classes/widgets/widget-reusable-block.class.php:113
+msgid "Block"
+msgstr "Блок"
+
+#: classes/nav-menus.class.php:494 classes/pages/locations.php:1585
+msgid "Slide Down"
+msgstr "Скольжение вниз"
+
+#: classes/pages/themes.php:1269 classes/pages/themes.php:1668
+#: classes/pages/themes.php:1886 classes/pages/themes.php:2082
+msgid "Color (Hover)"
+msgstr "Цвет (при наведении)"
+
+#: classes/pages/themes.php:1356
+msgid "Apply the 'hover' styling to current menu items. Applies to top level menu items only."
+msgstr "Примените стиль 'hover' (при наведении) к текущим пунктам меню. Применяется только к пунктам меню верхнего уровня."
+
+#: classes/pages/themes.php:962
+msgid "Caution: Reset the styling of widgets within the mega menu? This may break the styling of widgets that you have added to your sub menus. Default: Disabled."
+msgstr "Внимание: Сбросить стилистику виджетов в мегаменю? Это может нарушить стилистику виджетов, добавленных в подменю. По умолчанию: Отключено."
+
+#: classes/menu-item-manager.class.php:765
+msgid "Collapse sub menu"
+msgstr "Свернуть подменю"
+
+#: classes/pages/themes.php:1518
+msgid "Column Padding"
+msgstr "Отступ столбца"
+
+#: classes/pages/themes.php:1365
+msgid "Documentation: Highlighting Menu Items"
+msgstr "Документация: Выделение пунктов меню"
+
+#: classes/pages/themes.php:2552
+msgid "Force Full Width"
+msgstr "Принудительно использовать полную ширину"
+
+#: classes/pages/themes.php:1554
+msgid "Title Font"
+msgstr "Шрифт заголовка"
+
+#: classes/pages/themes.php:1214
+msgid "Item Spacing"
+msgstr "Расстояние между элементами"
+
+#: classes/pages/themes.php:1260 classes/pages/themes.php:1877
+#: classes/pages/themes.php:2073
+msgid "Item Border"
+msgstr "Рамка элемента"
+
+#: classes/pages/themes.php:1301
+msgid "Item Border Radius"
+msgstr "Радиус рамки элемента"
+
+#: classes/pages/themes.php:1597
+msgid "Title Padding"
+msgstr "Внутренний отступ заголовка"
+
+#: classes/pages/themes.php:1628
+msgid "Title Margin"
+msgstr "Внешний отступ заголовка"
+
+#: classes/pages/themes.php:1659
+msgid "Title Border"
+msgstr "Рамка заголовка"
+
+#: classes/pages/themes.php:1846 classes/pages/themes.php:2042
+msgid "Item Margin"
+msgstr "Внешний отступ элемента"
+
+#: classes/pages/themes.php:2043
+msgid "Set the margin for the third level menu items."
+msgstr "Установите внешний отступ для пунктов меню третьего уровня."
+
+#: classes/pages/themes.php:2074
+msgid "Set the border for the third level menu items."
+msgstr "Установите рамку для элементов третьего уровня меню."
+
+#: classes/toggle-blocks.class.php:779
+msgid "After"
+msgstr "После"
+
+#: classes/toggle-blocks.class.php:778
+msgid "Before"
+msgstr "Перед"
+
+#: classes/menu-item-manager.class.php:782
+msgid "Settings"
+msgstr "Настройки"
+
+#: classes/pages/themes.php:3086
+msgid "1 Column"
+msgstr "1 столбец"
+
+#: classes/pages/themes.php:3087
+msgid "2 Columns"
+msgstr "2 столбца"
+
+#: classes/pages/locations.php:1547 classes/pages/locations.php:1668
+msgid "Fast"
+msgstr "Быстро"
+
+#: classes/toggle-blocks.class.php:851
+msgid "Large"
+msgstr "Большой"
+
+#: classes/toggle-blocks.class.php:850
+msgid "Medium"
+msgstr "Средний"
+
+#: classes/widget-manager.class.php:683 classes/widget-manager.class.php:727
+msgid "Menu Item"
+msgstr "Пункт меню"
+
+#: megamenu.php:1430
+msgid "More information"
+msgstr "Больше информации"
+
+#: classes/menu-item-manager.class.php:336
+#: classes/menu-item-manager.class.php:427
+#: classes/menu-item-manager.class.php:428
+#: classes/menu-item-manager.class.php:429
+#: classes/menu-item-manager.class.php:430
+msgid "Row"
+msgstr "Строка"
+
+#: classes/pages/themes.php:2561
+msgid "Selector"
+msgstr "Селектор"
+
+#: classes/nav-menus.class.php:461 classes/pages/locations.php:1512
+msgid "Slide Up"
+msgstr "Скольжение вверх"
+
+#: classes/pages/locations.php:1545 classes/pages/locations.php:1666
+msgid "Slow"
+msgstr "Медленно"
+
+#: classes/toggle-blocks.class.php:849
+msgid "Small"
+msgstr "Маленький"
+
+#: classes/toggle-blocks.class.php:594 classes/toggle-blocks.class.php:700
+msgid "Spacer"
+msgstr "Интервал"
+
+#: classes/toggle-blocks.class.php:763
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: classes/pages/page.php:89
+msgid "Troubleshooting"
+msgstr "Устранение неполадок"
+
+#: classes/pages/page.php:100
+msgid "Upgrade to Pro"
+msgstr "Обновление до Pro"
+
+#: classes/pages/themes.php:3285
+msgid "UPPERCASE"
+msgstr "ВЕРХНИЙ РЕГИСТР"
+
+#: classes/pages/themes.php:934 classes/toggle-blocks.class.php:706
+msgid "Width"
+msgstr "Ширина"
+
+#: classes/menu-item-manager.class.php:469
+#: classes/menu-item-manager.class.php:521
+#: classes/menu-item-manager.class.php:522
+#: classes/menu-item-manager.class.php:523
+#: classes/menu-item-manager.class.php:524
+msgid "Column"
+msgstr "Столбец"
+
+#: classes/menu-item-manager.class.php:562
+#: classes/menu-item-manager.class.php:600
+#: classes/widget-manager.class.php:1003
+msgid "Edit"
+msgstr "Изменить"
+
+#: classes/menu-item-manager.class.php:541
+#: classes/menu-item-manager.class.php:599
+#: classes/widget-manager.class.php:1000
+msgid "Expand"
+msgstr "Развернуть"
+
+#: classes/pages/themes.php:1140 classes/pages/themes.php:1589
+#: classes/pages/themes.php:1763 classes/pages/themes.php:1958
+#: classes/pages/themes.php:2671
+msgid "Align"
+msgstr "Выравнивание"
+
+#: classes/toggle-blocks.class.php:755
+msgid "Closed Icon"
+msgstr "Значок закрытия"
+
+#: classes/toggle-blocks.class.php:749
+msgid "Closed Text"
+msgstr "Текст закрытия"
+
+#: classes/menu-item-manager.class.php:857 classes/pages/themes.php:2713
+msgid "Icon"
+msgstr "Значок"
+
+#: classes/pages/themes.php:2724 classes/toggle-blocks.class.php:770
+msgid "Icon Color"
+msgstr "Цвет значка"
+
+#: classes/toggle-blocks.class.php:777
+msgid "Icon Position"
+msgstr "Позиция значка"
+
+#: classes/pages/themes.php:2718 classes/toggle-blocks.class.php:774
+msgid "Icon Size"
+msgstr "Размер значка"
+
+#: classes/menu-item-manager.class.php:839
+msgid "Search"
+msgstr "Поиск"
+
+#: classes/widgets/widget.class.php:130
+msgid "Active locations"
+msgstr "Активные местоположения"
+
+#: classes/pages/locations.php:833
+msgid "Active Menu Instance"
+msgstr "Экземпляр активного меню"
+
+#: classes/toggle-blocks.class.php:602
+msgid "Add block to toggle bar"
+msgstr "Добавить блок к переключателю"
+
+#. Description of the plugin
+#: megamenu.php
+msgid "An easy to use mega menu plugin. Written the WordPress way."
+msgstr "Простой в использовании плагин мега меню. Написан в стиле WordPress."
+
+#: classes/toggle-blocks.class.php:838
+msgid "Animated Menu Toggle Settings"
+msgstr "Настройки переключения анимированного меню"
+
+#: classes/pages/themes.php:2982
+msgid "Changes not showing up?"
+msgstr "Изменения не появляются?"
+
+#: classes/pages/themes.php:389
+msgid " - Imported"
+msgstr " - Импортировано"
+
+#: classes/pages/locations.php:834
+msgid "0: Apply to all instances. 1: Apply to first instance. 2: Apply to second instance"
+msgstr "0: Применить ко всем экземплярам. 1: Применить к первому экземпляру. 2: Применить ко второму экземпляру"
+
+#: classes/toggle-blocks.class.php:670
+msgid "Click on a block to edit it, or drag and drop it to resposition the block within the toggle bar"
+msgstr "Нажмите на блок, чтобы отредактировать его, или перетащите его, чтобы изменить положение блока на панели переключения"
+
+#: classes/pages/themes.php:2743
+msgid "Collapse mega menu content into this many columns on mobile."
+msgstr "Свернуть содержимое мега-меню в это количество столбцов на мобильном устройстве."
+
+#: classes/menu-item-manager.class.php:547
+msgid "Column class"
+msgstr "Класс столбца"
+
+#: classes/pages/themes.php:1700
+msgid "Content Font"
+msgstr "Шрифт контента"
+
+#: classes/widget-manager.class.php:362
+msgid "Didn't move items"
+msgstr "Не перемещайте элементы"
+
+#: classes/widget-manager.class.php:400
+msgid "Didn't save"
+msgstr "Не сохранил"
+
+#: classes/menu-item-manager.class.php:667
+msgid "Hide item on desktop"
+msgstr "Скрыть элемент на настольном ПК"
+
+#: classes/menu-item-manager.class.php:659
+msgid "Hide item on mobile"
+msgstr "Скрыть элемент на мобильном"
+
+#: classes/menu-item-manager.class.php:755
+msgid "Hide sub menu on mobile"
+msgstr "Скрыть подменю на мобильном"
+
+#: classes/nav-menus.class.php:427 classes/pages/locations.php:1460
+msgid "Hover Intent"
+msgstr "Намерение наведения"
+
+#: classes/nav-menus.class.php:479 classes/pages/locations.php:706
+#: classes/pages/themes.php:2423
+msgid "Mobile Menu"
+msgstr "Меню для мобильных устройств"
+
+#: classes/pages/themes.php:2535
+msgid "Mobile Sub Menu"
+msgstr "Подменю для мобильных устройств"
+
+#: classes/pages/themes.php:2445
+msgid "Mobile Toggle Bar"
+msgstr "Мобильная панель переключения"
+
+#: classes/widget-manager.class.php:360
+msgid "Moved (%s)"
+msgstr "Перемещено (%s)"
+
+#: classes/toggle-blocks.class.php:759
+msgid "Open Icon"
+msgstr "Значок открытия"
+
+#: classes/menu-item-manager.class.php:447
+msgid "Row class"
+msgstr "Класс строки"
+
+#: classes/widget-manager.class.php:398
+msgid "Saved (%s)"
+msgstr "Сохранено (%s)"
+
+#: classes/pages/themes.php:798
+msgid "This menu theme is not currently active as it has not been applied to any menu locations. You may wish to check you are editing the correct menu theme - you can choose a different theme to edit using the 'Select theme to edit' selector above. Alternatively, to apply this theme to a menu go to <i>Appearance > Menus > Max Mega Menu Settings</i> and select this theme from the 'Theme' dropdown."
+msgstr "Эта тема меню в настоящее время не активна, так как она не была применена ни к одному месту меню. Вы можете проверить, что редактируете правильную тему меню - вы можете выбрать другую тему для редактирования с помощью селектора \"Выбрать тему для изменения\" выше. Также, чтобы применить эту тему к меню, перейдите в <i>Внешний вид > Меню > Настройки Max Mega Menu</i> и выберите эту тему из выпадающего списка 'Тема'."
+
+#: classes/widgets/widget.class.php:112
+msgid "Select location"
+msgstr "Выбрать местоположение"
+
+#: classes/toggle-blocks.class.php:311
+msgid "Configure the contents of the mobile toggle bar"
+msgstr "Настройка содержимого панели переключения мобильных устройств"
+
+#: classes/pages/themes.php:2523
+msgid "Disable Mobile Toggle Bar"
+msgstr "Отключить панель переключения мобильных устройств"
+
+#: classes/pages/themes.php:2679
+msgid "Font (Active)"
+msgstr "Шрифт (активный)"
+
+#: classes/pages/themes.php:1371 classes/pages/themes.php:2737
+msgid "Mega Menus"
+msgstr "Мега Меню"
+
+#. Author of the plugin
+#: megamenu.php
+msgid "megamenu.com"
+msgstr "megamenu.com"
+
+#: classes/pages/themes.php:990
+msgid "Menu Height"
+msgstr "Высота меню"
+
+#: classes/pages/themes.php:2345
+msgid "Menu Item Font"
+msgstr "Шрифт элементов меню"
+
+#: classes/pages/themes.php:2383
+msgid "Menu Item Font (Hover)"
+msgstr "Шрифт элементов меню (при наведении)"
+
+#: classes/menu-item-manager.class.php:824
+msgid "Menu Item Icon"
+msgstr "Значок элемента меню"
+
+#: classes/toggle-blocks.class.php:743 classes/toggle-blocks.class.php:836
+msgid "Menu Toggle"
+msgstr "Переключатель меню"
+
+#: classes/toggle-blocks.class.php:592
+msgid "Menu Toggle (Animated)"
+msgstr "Переключатель меню (анимация)"
+
+#: classes/toggle-blocks.class.php:745
+msgid "Menu Toggle Settings"
+msgstr "Настройки переключателя меню"
+
+#: classes/pages/themes.php:1385
+msgid "Outer Width"
+msgstr "Наружная ширина"
+
+#: classes/menu-item-manager.class.php:235
+msgid "Sub Menu"
+msgstr "Подменю"
+
+#: classes/pages/themes.php:2119
+msgid "Sub Menu Background"
+msgstr "Фон подменю"
+
+#: classes/pages/themes.php:2141
+msgid "Sub Menu Width"
+msgstr "Ширина подменю"
+
+#: classes/toggle-blocks.class.php:767
+msgid "Text Size"
+msgstr "Размер текста"
+
+#: classes/toggle-blocks.class.php:856
+msgid "Label"
+msgstr "Этикетка"
+
+#: classes/widget-manager.class.php:723
+msgid "(no label)"
+msgstr "(нет этикетки)"
+
+#: classes/menu-item-manager.class.php:539
+#: classes/menu-item-manager.class.php:597 classes/widget-manager.class.php:998
+msgid "Contract"
+msgstr "Контракт"
+
+#: classes/pages/themes.php:1381
+msgid "Documentation: Configuring the sub menu width"
+msgstr "Документация: Настройка ширины подменю"
+
+#: classes/menu-item-manager.class.php:428
+#: classes/menu-item-manager.class.php:522
+msgid "Hidden on desktop"
+msgstr "Скрывать на компьютере"
+
+#: classes/menu-item-manager.class.php:430
+#: classes/menu-item-manager.class.php:524
+msgid "Hidden on mobile"
+msgstr "Слайды на телефоне"
+
+#: classes/menu-item-manager.class.php:246
+msgid "Mega Menu - Grid Layout"
+msgstr "Мега меню - макет сетки"
+
+#: classes/pages/page.php:276
+msgid "Error saving theme."
+msgstr "Ошибка при сохранении темы."
+
+#: classes/pages/themes.php:1390
+msgid "Inner Width"
+msgstr "Внутренняя ширина"
+
+#: classes/nav-menus.class.php:245
+msgid "Custom CSS Classes will be prefixed with 'mega-'"
+msgstr "Пользовательские CSS-классы будут иметь префикс \"mega-\""
+
+#: classes/pages/locations.php:786
+msgid "Enable output of menu item descriptions."
+msgstr "Включить вывод описаний пунктов меню."
+
+#: classes/toggle-blocks.class.php:702
+msgid "Spacer Settings"
+msgstr "Настройки интервала"
+
+#: classes/widgets/widget.class.php:140
+msgid "Inactive locations"
+msgstr "Неактивные локации"
+
+#: classes/toggle-blocks.class.php:752
+msgid "Open Text"
+msgstr "Открыть текст"
+
+#: classes/pages/themes.php:2190
+msgid "Sub Menu Border"
+msgstr "Граница подменю"
+
+#: classes/pages/page.php:280
+msgid "The server returned a 500 error. The server did not provide an error message (you should find details of the error in your server error log), but this is usually due to your server memory limit being reached."
+msgstr "Сервер вернул ошибку 500. Сервер не предоставил сообщение об ошибке (вы должны найти подробности ошибки в журнале ошибок вашего сервера), но это обычно происходит из-за достижения предела памяти вашего сервера."
+
+#: classes/toggle-blocks.class.php:743 classes/toggle-blocks.class.php:836
+msgid "TOGGLE"
+msgstr "Переключить"
+
+#: classes/toggle-blocks.class.php:852
+msgid "X Large"
+msgstr "Х большой"
+
+#: classes/pages/themes.php:659
+msgid "Import a menu theme in JSON format"
+msgstr "Импортируйте тему меню в формате JSON"
+
+#: classes/pages/themes.php:2742
+msgid "Mega Menu Columns"
+msgstr "Столбцы мега меню"
+
+#: classes/pages/page.php:278
+msgid "The server ran out of memory whilst trying to regenerate the menu CSS."
+msgstr "Сервер закончил память во время попытки восстановить CSS-меню."
+
+#: classes/pages/page.php:279
+msgid "Try disabling unusued plugins to increase the available memory. Alternatively, for details on how to increase your server memory limit see:"
+msgstr "Попробуйте отключить неиспользуемые плагины, чтобы увеличить доступную память. В качестве альтернативы, для получения подробной информации о том, как увеличить лимит памяти на вашем сервере, см."
+
+#: classes/menu-item-manager.class.php:247
+msgid "Mega Menu - Standard Layout"
+msgstr "Мега меню - стандартный макет"
+
+#: classes/menu-item-manager.class.php:427
+#: classes/menu-item-manager.class.php:521
+msgid "Visible on desktop"
+msgstr "Видимо на компьютере"
+
+#: classes/menu-item-manager.class.php:429
+#: classes/menu-item-manager.class.php:523
+msgid "Visible on mobile"
+msgstr "Видимо на мобильном"
+
+#: classes/menu-item-manager.class.php:451
+msgid "Row columns"
+msgstr "Row columns"
+
+#: classes/pages/locations.php:785
+msgid "Menu Item Descriptions"
+msgstr "Menu Item Descriptions"
+
+#: classes/pages/themes.php:2635
+msgid "The background color for each top level menu item in the mobile menu when the sub menu is open."
+msgstr "Цвет фона для каждого элемента верхнего уровня в мобильном меню, когда открыто подменю."
+
+#: classes/widgets/widget.class.php:152
+msgid "No menu locations found"
+msgstr "Не найдено локаций меню"
+
+#: megamenu.php:1338
+msgid "Max Mega Menu is not compatible with your version of WordPress. Please upgrade WordPress to the latest version or disable Max Mega Menu."
+msgstr "Плагин Max Mega Menu несовместим с вашей версией WordPress. Обновите WordPress до последней версии или отключите плагин."
+
+#: megamenu.php:1374
+msgid "clear the CSS cache"
+msgstr "очистить кэш CSS"
+
+#. translators: %s is the link to clear the menu CSS cache
+#: megamenu.php:1389
+msgid "Max Mega Menu has been updated. Please %s to ensure maximum compatibility with the latest version."
+msgstr "Max Mega Menu успешно обновлен. Пожалуйста, %s для обеспечения максимальной совместимости с последней версией."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: megamenu.php
+msgid "https://www.megamenu.com"
+msgstr "https://www.megamenu.com"
+
+#: classes/pages/locations.php:663 classes/pages/themes.php:888
+#: classes/pages/themes.php:953 classes/pages/themes.php:965
+#: classes/pages/themes.php:977 classes/pages/themes.php:1336
+#: classes/pages/themes.php:1359 classes/pages/themes.php:2409
+#: classes/pages/themes.php:2556
+msgid "Enabled"
+msgstr "Включено"
+
+#: classes/menu-item-manager.class.php:698 classes/style-manager.class.php:136
+msgid "Default"
+msgstr "По умолчанию"
+
+#: classes/menu-item-manager.class.php:719 classes/pages/themes.php:1029
+#: classes/pages/themes.php:1233 classes/pages/themes.php:1274
+#: classes/pages/themes.php:1424 classes/pages/themes.php:1460
+#: classes/pages/themes.php:1522 classes/pages/themes.php:1601
+#: classes/pages/themes.php:1632 classes/pages/themes.php:1673
+#: classes/pages/themes.php:1819 classes/pages/themes.php:1850
+#: classes/pages/themes.php:1891 classes/pages/themes.php:2014
+#: classes/pages/themes.php:2046 classes/pages/themes.php:2087
+#: classes/pages/themes.php:2163 classes/pages/themes.php:2199
+#: classes/pages/themes.php:2318 classes/pages/themes.php:2585
+msgid "Top"
+msgstr "Сверху"
+
+#: classes/pages/themes.php:1041 classes/pages/themes.php:1245
+#: classes/pages/themes.php:1286 classes/pages/themes.php:1436
+#: classes/pages/themes.php:1472 classes/pages/themes.php:1534
+#: classes/pages/themes.php:1613 classes/pages/themes.php:1644
+#: classes/pages/themes.php:1685 classes/pages/themes.php:1831
+#: classes/pages/themes.php:1862 classes/pages/themes.php:1903
+#: classes/pages/themes.php:2026 classes/pages/themes.php:2058
+#: classes/pages/themes.php:2099 classes/pages/themes.php:2175
+#: classes/pages/themes.php:2211 classes/pages/themes.php:2330
+#: classes/pages/themes.php:2597
+msgid "Bottom"
+msgstr "Снизу"
+
+#: classes/toggle-blocks.class.php:708 classes/toggle-blocks.class.php:782
+#: classes/toggle-blocks.class.php:858 classes/widget-manager.class.php:932
+msgid "Delete"
+msgstr "Удалить"
+
+#: classes/pages/themes.php:1114 classes/pages/themes.php:1563
+#: classes/pages/themes.php:1709 classes/pages/themes.php:1737
+#: classes/pages/themes.php:1932 classes/pages/themes.php:2354
+#: classes/pages/themes.php:2665 classes/toggle-blocks.class.php:848
+msgid "Size"
+msgstr "Размер"
+
+#: classes/widget-manager.class.php:141 classes/widget-manager.class.php:933
+msgid "Close"
+msgstr "Закрыть"
+
+#: classes/pages/page.php:275
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: classes/pages/themes.php:820
+msgid "Theme Title"
+msgstr "Название темы"
+
+#: classes/pages/themes.php:836
+msgid "Up"
+msgstr "Верх"
+
+#: classes/pages/themes.php:841
+msgid "Down"
+msgstr "Низ"
+
+#: classes/pages/themes.php:859
+msgid "Line Height"
+msgstr "Высота линии"
+
+#: classes/pages/themes.php:1003 classes/pages/themes.php:2612
+msgid "Menu Background"
+msgstr "Фон меню"
+
+#: classes/pages/themes.php:2656
+msgid "Font"
+msgstr "Шрифт"
+
+#: classes/widgets/widget-reusable-block.class.php:108
+#: classes/widgets/widget.class.php:104
+msgid "Title:"
+msgstr "Название:"
+
+#: classes/pages/themes.php:884
+msgid "Shadow"
+msgstr "Тень"
+
+#: classes/pages/themes.php:899
+msgid "Vertical"
+msgstr "Вертикальная"
+
+#: classes/pages/themes.php:905
+msgid "Blur"
+msgstr "Размытие"
+
+#: classes/pages/themes.php:911
+msgid "Spread"
+msgstr "Размах"
+
+#: classes/pages/themes.php:917 classes/pages/themes.php:929
+#: classes/pages/themes.php:1109 classes/pages/themes.php:1152
+#: classes/pages/themes.php:1264 classes/pages/themes.php:1341
+#: classes/pages/themes.php:1455 classes/pages/themes.php:1558
+#: classes/pages/themes.php:1663 classes/pages/themes.php:1704
+#: classes/pages/themes.php:1732 classes/pages/themes.php:1775
+#: classes/pages/themes.php:1881 classes/pages/themes.php:1927
+#: classes/pages/themes.php:1970 classes/pages/themes.php:2077
+#: classes/pages/themes.php:2194 classes/pages/themes.php:2349
+#: classes/pages/themes.php:2387 classes/pages/themes.php:2414
+#: classes/pages/themes.php:2660 classes/pages/themes.php:2683
+#: classes/toggle-blocks.class.php:844
+msgid "Color"
+msgstr "Цвет"
+
+#: classes/pages/themes.php:949
+msgid "Hover Transitions"
+msgstr "Анимация при наведении"
+
+#: classes/pages/themes.php:950
+msgid "Apply hover transitions to menu items. Note: Transitions will not apply to gradient backgrounds."
+msgstr "Установите анимацию при наведении на элементы меню. Внимание: анимация не применится к градиентным фонам."
+
+#: classes/pages/themes.php:961
+msgid "Reset Widget Styling"
+msgstr "Сбросить стили виджета"
+
+#: classes/pages/themes.php:986
+msgid "Menu Bar"
+msgstr "Меню бар"
+
+#: classes/pages/themes.php:1004
+msgid "The background color for the main menu bar. Set each value to transparent for a 'button' style menu."
+msgstr "Фоновый цвет для основного меню бара. Для \"кнопочного\" стиля меню сделайте все значения прозрачными."
+
+#: classes/pages/themes.php:1007 classes/pages/themes.php:1174
+#: classes/pages/themes.php:1196 classes/pages/themes.php:1402
+#: classes/pages/themes.php:1797 classes/pages/themes.php:1992
+#: classes/pages/themes.php:2123 classes/pages/themes.php:2261
+#: classes/pages/themes.php:2283 classes/pages/themes.php:2462
+#: classes/pages/themes.php:2616 classes/pages/themes.php:2638
+msgid "From"
+msgstr "От кого"
+
+#: classes/pages/themes.php:1017 classes/pages/themes.php:1184
+#: classes/pages/themes.php:1206 classes/pages/themes.php:1412
+#: classes/pages/themes.php:1807 classes/pages/themes.php:2002
+#: classes/pages/themes.php:2133 classes/pages/themes.php:2271
+#: classes/pages/themes.php:2293 classes/pages/themes.php:2472
+#: classes/pages/themes.php:2626 classes/pages/themes.php:2648
+msgid "To"
+msgstr "Кому"
+
+#: classes/pages/themes.php:1025 classes/pages/themes.php:2581
+msgid "Menu Padding"
+msgstr "Отступы меню"
+
+#: classes/pages/themes.php:1026
+msgid "Padding for the main menu bar."
+msgstr "Внутренние отступы для основного меню бара."
+
+#: classes/pages/themes.php:1056
+msgid "Menu Border Radius"
+msgstr "Скругление углов для меню"
+
+#: classes/pages/themes.php:1057
+msgid "Set a border radius on the main menu bar."
+msgstr "Установите border-radius для основного меню бара."
+
+#: classes/pages/themes.php:1060 classes/pages/themes.php:1305
+#: classes/pages/themes.php:1491 classes/pages/themes.php:2230
+#: classes/pages/themes.php:2496
+msgid "Top Left"
+msgstr "Сверху Слева"
+
+#: classes/pages/themes.php:1066 classes/pages/themes.php:1311
+#: classes/pages/themes.php:1497 classes/pages/themes.php:2236
+#: classes/pages/themes.php:2502
+msgid "Top Right"
+msgstr "Сверху Справа"
+
+#: classes/pages/themes.php:1072 classes/pages/themes.php:1317
+#: classes/pages/themes.php:1503 classes/pages/themes.php:2242
+#: classes/pages/themes.php:2508
+msgid "Bottom Right"
+msgstr "Снизу Справа"
+
+#: classes/pages/themes.php:1078 classes/pages/themes.php:1323
+#: classes/pages/themes.php:1509 classes/pages/themes.php:2248
+#: classes/pages/themes.php:2514
+msgid "Bottom Left"
+msgstr "Снизу Слева"
+
+#: classes/pages/themes.php:1092
+msgid "Menu Items Align"
+msgstr "Выравнивание элементов меню"
+
+#: classes/pages/themes.php:1093
+msgid "Align <i>all</i> menu items to the left (default), centrally or to the right."
+msgstr "Выровняйте <i>все</i> элементы меню по левому краю (по умолчанию), по центру или по правому краю."
+
+#: classes/pages/themes.php:1094
+msgid "This option will apply to all menu items. To align an individual menu item to the right, edit the menu item itself and set 'Menu Item Align' to 'Right'."
+msgstr "Данная опция будет применена ко всем элементам меню. Чтобы выровнять отдельный элемент меню по правому краю, измените сам элемент меню и установите выравнивание элемента меню по правому краю."
+
+#: classes/pages/themes.php:1087
+msgid "Top Level Menu Items"
+msgstr "Элементы меню высшего уровня"
+
+#: classes/pages/themes.php:2257
+msgid "Menu Item Background"
+msgstr "Фон элемента меню"
+
+#: classes/pages/themes.php:1171
+msgid "The background color for each top level menu item. Tip: Set these values to transparent if you've already set a background color on the menu bar."
+msgstr "Цвет фона для каждого элемента меню высшего уровня. Подсказка: установите значения на прозрачные, если вы уже установили фоновый цвет для меню бара."
+
+#: classes/pages/themes.php:2279
+msgid "Menu Item Background (Hover)"
+msgstr "Фон элементов меню при наведении"
+
+#: classes/pages/themes.php:1193
+msgid "The background color for a top level menu item (on hover)."
+msgstr "Фоновый цвет для элементов меню высшего уровня при наведении мыши."
+
+#: classes/pages/themes.php:1215
+msgid "Define the size of the gap between each top level menu item."
+msgstr "Установите размер пропуска между элементами меню высшего уровня."
+
+#: classes/pages/themes.php:2301 classes/pages/themes.php:2569
+msgid "Menu Item Height"
+msgstr "Высота элемента меню"
+
+#: classes/pages/themes.php:1106
+msgid "The font to use for each top level menu item."
+msgstr "Шрифт для всех элементов меню высшего уровня."
+
+#: classes/pages/themes.php:1120 classes/pages/themes.php:1569
+#: classes/pages/themes.php:1715 classes/pages/themes.php:1743
+#: classes/pages/themes.php:1938 classes/pages/themes.php:2360
+msgid "Family"
+msgstr "Гарнитура"
+
+#: classes/pages/themes.php:1125 classes/pages/themes.php:1574
+#: classes/pages/themes.php:1748 classes/pages/themes.php:1943
+#: classes/pages/themes.php:2365
+msgid "Transform"
+msgstr "Свойство text-transform"
+
+#: classes/pages/themes.php:1130 classes/pages/themes.php:1157
+#: classes/pages/themes.php:1579 classes/pages/themes.php:1753
+#: classes/pages/themes.php:1780 classes/pages/themes.php:1948
+#: classes/pages/themes.php:1975 classes/pages/themes.php:2370
+#: classes/pages/themes.php:2392
+msgid "Weight"
+msgstr "Толщина"
+
+#: classes/pages/themes.php:1149
+msgid "Set the font to use for each top level menu item (on hover)."
+msgstr "Установите шрифт для элементов меню высшего уровня при наведении мыши."
+
+#: classes/pages/themes.php:2314
+msgid "Menu Item Padding"
+msgstr "Внутренние отступы для элементов меню"
+
+#: classes/pages/themes.php:1229
+msgid "Set the padding for each top level menu item."
+msgstr "Установите padding'и для элементов меню высшего уровня"
+
+#: classes/pages/themes.php:1261
+msgid "Set the border to display on each top level menu item."
+msgstr "Установите обводку для элементов меню высшего уровня"
+
+#: classes/pages/themes.php:1302
+msgid "Set rounded corners for each top level menu item."
+msgstr "Задайте border-radius для каждого из элементов меню высшего уровня."
+
+#: classes/pages/themes.php:2405
+msgid "Menu Item Divider"
+msgstr "Разделитель элементов меню"
+
+#: classes/pages/themes.php:1333
+msgid "Show a small divider bar between each menu item."
+msgstr "Показывать маленький разделитель между каждым элементом меню."
+
+#: classes/pages/themes.php:1346
+msgid "Glow Opacity"
+msgstr "Прозрачность подсветки"
+
+#: classes/pages/themes.php:1355
+msgid "Highlight Current Item"
+msgstr "Подсвечивать текущий элемент меню"
+
+#: classes/pages/themes.php:1398
+msgid "Panel Background"
+msgstr "Фон панелей"
+
+#: classes/pages/themes.php:1375
+msgid "Panel Width"
+msgstr "Ширина панели"
+
+#: classes/pages/themes.php:1420
+msgid "Panel Padding"
+msgstr "Внутренние отступы панели"
+
+#: classes/pages/themes.php:1451
+msgid "Panel Border"
+msgstr "Рамка для панели"
+
+#: classes/pages/themes.php:1487
+msgid "Panel Border Radius"
+msgstr "Скругление углов для панели"
+
+#: classes/pages/themes.php:1701
+msgid "Set the font to use for panel contents."
+msgstr "Укажите шрифт для содержимого панелей."
+
+#: classes/pages/themes.php:1598
+msgid "Set the padding for the widget headings."
+msgstr "Установите внутренний отступ для заголовков виджетов."
+
+#: classes/pages/themes.php:1629
+msgid "Set the margin for the widget headings."
+msgstr "Установите margin для заголовков виджетов."
+
+#: classes/pages/themes.php:1660
+msgid "Set the border for the widget headings."
+msgstr "Поставьте рамку для заголовков виджетов."
+
+#: classes/pages/themes.php:1723
+msgid "Second Level Menu Items"
+msgstr "Элементы меню второго уровня"
+
+#: classes/pages/themes.php:1729
+msgid "Set the font for second level menu items when they're displayed in a Mega Menu."
+msgstr "Укажите шрифт для элементов меню второго уровня Мега меню."
+
+#: classes/pages/themes.php:1772 classes/pages/themes.php:1967
+msgid "Set the font style on hover."
+msgstr "Укажите стиль шрифта при наведении."
+
+#: classes/pages/themes.php:1794
+msgid "Set the background hover color for second level menu items."
+msgstr "Установите цвет фона при наведении для элементов меню второго уровня."
+
+#: classes/pages/themes.php:1816
+msgid "Set the padding for the second level menu items."
+msgstr "Установите внутренний отступ для элементов меню второго уровня."
+
+#: classes/pages/themes.php:1847
+msgid "Set the margin for the second level menu items."
+msgstr "Установите внешний отступ для элементов меню второго уровня."
+
+#: classes/pages/themes.php:1878
+msgid "Set the border for the second level menu items."
+msgstr "Задайте рамку для элементов меню второго уровня."
+
+#: classes/pages/themes.php:1918
+msgid "Third Level Menu Items"
+msgstr "Элементы меню третьего уровня"
+
+#: classes/pages/themes.php:1924
+msgid "Set the font for third level menu items when they're displayed in a Mega Menu."
+msgstr "Укажите шрифт для элементов меню третьего уровня Мега меню."
+
+#: classes/pages/themes.php:1989
+msgid "Set the background hover color for third level menu items."
+msgstr "Установите цвет фона при наведении для элементов меню третьего уровня."
+
+#: classes/pages/themes.php:2011
+msgid "Set the padding for the third level menu items."
+msgstr "Установите внутренний отступ для элементов меню третьего уровня."
+
+#: classes/pages/themes.php:2115
+msgid "Flyout Menus"
+msgstr "Выпадающие меню"
+
+#: classes/pages/themes.php:2120
+msgid "Set the background color for the flyout menu."
+msgstr "Установите цвет фона для выпадающего меню."
+
+#: classes/pages/themes.php:2159
+msgid "Set the padding for the whole flyout menu."
+msgstr "Установите внутренний отступ для всего выпадающего меню."
+
+#: classes/pages/themes.php:2160
+msgid "Only suitable for single level flyout menus. If you're using multi level flyout menus set these values to 0px."
+msgstr "Подходит только для одноуровневых выпадающих меню. Если вы используете многоуровневые выпадающие меню, установите значения на 0px."
+
+#: classes/pages/themes.php:2191
+msgid "Set the border for the flyout menu."
+msgstr "Установите border для выпадающего меню."
+
+#: classes/pages/themes.php:2227
+msgid "Set rounded corners for flyout menus. Rounded corners will be applied to all flyout menu levels."
+msgstr "Установите скругленные углы для выпадающих меню. Они будут примемены к выпадающим меню всех уровней."
+
+#: classes/pages/themes.php:1170
+msgid "Item Background"
+msgstr "Фон элемента"
+
+#: classes/pages/themes.php:2258
+msgid "Set the background color for a flyout menu item."
+msgstr "Установите фоновый цвет для элемента выпадающего меню."
+
+#: classes/pages/themes.php:1192 classes/pages/themes.php:1793
+#: classes/pages/themes.php:1988
+msgid "Item Background (Hover)"
+msgstr "Фон элемента при наведении"
+
+#: classes/pages/themes.php:2280
+msgid "Set the background color for a flyout menu item (on hover)."
+msgstr "Установите фоновый цвет для элемента выпадающего меню при наведении мыши."
+
+#: classes/pages/themes.php:2302
+msgid "The height of each flyout menu item."
+msgstr "Высота каждого элемента выпадающего меню."
+
+#: classes/pages/themes.php:1228 classes/pages/themes.php:1815
+#: classes/pages/themes.php:2010
+msgid "Item Padding"
+msgstr "Внутренний отступ элемента меню"
+
+#: classes/pages/themes.php:2315
+msgid "Set the padding for each flyout menu item."
+msgstr "Установите внутренний отступ для каждого элемента выпадающего меню."
+
+#: classes/pages/themes.php:1105 classes/pages/themes.php:1728
+#: classes/pages/themes.php:1923
+msgid "Item Font"
+msgstr "Шрифт элемента меню"
+
+#: classes/pages/themes.php:2346 classes/pages/themes.php:2384
+msgid "Set the font for the flyout menu items."
+msgstr "Укажите шрифт для элементов выпадающего меню."
+
+#: classes/pages/themes.php:1332
+msgid "Item Divider"
+msgstr "Разделитель элементов"
+
+#: classes/pages/themes.php:2406
+msgid "Show a line divider below each menu item."
+msgstr "Показывать линию-разделитель между каждым элементом меню."
+
+#: classes/pages/themes.php:2755
+msgid "Custom Styling"
+msgstr "Кастомное оформление"
+
+#: classes/pages/themes.php:2759
+msgid "CSS Editor"
+msgstr "Редактор CSS"
+
+#: classes/pages/themes.php:2760
+msgid "Define any custom CSS you wish to add to menus using this theme. You can use standard CSS or SCSS."
+msgstr "Добавьте свой CSS код для стилизации меню в данной теме. Поддерживается обычный CSS и SCSS."
+
+#: classes/pages/themes.php:3307
+msgid "Custom Styling Tips"
+msgstr "Подсказки по кастомной стилизации"
+
+#: classes/pages/themes.php:3311
+msgid "converts to the ID selector of the menu wrapper, e.g. div#mega-menu-wrap-primary"
+msgstr "конвертируется в ID селектор wrapper'a меню, например, div#mega-menu-wrap-primary"
+
+#: classes/pages/themes.php:3312
+msgid "converts to the ID selector of the menu, e.g. ul#mega-menu-primary"
+msgstr "конвертируется в ID селектор меню, например, ul#mega-menu-primary"
+
+#: classes/pages/themes.php:3041
+msgid "Center"
+msgstr "По центру"
+
+#: classes/pages/themes.php:3109
+msgid "Underline"
+msgstr "Подчёркнутый"
+
+#: classes/pages/themes.php:3153 classes/pages/themes.php:3185
+#: classes/toggle-blocks.class.php:880
+msgid "Disabled"
+msgstr "Отключено"
+
+#: classes/pages/themes.php:3241 classes/pages/themes.php:3354
+msgid "Theme Default"
+msgstr "Умолчания темы"
+
+#: classes/pages/themes.php:3242
+msgid "Light (300)"
+msgstr "Легкий (300)"
+
+#: classes/pages/themes.php:3243
+msgid "Normal (400)"
+msgstr "Обычный (400)"
+
+#: classes/pages/themes.php:3244
+msgid "Bold (700)"
+msgstr "Жирный (700)"
+
+#: classes/pages/themes.php:3283
+msgid "Normal"
+msgstr "Нормальный"
+
+#: classes/pages/themes.php:3284
+msgid "Capitalize"
+msgstr "Все слова с большой буквы"
+
+#: classes/style-manager.class.php:787 classes/style-manager.class.php:834
+msgid "Warning: CSS compilation failed. Please check your changes or revert the theme."
+msgstr "Внимание: ошибка компилляции CSS. Проверьте изменения или восстановите тему."
+
+#: classes/widget-manager.class.php:185 classes/widget-manager.class.php:211
+msgid "Saved %s"
+msgstr "Сохранено %s"
+
+#: classes/widget-manager.class.php:213
+msgid "Failed to save %s"
+msgstr "Ошибка сохранения %s"
+
+#: classes/widget-manager.class.php:242 classes/widget-manager.class.php:271
+msgid "Failed to update %s"
+msgstr "Ошибка обновления %s"
+
+#: classes/widget-manager.class.php:328
+msgid "Deleted %s"
+msgstr "%s удалён"
+
+#: classes/widget-manager.class.php:330
+msgid "Failed to delete %s"
+msgstr "Невозможно удалить %s"
+
+#: classes/widgets/widget.class.php:21
+msgid "Outputs a menu for a selected theme location."
+msgstr "Выводит меню для выбранной локации темы"
+
+#: classes/widgets/widget.class.php:107
+msgid "Menu Location:"
+msgstr "Локация меню:"
+
+#: classes/pages/locations.php:1206
+msgid "New Menu Location Created"
+msgstr "Создана новая локация меню"
+
+#: classes/pages/locations.php:1214
+msgid "Menu Location Deleted"
+msgstr "Локация меню удалена"
+
+#: classes/pages/themes.php:2427
+msgid "Responsive Breakpoint"
+msgstr "Адаптивный брейкпойнт"
+
+#: classes/pages/themes.php:893
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: classes/pages/themes.php:3286
+msgid "lowercase"
+msgstr "нижний регист"
+
+#: classes/pages/themes.php:775
+msgid "Delete theme"
+msgstr "Удалить тему"
+
+#: classes/widget-manager.class.php:302
+msgid "Failed to add %1$s to %2$d"
+msgstr "Не удалось добавить %1$s к %2$d"
+
+#: classes/pages/themes.php:777
+msgid "Revert theme"
+msgstr "Вернуть тему"
+
+#: classes/pages/themes.php:871
+msgid "Z Index"
+msgstr "Z Index"
+
+#: classes/widget-manager.class.php:240 classes/widget-manager.class.php:269
+msgid "Updated %1$s (new columns: %2$d)"
+msgstr "Обновлено%1$s (новых столбцов: %2$d)"
+
+#: classes/pages/themes.php:860
+msgid "Set the general line height to use in the sub menu contents."
+msgstr "Установите общую высоту строки для использования в содержимом подменю."
+
+#: classes/pages/themes.php:885
+msgid "Apply a shadow to mega and flyout menus."
+msgstr "Примените тени к мега меню и выпадающим меню."
+
+#: classes/pages/themes.php:763
+msgid "Select theme to edit"
+msgstr "Выбрать тему для изменения"
+
+#: classes/pages/themes.php:1399
+msgid "Set a background color for a whole sub menu."
+msgstr "Установить цвет фона для всего подменю."
+
+#: classes/pages/themes.php:872
+msgid "Set the z-index to ensure the sub menus appear ontop of other content."
+msgstr "Установите z-index, чтобы подменю отображались поверх другого содержимого."
+
+#: classes/pages/themes.php:1148 classes/pages/themes.php:1771
+#: classes/pages/themes.php:1966
+msgid "Item Font (Hover)"
+msgstr "Шрифт элемента (при наведении)"
+
+#: classes/pages/themes.php:991
+msgid "Define the height of each top level menu item link. This value plus the Menu Padding (top and bottom) settings define the overall height of the menu bar."
+msgstr "Определяет высоту каждой ссылки пункта меню верхнего уровня. Это значение плюс параметры Отступы меню (верхний и нижний) определяют общую высоту строки меню."
+
+#: classes/pages/themes.php:1135 classes/pages/themes.php:1162
+#: classes/pages/themes.php:1584 classes/pages/themes.php:1758
+#: classes/pages/themes.php:1785 classes/pages/themes.php:1953
+#: classes/pages/themes.php:1980 classes/pages/themes.php:2375
+#: classes/pages/themes.php:2397
+msgid "Decoration"
+msgstr "Оформление"
+
+#: classes/pages/themes.php:1421
+msgid "Set the padding for the whole sub menu. Set these values 0px if you wish your sub menu content to go edge-to-edge."
+msgstr "Установите отступ для всего подменю. Установите значения 0px, если вы хотите, чтобы содержимое вашего подменю занимало всю ширину."
+
+#: classes/pages/themes.php:1452
+msgid "Set the border to display on the sub menu."
+msgstr "Установите границу для отображения в подменю."
+
+#: classes/pages/themes.php:1488
+msgid "Set rounded corners for the sub menu."
+msgstr "Установите закругленные углы для подменю."
+
+#: classes/pages/themes.php:1555
+msgid "Set the font to use Widget headers in the mega menu. Tip: set this to the same style as the Second Level Menu Item Font to keep your styling consistent."
+msgstr "Установите шрифт для использования заголовков виджетов в мега-меню. Совет: установите его в тот же стиль, что и шрифт элементов второго уровня меню, чтобы сохранить единообразие стиля."
+
+#: classes/pages/themes.php:832
+msgid "Arrows"
+msgstr "Стрелки"
+
+#: classes/nav-menus.class.php:520 classes/pages/locations.php:731
+msgid "Theme"
+msgstr "Тема"
+
+#: classes/menu-item-manager.class.php:697
+#: classes/menu-item-manager.class.php:718 classes/pages/themes.php:846
+#: classes/pages/themes.php:1047 classes/pages/themes.php:1251
+#: classes/pages/themes.php:1292 classes/pages/themes.php:1442
+#: classes/pages/themes.php:1478 classes/pages/themes.php:1540
+#: classes/pages/themes.php:1619 classes/pages/themes.php:1650
+#: classes/pages/themes.php:1691 classes/pages/themes.php:1837
+#: classes/pages/themes.php:1868 classes/pages/themes.php:1909
+#: classes/pages/themes.php:2032 classes/pages/themes.php:2064
+#: classes/pages/themes.php:2105 classes/pages/themes.php:2181
+#: classes/pages/themes.php:2217 classes/pages/themes.php:2336
+#: classes/pages/themes.php:2603 classes/pages/themes.php:3040
+msgid "Left"
+msgstr "Слева"
+
+#: classes/menu-item-manager.class.php:699
+#: classes/menu-item-manager.class.php:720 classes/pages/themes.php:851
+#: classes/pages/themes.php:1035 classes/pages/themes.php:1239
+#: classes/pages/themes.php:1280 classes/pages/themes.php:1430
+#: classes/pages/themes.php:1466 classes/pages/themes.php:1528
+#: classes/pages/themes.php:1607 classes/pages/themes.php:1638
+#: classes/pages/themes.php:1679 classes/pages/themes.php:1825
+#: classes/pages/themes.php:1856 classes/pages/themes.php:1897
+#: classes/pages/themes.php:2020 classes/pages/themes.php:2052
+#: classes/pages/themes.php:2093 classes/pages/themes.php:2169
+#: classes/pages/themes.php:2205 classes/pages/themes.php:2324
+#: classes/pages/themes.php:2591 classes/pages/themes.php:3042
+msgid "Right"
+msgstr "Справа"
+
+#: classes/menu-item-manager.class.php:467
+#: classes/menu-item-manager.class.php:549 classes/nav-menus.class.php:395
+#: classes/widget-manager.class.php:145 classes/widget-manager.class.php:937
+msgid "Save"
+msgstr "Сохранить"
+
+#: classes/pages/page.php:83
+msgid "Documentation"
+msgstr "Документация"
+
+#: classes/pages/page.php:78
+msgid "Homepage"
+msgstr "Главная страница"
+
+#: classes/pages/tools.php:122
+msgid "Cache"
+msgstr "Кэш"
+
+#: classes/pages/tools.php:35 classes/pages/tools.php:118
+msgid "Tools"
+msgstr "Инструменты"
+
+#: classes/pages/themes.php:1549
+msgid "Widgets"
+msgstr "Виджеты"
+
+#. Plugin Name of the plugin
+#: megamenu.php classes/pages/page.php:38 classes/pages/page.php:44
+#: classes/pages/page.php:46 classes/pages/page.php:135
+#: classes/widgets/widget-elementor.class.php:37
+#: classes/widgets/widget.class.php:20
+#: integration/block/location/build/index.js:1
+#: integration/block/location/src/edit.js:70
+msgid "Max Mega Menu"
+msgstr "Max Mega Menu"
+
+#: classes/nav-menus.class.php:418
+msgid "Enable"
+msgstr "Включено"
+
+#: classes/nav-menus.class.php:338
+msgid "here"
+msgstr "здесь"
+
+#: classes/pages/general.php:34 classes/pages/general.php:113
+#: classes/pages/locations.php:659 classes/pages/themes.php:816
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: classes/menu-item-manager.class.php:236
+msgid "Mega Menus can only be created on top level menu items."
+msgstr "Мега Меню можно создавать только для высших уровней меню."
+
+#: classes/menu-item-manager.class.php:296 classes/nav-menus.class.php:237
+#: classes/pages/page.php:38
+msgid "Mega Menu"
+msgstr "Мега Меню"
+
+#: classes/menu-item-manager.class.php:252
+msgid "Sub menu display mode"
+msgstr "Режим отображения подменю"
+
+#: classes/menu-item-manager.class.php:245
+msgid "Flyout Menu"
+msgstr "Выпадающее меню"
+
+#: classes/menu-item-manager.class.php:267
+#: classes/menu-item-manager.class.php:453 classes/widget-manager.class.php:131
+msgid "column"
+msgstr "столбец"
+
+#: classes/menu-item-manager.class.php:268
+#: classes/menu-item-manager.class.php:269
+#: classes/menu-item-manager.class.php:270
+#: classes/menu-item-manager.class.php:271
+#: classes/menu-item-manager.class.php:272
+#: classes/menu-item-manager.class.php:273
+#: classes/menu-item-manager.class.php:274
+#: classes/menu-item-manager.class.php:275
+#: classes/menu-item-manager.class.php:276
+#: classes/menu-item-manager.class.php:277
+#: classes/menu-item-manager.class.php:278
+#: classes/menu-item-manager.class.php:454
+#: classes/menu-item-manager.class.php:455
+#: classes/menu-item-manager.class.php:456
+#: classes/menu-item-manager.class.php:457
+#: classes/menu-item-manager.class.php:458
+#: classes/menu-item-manager.class.php:459
+#: classes/menu-item-manager.class.php:460
+#: classes/menu-item-manager.class.php:461
+#: classes/menu-item-manager.class.php:462
+#: classes/menu-item-manager.class.php:463
+#: classes/menu-item-manager.class.php:464 classes/widget-manager.class.php:132
+#: classes/widget-manager.class.php:133 classes/widget-manager.class.php:134
+#: classes/widget-manager.class.php:135 classes/widget-manager.class.php:136
+msgid "columns"
+msgstr "столбцы"
+
+#: classes/menu-item-manager.class.php:610
+msgid "No widgets found. Add a widget to this area using the Widget Selector (top right)"
+msgstr "Виджеты не найдены. Добавьте сюда виджет при помощи селектора виджетов (сверху справа)"
+
+#: classes/menu-item-manager.class.php:631
+msgid "Menu Item Settings"
+msgstr "Настройки элементов меню"
+
+#: classes/menu-item-manager.class.php:635
+msgid "Hide text"
+msgstr "Скрыть текст"
+
+#: classes/menu-item-manager.class.php:707
+#: classes/menu-item-manager.class.php:748
+msgid "Option only available for top level menu items"
+msgstr "Доступно только для элементов высших уровней меню"
+
+#: classes/menu-item-manager.class.php:643
+msgid "Hide arrow"
+msgstr "Скрыть стрелку"
+
+#: classes/menu-item-manager.class.php:651
+msgid "Disable link"
+msgstr "Отключить ссылку"
+
+#: classes/menu-item-manager.class.php:684
+msgid "Menu item align"
+msgstr "Выравнивание элемента меню"
+
+#: classes/menu-item-manager.class.php:704
+msgid "Right aligned items will appear in reverse order on the right hand side of the menu bar"
+msgstr "Элементы, выровненные по правому краю, отобразятся в обратном порядке с правой стороны меню"
+
+#: classes/menu-item-manager.class.php:730
+msgid "Sub Menu Settings"
+msgstr "Настройки подменю"
+
+#: classes/menu-item-manager.class.php:735
+msgid "Sub menu align"
+msgstr "Выравнивание подменю"
+
+#: classes/menu-item-manager.class.php:801
+msgid "Dashicons"
+msgstr "Dashicons"
+
+#: classes/menu-item-manager.class.php:811
+msgid "Genericons"
+msgstr "Genericons"
+
+#: classes/menu-item-manager.class.php:813
+msgid "Choose from over 100 genericons with {link}"
+msgstr "Выбирайте из более чем 100 Genericons с помощью {link}"
+
+#: classes/nav-menus.class.php:149
+msgid "Max Mega Menu Settings"
+msgstr "Настройки Max Mega Menu"
+
+#: classes/nav-menus.class.php:236
+msgid "Launched for Menu ID"
+msgstr "Запущено для ID меню"
+
+#: classes/nav-menus.class.php:238
+msgid "Please enable Max Mega Menu using the settings on the left of this page."
+msgstr "Пожалуйста, включите Max Mega Menu, используя настройки слева."
+
+#: classes/nav-menus.class.php:241 classes/pages/page.php:274
+msgid "Saving"
+msgstr "Сохранение"
+
+#: classes/nav-menus.class.php:243
+msgid "Oops. Something went wrong. Please reload the page."
+msgstr "Что-то пошло не так. Пожалуйста, перезагрузите страницу."
+
+#: classes/nav-menus.class.php:345
+msgid "Please assign this menu to a theme location to enable the Mega Menu settings."
+msgstr "Пожалуйста, привяжите меню к локации темы, чтобы активировать настройки Мега Меню."
+
+#: classes/nav-menus.class.php:424 classes/pages/locations.php:675
+msgid "Event"
+msgstr "Событие"
+
+#: classes/nav-menus.class.php:428 classes/pages/locations.php:1461
+msgid "Hover"
+msgstr "Наведение мыши"
+
+#: classes/nav-menus.class.php:429 classes/pages/locations.php:1462
+msgid "Click"
+msgstr "Клик мыши"
+
+#: classes/nav-menus.class.php:434 classes/pages/locations.php:687
+msgid "Effect"
+msgstr "Эффект"
+
+#: classes/nav-menus.class.php:445 classes/nav-menus.class.php:490
+#: classes/pages/locations.php:1496 classes/pages/locations.php:1581
+#: classes/pages/themes.php:3108
+msgid "None"
+msgstr "Нет"
+
+#: classes/nav-menus.class.php:457 classes/pages/locations.php:1508
+msgid "Slide"
+msgstr "Сдвиг"
+
+#: classes/pages/themes.php:253 classes/pages/themes.php:1012
+#: classes/pages/themes.php:1179 classes/pages/themes.php:1201
+#: classes/pages/themes.php:1407 classes/pages/themes.php:1802
+#: classes/pages/themes.php:1997 classes/pages/themes.php:2128
+#: classes/pages/themes.php:2266 classes/pages/themes.php:2288
+#: classes/pages/themes.php:2467 classes/pages/themes.php:2621
+#: classes/pages/themes.php:2643
+msgid "Copy"
+msgstr "Копировать"
+
+#: classes/pages/general.php:118
+msgid "CSS Output"
+msgstr "Вывод CSS"
+
+#: classes/pages/general.php:124
+msgid "Save to filesystem"
+msgstr "Сохранить в файловой системе"
+
+#: classes/pages/general.php:131
+msgid "Output in &lt;head&gt;"
+msgstr "Вывод в &lt;head&gt;"
+
+#: classes/pages/general.php:132
+msgid "Don't output CSS"
+msgstr "Не выводить CSS"
+
+#: classes/pages/general.php:135
+msgid "CSS will be saved to wp-content/uploads/maxmegamenu/style.css and enqueued from there."
+msgstr "CSS будет сохраняться в wp-content/uploads/maxmegamenu/style.css и подгружаться оттуда."
+
+#: classes/pages/general.php:136
+msgid "CSS will be loaded from the cache in a &lt;style&gt; tag in the &lt;head&gt; of the page."
+msgstr "CSS будет загружаться из кэша в теге &lt;style&gt; на странице."
+
+#: classes/pages/general.php:138
+msgid "CSS will not be output, you must enqueue the CSS for the menu manually."
+msgstr "CSS не будет выводиться, вы должны настроить вывод CSS для меню вручную."
+
+#: classes/pages/locations.php:749
+msgid "Click Event Behaviour"
+msgstr "Поведение по клику"
+
+#: classes/menu-item-manager.class.php:806
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: classes/menu-item-manager.class.php:808
+#: classes/menu-item-manager.class.php:813
+#: classes/menu-item-manager.class.php:818
+msgid "Max Mega Menu Pro"
+msgstr "Max Mega Menu Pro"
+
+#: classes/nav-menus.class.php:449 classes/pages/locations.php:1500
+msgid "Fade"
+msgstr "Постепенное проявление"
+
+#: classes/pages/locations.php:750
+msgid "Define what should happen when the event is set to 'click'. This also applies to mobiles."
+msgstr "Укажите, что должно происходить по клику. Также применяется к мобильным устройствам."
+
+#: classes/pages/locations.php:1296
+msgid "First click will open the sub menu, second click will close the sub menu."
+msgstr "Первый клик открывает подменю, второй клик закрывает подменю."
+
+#: classes/pages/locations.php:1297
+msgid "First click will open the sub menu, second click will follow the link."
+msgstr "Первый клик открывает подменю, второй клик переходит по ссылке."
+
+#: classes/pages/locations.php:1322
+msgid "Standard - Open sub menus will remain open until closed by the user."
+msgstr "Стандарный - Открытые подменю будут открыты пока пользователь их не закроет."
+
+#: classes/pages/locations.php:1323
+msgid "Accordion - Open sub menus will automatically close when another one is opened."
+msgstr "Аккордеон - Открытые подменю будут автоматически закрываться при открытии новых."
+
+#: classes/pages/locations.php:40 classes/pages/locations.php:265
+#: classes/pages/locations.php:270
+msgid "Menu Locations"
+msgstr "Локации меню"
+
+#: classes/pages/locations.php:909
+msgid "Location Description"
+msgstr "Описание локации"
+
+#: classes/pages/locations.php:864
+msgid "PHP Function"
+msgstr "PHP-функция"
+
+#: classes/pages/locations.php:876
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: classes/pages/locations.php:888
+msgid "Widget"
+msgstr "Виджет"
+
+#: classes/pages/locations.php:1757
+msgid "Add the 'Max Mega Menu' widget to a widget area."
+msgstr "Добавить виджет Max Mega Menu в область виджетов."
+
+#: classes/pages/locations.php:524
+msgid "Delete location"
+msgstr "Удалить локацию"
+
+#: classes/pages/tools.php:130
+msgid "Clear CSS Cache"
+msgstr "Очистить кэш CSS"
+
+#: classes/pages/tools.php:140
+msgid "Plugin Data"
+msgstr "Данные плагина"
+
+#: classes/pages/tools.php:141
+msgid "Delete all saved Max Mega Menu plugin data from the database. Use with caution!"
+msgstr "Удалить все сохраненные данные плагина Max Mega Menu из базы данных. Будьте осторожны!"
+
+#: classes/pages/tools.php:148
+msgid "Delete Data"
+msgstr "Удалить данные"
+
+#: classes/pages/themes.php:607
+msgid "Export Theme"
+msgstr "Экспортировать тему"
+
+#: classes/pages/themes.php:654 classes/pages/themes.php:658
+#: classes/pages/themes.php:666
+msgid "Import Theme"
+msgstr "Импортировать тему"
+
+#: classes/pages/page.php:110
+msgid "Core version"
+msgstr "Основная версия"
+
+#: classes/pages/page.php:114
+msgid "Pro extension"
+msgstr "Pro версия"
+
+#: classes/pages/themes.php:75
+msgid "Menu Themes"
+msgstr "Темы меню"
+
+#: classes/pages/themes.php:491
+msgid "Failed to delete theme. The theme is in use by a menu."
+msgstr "Невозможно удалить тему, т.к. она используется в меню."
+
+#: classes/pages/tools.php:182
+msgid "All plugin data removed"
+msgstr "Все данные плагина удалены"
+
+#: classes/pages/themes.php:499
+msgid "Theme Deleted"
+msgstr "Тема удалена"
+
+#: classes/pages/themes.php:507
+msgid "Theme Duplicated"
+msgstr "Тема дублирована"
+
+#: classes/pages/themes.php:515
+msgid "Theme Reverted"
+msgstr "Тема восстановлена"
+
+#: classes/pages/locations.php:399 classes/pages/locations.php:441
+#: classes/pages/locations.php:482
+msgid "Assign a menu"
+msgstr "Назначить меню"
+
+#: classes/pages/locations.php:311
+msgid "Add another menu location"
+msgstr "Добавить другое положение меню"
+
+#: classes/pages/locations.php:762
+msgid "Define the sub menu toggle behaviour for the mobile menu."
+msgstr "Настройте поведение переключателя подменю для мобильных устройств."
+
+#: classes/pages/locations.php:761
+msgid "Mobile Sub Menu Behaviour"
+msgstr "Поведение подменю на мобильных устройствах"
+
+#: classes/menu-item-manager.class.php:282
+msgid "Select a Widget to add to the panel"
+msgstr "Выбрать виджет для добавления его в панель"
+
+#: classes/menu-item-manager.class.php:818
+msgid "Select icons from your media library with {link}"
+msgstr "Выбрать значки из вашей медиабиблиотеки с помощью {link}"
+
+#: classes/menu-item-manager.class.php:816
+msgid "Custom Icon"
+msgstr "Пользовательский значок"
+
+#: classes/menu-item-manager.class.php:808
+msgid "Get access to over 400 Font Awesome Icons with {link}"
+msgstr "Получите доступ к более чем 400 значкам FontAwesome с помощью {link}"
